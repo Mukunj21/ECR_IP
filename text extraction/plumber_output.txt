@@ -1,0 +1,304 @@
+
+--- Page 1 ---
+In Defense of RAG in the Era of Long-Context Language Models
+TanYu AnbangXu RamaAkkiraju
+NVIDIA NVIDIA NVIDIA
+SantaClara,California SantaClara,California SantaClara,California
+UnitedStates UnitedStates UnitedStates
+tayu@nvidia.com anbangx@nvidia.com rakkiraju@nvidia.com
+Abstract
+Overcomingthelimitedcontextlimitationsin
+early-generation LLMs, retrieval-augmented
+generation(RAG)hasbeenareliablesolution
+forcontext-basedanswergenerationinthepast.
+Recently,theemergenceoflong-contextLLMs
+allowsthemodelstoincorporatemuchlonger
+text sequences, making RAG less attractive.
+Recentstudiesshowthatlong-contextLLMs
+significantlyoutperformRAGinlong-context
+applications. Unliketheexistingworksfavor- (a)F1score.
+ing the long-context LLM over RAG, we ar-
+guethattheextremelylongcontextinLLMs
+suffersfromadiminishedfocusonrelevantin-
+formationandleadstopotentialdegradationin
+answerquality. ThispaperrevisitstheRAGin
+long-contextanswergeneration. Wepropose
+anorder-preserveretrieval-augmentedgenera-
+tion(OP-RAG)mechanism,whichsignificantly
+improves the performance of RAG for long-
+context question-answer applications. With
+OP-RAG, as the number of retrieved chunks
+(b)Inputtokencount.
+increases,theanswerqualityinitiallyrises,and
+then declines, forming an inverted U-shaped
+Figure 1: Comparisons between the proposed order-
+curve.ThereexistsweetpointswhereOP-RAG
+preserveretrieval-augmentedgeneration(OP-RAG)and
+couldachievehigheranswerqualitywithmuch
+approaches using long-context LLMs without RAG
+lesstokensthanlong-contextLLMtakingthe
+on En.QA dataset of ∞Bench. Our OP-RAG uses
+wholecontextasinput. Extensiveexperiments
+Llama3.1-70Basgenerator,whichsignificantlyoutper-
+onpublicbenchmarkdemonstratethesuperior-
+formsitscounterpartusingLlama3.1-70BwithoutRAG.
+ityofourOP-RAG.
+1 Introduction
+Llama3.1(Meta,2024b),Phi-3(Abdinetal.,2024),
+Due to the limited context window length and Mistral-Large2 (AI, 2024) all support 128-K
+(eg, 4096) of early-generation large language context. Gemini-1.5-proevensupportsa1Mcon-
+models (LLMs), retrieval augmented generation textwindow. Therecentemergenceoflong-context
+(RAG)(Guuetal.,2020;Lewisetal.,2020)isan LLMsnaturallyleadstothequestion: isRAGnec-
+indispensablechoicetohandlealarge-scalecontext essaryintheageoflong-contextLLMs? Lietal.
+corpus. Sincetheanswerqualityisheavilydepen- (2024)recentlysystematicallycomparesRAGwith
+dentontheperformanceoftheretrievalmodel,a long-context(LC)LLMs(w/oRAG)anddemon-
+lotofeffortsaredevotedtoimprovingtheretrieval stratesthatLCLLMsconsistentlyoutperformRAG
+recall/precisionwhendesigningtheRAGsystem. intermsofanswerquality.
+Recently, the state-of-art LLMs support much In this work, we re-examine the effectiveness
+longer context windows. For example, GPT- of RAG in long-context answer generation. We
+4O(OpenAI,2023),Claudi-3.5(Anthropic,2024), observe that the order of retrieved chunks in the
+4202
+peS
+3
+]LC.sc[
+1v66610.9042:viXra
+--- Page 2 ---
+contextofLLMisvitalfortheanswerquality. Dif-
+ferent from traditional RAG which places the re-
+trievedchunksinarelevance-descendingorder,we
+proposetopreservetheorderofretrievedchunks
+intheoriginaltext. Ourexperimentsshowthatthe
+proposedorder-preservingmechanismsignificantly
+improvestheanswerqualityofRAG.
+Meanwhile,usingtheproposedorder-preserve
+Figure 2: Vanilla RAG versus the proposed order-
+RAG,asthenumberofretrievedchunksincreases, preserve the RAG. As shown in the example, a long
+theanswerqualityinitiallyrisesandthendeclines. documentiscroppedinto13chunks,{c }13 . Thesim-
+i i=1
+This is because, with more retrieved chunks, the ilarity score is appended to each chunk. We retrieve
+top4chunkswiththehighestsimilarityscores. Vanilla
+model has access to more potentially relevant in-
+RAG places the chunks in a score-descending order,
+formation,whichimprovesthechancesofretriev-
+whereastheproposedorder-preserveRAGplacesthe
+ingthecorrectcontextneededtogenerateahigh-
+chunksbasedontheorderintheoriginaldocument.
+quality answer. However, as more chunks are re-
+trieved,thelikelihoodofintroducingirrelevantor
+distractinginformationalsoincreases. Thisexcess LLMs,RAGisapromisingsolutiontoovercoming
+information can confuse the model, leading to a thelimitationofshortcontextwindow.
+declineinanswerquality. Thetrade-off,therefore, Long-contextLLM.Tosupportthelongsequence
+is between improving recall by retrieving more of language models, many efforts have been de-
+contextandmaintainingprecisionbylimitingdis- voted to improving the computing efficiency of
+tractions. Theoptimalpointiswherethebalance self-attention (Choromanski et al., 2020; Zaheer
+betweenrelevantandirrelevantinformationmaxi- etal.,2020;Tayetal.,2020;Daoetal.,2022;Dao,
+mizesthequalityoftheanswer. Beyondthispoint, 2024)andboostingextensibilityofpositionalen-
+theintroductionoftoomuchirrelevantinformation coding(Pressetal.,2021;Sunetal.,2022;Chen
+degradesthemodel’sperformance. Itexplainsthe etal.,2023). Recently,theflagshipLLMssuchas
+inferior performance of the approach taking the GPT-4O (OpenAI, 2023), Gemini-1.5-Pro (Reid
+wholelongcontextastheinputofLLM. etal.,2024),Claudi-3.5(Anthropic,2024),Grok-
+Different from the conclusion from Li et al. 2(xAI,2024), andLlama3.1(Meta,2024a)have
+(2024),withtheproposedorder-preservingmech- supported extremely large context. With the ex-
+anism,RAGachieveshigheranswerqualitycom- istence of long-context LLMs, RAG is no longer
+paredwithitscounterpartsthatrelysolelyonLong- aindispensablemoduleforlong-contextquestion-
+ContextLLMs. AsshowninFigure4a,OnEn.QA answering task. Recently, Li et al. (2024) con-
+datasetof∞Bench(Zhangetal.,2024),usingonly cludesthatusinglong-contextwithoutRAGcould
+16K retrieved tokens, we achieve 44.43 F1 score significantlyoutperformsRAG.Differentfromthe
+with Llama3.1-70B. In contrast, without RAG, conclusion from (Li et al., 2024), in this work,
+Llama3.1-70B making full use of 128K context wedemonstratetheproposedorder-preserveRAG
+only achieves 34.32 F1 score, GPT-4O achieves couldbeatthelong-contextLLMswithoutRAG.
+only 32.36 F1 score and Gemini-1.5-Pro obtains
+only43.08F1scoreasevaluatedbyLietal.(2024). 3 Order-PreserveRAG
+Thatis,RAGcouldachieveahigherF1scoreeven
+Letusdenotethelongtextualcontext,e.g.,along
+withasignificantreductiononinputlength.
+document,byd. WesplitdintoN chunkssequen-
+tiallyanduniformly,{c }N . Theindexiimplies
+2 RelatedWork i i=1
+the sequential order of the chunk c in d. That is,
+i
+Retrieval-augmentedgeneration. Byincorporat- c i−1 denotesthechunkbeforec i whereasc i+1 de-
+notesthechunkrightafterc . Givenaqueryq,we
+ing the external knowledge as context, retrieval- i
+obtaintherelevancescoreofthechunkc bycom-
+augmented generation (RAG) (Guu et al., 2020; i
+putingcosinesimilaritybetweentheembeddingof
+Lewisetal.,2020;Mialonetal.,2023)allowslan-
+q andthatofc :
+guagemodeltoaccessup-to-dateandspecificin- i
+formation,reducinghallucinationsandimproving
+factual accuracy. Before the era of long-context s = cos(emb(q),emb(c )), (1)
+i i
+--- Page 3 ---
+(a)EN.QA (b)EN.MC
+Figure3: TheinfluenceofcontextlengthontheperformanceofRAG.TheevaluationsareconductedonEn.QAand
+EN.MCdatasetsof∞Bench.
+wherecos(·,·)denotesthecosinesimilarityfunc- theless,theaveragecontextlengthofLongBench
+tionandemb(·)denotestheembeddingfunction. isbelow20Kwords,whichisnotlongenoughto
+We retrieve the top k chunks with the highest evaluatetherecentlong-contextLLMssupporting
+similarityscoreswiththequeryanddenotethein- 128K-tokenwindowsize.
+dicesoftopkchunksbyJ = {j }k . Wepreserve
+i i=1
+theorderofchunksintheoriginallongcontextd, 4.2 Implementationdetails.
+thatis,weconstrain Wesetthechunksizeas128tokensonalldatasets.
+Chunksarenon-overlapped. WeuseBGE-large-en-
+j l > j m ⇐⇒ l > m. (2) v1.5 (Xiao et al., 2023) to extract the embedding
+ofqueriesandchunks,bydefault.
+Figure 2 visualizes the difference between the
+vanillaRAGandtheproposedorder-preserveRAG.
+4.3 AblationStudy
+DifferentfromvanillaRAGplacingthechunksin
+The influence of context length. We evaluate
+the order of similarity descending, the proposed
+the influence of the context length on the perfor-
+order-preserve RAG keep the order of chunks in
+manceoftheproposedorder-preserveRAG.Since
+theoriginaldocument.
+eachchunkcontains128tokens,thecontextlength
+4 Experiments is 128m, where m is the number of the retrieved
+chunksasthecontextforgeneratingtheanswer. As
+4.1 Datasets.
+showninFigure3,asthecontextlengthincreases,
+We conduct experiments on EN.QA and EN.MC theperformanceinitiallyincreases. Thisisbecause
+datasets of ∞Bench (Zhang et al., 2024) bench- morecontextmighthaveagreaterchanceofcover-
+mark,speciallydesignedforlong-contextQAeval- ingtherelevantchunk. Nevertheless,asthecontext
+uation. To be specific, En.QA consists of 351 lengthfurtherincreases,theanswerqualitydrops
+human-annotated question-answer pairs. On av- since more irrelevant chunks are used as distrac-
+erage,thelongcontextinEn.QAcontains150,374 tions. Tobespecific,Llama3.1-8Bmodelachieves
+words. WeuseF1-scoreasmetricforevaluationon the performance peak when the context length is
+En.QA. EN.MC consists of 224 question-answer 16K on both EN.QA dataset and EN.MC dataset,
+pairs,whichareannotatedsimilarlytoEn.QA,but whereas the best performance of Llama3.1-70B
+eachquestionisprovidedwithfouranswerchoices. modelisachievedat48KonEN.QAand32Kon
+On average, the long context in En.MC contains EN.MC.ThefactthatthepeakpointofLlama3.1-
+142,622words. Weuseaccuracyasmetricforeval- 70B comes later than Llama3.1-8B model might
+uationonEn.QA.Wenoticethereisanotherbench- be because the larger-scale model has a stronger
+marktermedLongBench(Baietal.,2023). Never- capabilitytodistinguishtherelevantchunksfrom
+--- Page 4 ---
+(a)EN.QA (b)EN.MC
+Figure4: Comparisonsbetweentheproposedorder-preserveRAGandvanillaRAG.Theevaluationsareconducted
+onEn.QAandEN.MCdatasetsof∞Bench,usingLlama3.1-70Bmodel.
+irrelevantdistractions. Method EN.QA EN.MC
+F1Score Tokens Acc. Tokens
+Order-preserve RAG versus vanilla RAG. As
+Long-contextLLMw/oRAG
+showninFigure4,whenthenumberofretrieved
+Llama3.1-70B 34.26 117K 71.62 117K
+chunksaresmall(e.g,8),theadvantageofthepro- GPT-4O 32.36 117K 78.42 117K
+posedorder-preserveRAGovervanillaRAGisnot Gemini-1.5-Pro 43.08 196K 85.57 188K
+SELF-ROUTE(Lietal.,2024)
+considerably. Incontrast,whenthenumberofre-
+GPT-4O 34.95 85K 77.29 62K
+trieved chunks is large, our order-preserve RAG
+Gemini-1.5-Pro 37.51 83K 76.86 62K
+significantlyoutperformsvanillaRAG.Tobespe-
+Llama3.1-70Border-preserveRAG(ours)
+cific, on EN.QA dataset, when the number of re- OP-RAG-16K 44.43 16K 84.72 16K
+trieved chunk is 128, vanilla RAG only achieves OP-RAG-24K 45.45 24K 88.65 24K
+OP-RAG-48K 47.25 48K 85.59 48K
+38.40 F1-score whereas our order-preserve RAG
+achieves 44.43 F1-score. On EN.MC dataset, re-
+Table 1: Comparisons among the long-context LLM
+trieving192chunks,vaniallaRAGonlyachieves without RAG, SELF-ROUTE mechanism (Li et al.,
+81.22 accuracy whereas our order-preserve RAG 2024)andtheproposedorder-preserve(OP)RAG.
+obtains88.65accuracy.
+4.4 MainResults cantlyoutperformsthanusingmuchfewertokens
+intheinputofLLMs.
+Wecomparetheproposedorder-preserveRAGwith
+two types of baselines. The first category of ap-
+5 Conclusion
+proachesusesthelong-contextLLMwithoutRAG.
+AsshowninTable1,withoutRAG,LLMtakesa Inthispaper,wehaverevisitedtheroleofretrieval-
+hugenumberoftokensasinput,whichisinefficient augmented generation (RAG) in the era of long-
+andcostly. Incontrast,theproposedorder-preserve context language models (LLMs). While recent
+RAGnotonlysignificantlyreducesthenumberof trendshavefavoredlong-contextLLMsoverRAG
+tokens,butalsosignificantlyimprovestheanswer for their ability to incorporate extensive text se-
+quality. Forinstance,usingLlama3.1-70Bmodel, quences,ourresearchchallengesthisperspective.
+theapproachwithoutRAGonlyachievesa34.26 We argue that extremely long contexts in LLMs
+F1 score on EN.QA with an average of 117K to- can lead to a diminished focus on relevant infor-
+kensasinput. Incontrast,ourOP-RAGwith48K mation, potentially degrading answer quality in
+tokensasinputattainsa47.25F1score. Thesec- question-answeringtasks. Toaddressthisissue,we
+ondcategoryofbaselinestakestheSELF-ROUTE proposed the order-preserve retrieval-augmented
+mechanism(Lietal.,2024),whichroutesqueries generation(OP-RAG)mechanism. Ourextensive
+toRAGorlong-contextLLMbasedonthemodel experiments on public benchmarks have demon-
+self-reflection. AsshowninTable1, ourssignifi- strated that OP-RAG significantly improves the
+--- Page 5 ---
+performance of RAG for long-context question- Meta.2024a. Introducingllama3.1: Ourmostcapable
+answer applications. OP-RAG’s superior perfor- modelstodate.
+mancesuggeststhatefficientretrievalandfocused
+Meta.2024b. Llama3.1models.
+contextutilizationcanoutperformthebrute-force
+approachofprocessingextremelylongcontexts. GrégoireMialon,RobertoDessì,MariaLomeli,Christo-
+forosNalmpantis,RamPasunuru,RobertaRaileanu,
+Baptiste Rozière, Timo Schick, Jane Dwivedi-Yu,
+AsliCelikyilmaz,etal.2023. Augmentedlanguage
+References
+models: asurvey. arXivpreprintarXiv:2302.07842.
+MarahAbdin,SamAdeJacobs,AmmarAhmadAwan,
+OpenAI. 2023. GPT-4 technical report. ArXiv,
+Jyoti Aneja, Ahmed Awadallah, Hany Awadalla,
+2303:08774.
+NguyenBach,AmitBahree,ArashBakhtiari,Harki-
+ratBehl,etal.2024. Phi-3technicalreport: Ahighly
+Ofir Press, Noah A Smith, and Mike Lewis. 2021.
+capablelanguagemodellocallyonyourphone. arXiv
+Train short, test long: Attention with linear biases
+preprintarXiv:2404.14219.
+enables input length extrapolation. arXiv preprint
+MistralAI.2024. Mistrallarge2.
+arXiv:2108.12409.
+Anthropic.2024. Claude3.5sonnet. Machel Reid, Nikolay Savinov, Denis Teplyashin,
+Dmitry Lepikhin, Timothy Lillicrap, Jean-baptiste
+Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, Alayrac,RaduSoricut,AngelikiLazaridou,OrhanFi-
+JiankaiTang,ZhidianHuang,ZhengxiaoDu,Xiao rat,JulianSchrittwieser,etal.2024. Gemini1.5: Un-
+Liu,AohanZeng,LeiHou,YuxiaoDong,JieTang, lockingmultimodalunderstandingacrossmillionsof
+andJuanziLi.2023. Longbench: Abilingual,mul- tokensofcontext. arXivpreprintarXiv:2403.05530.
+titask benchmark for long context understanding.
+arXivpreprintarXiv:2308.14508. YutaoSun,LiDong,BarunPatra,ShumingMa,Shao-
+hanHuang,AlonBenhaim,VishravChaudhary,Xia
+ShouyuanChen,ShermanWong,LiangjianChen,and Song,andFuruWei.2022. Alength-extrapolatable
+YuandongTian.2023. Extendingcontextwindowof transformer. arXivpreprintarXiv:2212.10554.
+large language models via positional interpolation.
+arXivpreprintarXiv:2306.15595. YiTay,MostafaDehghani,DaraBahri,andDonaldMet-
+zler.2020. Efficienttransformers: Asurvey.(2020).
+KrzysztofChoromanski,ValeriiLikhosherstov,David
+arXivpreprintcs.LG/2009.06732.
+Dohan, Xingyou Song, Andreea Gane, Tamas Sar-
+los,PeterHawkins,JaredDavis,AfrozMohiuddin, xAI.2024. Grok-2betarelease.
+LukaszKaiser,etal.2020. Rethinkingattentionwith
+performers. arXivpreprintarXiv:2009.14794. Shitao Xiao, Zheng Liu, Peitian Zhang, and Niklas
+Muennighoff. 2023. C-pack: Packaged resources
+TriDao.2024. FlashAttention-2: Fasterattentionwith to advance general chinese embedding. Preprint,
+better parallelism and work partitioning. In Inter- arXiv:2309.07597.
+national Conference on Learning Representations
+(ICLR). Manzil Zaheer, Guru Guruganesh, Kumar Avinava
+Dubey,JoshuaAinslie,ChrisAlberti,SantiagoOn-
+Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra,
+tanon, Philip Pham, Anirudh Ravula, Qifan Wang,
+andChristopherRé.2022. FlashAttention: Fastand
+Li Yang, et al. 2020. Big bird: Transformers for
+memory-efficientexactattentionwithIO-awareness.
+longersequences. Advancesinneuralinformation
+InAdvancesinNeuralInformationProcessingSys-
+processingsystems,33:17283–17297.
+tems(NeurIPS).
+Xinrong Zhang, Yingfa Chen, Shengding Hu, Zi-
+KelvinGuu,KentonLee,ZoraTung,PanupongPasu-
+hang Xu, Junhao Chen, Moo Khai Hao, Xu Han,
+pat,andMingweiChang.2020. Retrievalaugmented
+Zhen Leng Thai, Shuo Wang, Zhiyuan Liu, and
+languagemodelpre-training. InInternationalconfer-
+Maosong Sun. 2024. ∞bench: Extending long
+enceonmachinelearning,pages3929–3938.PMLR.
+context evaluation beyond 100k tokens. Preprint,
+arXiv:2402.13718.
+PatrickLewis,EthanPerez,AleksandraPiktus,Fabio
+Petroni,VladimirKarpukhin,NamanGoyal,Hein-
+richKüttler, MikeLewis, Wen-tauYih, TimRock-
+täschel,etal.2020. Retrieval-augmentedgeneration
+forknowledge-intensivenlptasks. AdvancesinNeu-
+ralInformationProcessingSystems,33:9459–9474.
+Zhuowan Li, Cheng Li, Mingyang Zhang, Qiaozhu
+Mei,andMichaelBendersky.2024. Retrievalaug-
+mentedgenerationorlong-contextllms? acompre-
+hensivestudyandhybridapproach. arXivpreprint
+arXiv:2407.16833.
