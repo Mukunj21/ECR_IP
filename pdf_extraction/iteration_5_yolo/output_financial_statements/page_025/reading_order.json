@@ -1,0 +1,197 @@
+[
+  {
+    "order": 1,
+    "idx": 1,
+    "label": "title",
+    "bbox": [
+      55,
+      218,
+      557,
+      268
+    ],
+    "role": "heading",
+    "note": "Main page title."
+  },
+  {
+    "order": 2,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      55,
+      347,
+      476,
+      374
+    ],
+    "role": "text",
+    "note": "Introductory statement heading and first bullet line."
+  },
+  {
+    "order": 3,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      56,
+      376,
+      506,
+      430
+    ],
+    "role": "text",
+    "note": "Bullet list continuing the introductory explanation."
+  },
+  {
+    "order": 4,
+    "idx": 9,
+    "label": "figure",
+    "bbox": [
+      62,
+      442,
+      124,
+      503
+    ],
+    "role": "figure",
+    "note": "Icon for the operating cash flow section."
+  },
+  {
+    "order": 5,
+    "idx": 14,
+    "label": "plain text",
+    "bbox": [
+      139,
+      463,
+      251,
+      488
+    ],
+    "role": "text",
+    "note": "Operating section label."
+  },
+  {
+    "order": 6,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      1019,
+      399,
+      1506,
+      509
+    ],
+    "role": "text",
+    "note": "Right-side explanation for operating activities."
+  },
+  {
+    "order": 7,
+    "idx": 13,
+    "label": "figure",
+    "bbox": [
+      60,
+      604,
+      125,
+      668
+    ],
+    "role": "figure",
+    "note": "Icon for the investing cash flow section."
+  },
+  {
+    "order": 8,
+    "idx": 12,
+    "label": "figure",
+    "bbox": [
+      53,
+      597,
+      1171,
+      673
+    ],
+    "role": "figure",
+    "note": "Investing section bar and connector graphic."
+  },
+  {
+    "order": 9,
+    "idx": 11,
+    "label": "plain text",
+    "bbox": [
+      1020,
+      627,
+      1359,
+      681
+    ],
+    "role": "text",
+    "note": "Investing section explanatory text."
+  },
+  {
+    "order": 10,
+    "idx": 16,
+    "label": "plain text",
+    "bbox": [
+      1019,
+      599,
+      1501,
+      681
+    ],
+    "role": "text",
+    "note": "Investing section right-side text block."
+  },
+  {
+    "order": 11,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      1018,
+      789,
+      1483,
+      871
+    ],
+    "role": "text",
+    "note": "Financing section explanation."
+  },
+  {
+    "order": 12,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      1404,
+      1001,
+      1529,
+      1027
+    ],
+    "role": "skip",
+    "note": "Footer page/source text."
+  },
+  {
+    "order": 13,
+    "idx": 5,
+    "label": "abandon",
+    "bbox": [
+      54,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer publication text."
+  },
+  {
+    "order": 14,
+    "idx": 15,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Duplicate footer publication text."
+  },
+  {
+    "order": 15,
+    "idx": 10,
+    "label": "abandon",
+    "bbox": [
+      1510,
+      1014,
+      1529,
+      1029
+    ],
+    "role": "skip",
+    "note": "Page number/footer artifact."
+  }
+]

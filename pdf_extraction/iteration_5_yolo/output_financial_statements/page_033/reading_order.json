@@ -1,0 +1,67 @@
+[
+  {
+    "order": 1,
+    "idx": 1,
+    "label": "title",
+    "bbox": [
+      53,
+      217,
+      652,
+      271
+    ],
+    "role": "text",
+    "note": "Main page title: Contents of an annual report"
+  },
+  {
+    "order": 2,
+    "idx": 5,
+    "label": "title",
+    "bbox": [
+      55,
+      346,
+      477,
+      376
+    ],
+    "role": "text",
+    "note": "Introductory heading above the report contents grid"
+  },
+  {
+    "order": 3,
+    "idx": 2,
+    "label": "figure",
+    "bbox": [
+      74,
+      399,
+      1553,
+      944
+    ],
+    "role": "figure",
+    "note": "Content grid of annual report sections"
+  },
+  {
+    "order": 4,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      1403,
+      1001,
+      1526,
+      1027
+    ],
+    "role": "skip",
+    "note": "Footer page number/source area"
+  },
+  {
+    "order": 5,
+    "idx": 7,
+    "label": "abandon",
+    "bbox": [
+      54,
+      1012,
+      382,
+      1033
+    ],
+    "role": "skip",
+    "note": "Footer publication text"
+  }
+]

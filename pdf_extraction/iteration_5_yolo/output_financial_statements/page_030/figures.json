@@ -1,0 +1,32 @@
+[
+  {
+    "type": "figure",
+    "description": "Company accounting standards",
+    "page": 30
+  },
+  {
+    "type": "figure",
+    "description": "Revenue is recognized",
+    "page": 30
+  },
+  {
+    "type": "figure",
+    "description": "Property, plant & equipment is amortized",
+    "page": 30
+  },
+  {
+    "type": "figure",
+    "description": "A breakdown of the types of investments",
+    "page": 30
+  },
+  {
+    "type": "figure",
+    "description": "Debt and financial instruments",
+    "page": 30
+  },
+  {
+    "type": "figure",
+    "description": "Included items boxes: Inventory, Intangible assets, PP&E, Income taxes, Commitments, Contingencies, Stock based compensation plans",
+    "page": 30
+  }
+]

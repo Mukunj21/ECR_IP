@@ -1,0 +1,327 @@
+[
+  {
+    "type": "figure",
+    "description": "A woman with glasses sitting at a table using a laptop and reading papers.",
+    "page": 2
+  },
+  {
+    "type": "figure",
+    "description": "document icon for Balance Sheet section",
+    "page": 4
+  },
+  {
+    "type": "figure",
+    "description": "document icon for Income Statement section",
+    "page": 4
+  },
+  {
+    "type": "figure",
+    "description": "Three-category balance sheet diagram showing Assets, Liabilities, and Equity",
+    "page": 6
+  },
+  {
+    "type": "figure",
+    "description": "Current assets icon",
+    "page": 6
+  },
+  {
+    "type": "figure",
+    "description": "Current liabilities icon",
+    "page": 6
+  },
+  {
+    "type": "figure",
+    "description": "Non-current assets icon",
+    "page": 6
+  },
+  {
+    "type": "figure",
+    "description": "Non-current liabilities icon",
+    "page": 6
+  },
+  {
+    "type": "figure",
+    "description": "An illustrative balance sheet showing assets, liabilities, and equity for 2018 and 2019, with callouts explaining current and non-current assets.",
+    "page": 7
+  },
+  {
+    "type": "figure",
+    "description": "Diagram showing external investments, internal investments, short term, and long term categories, with notes about equity or debt instruments held for capital gain and/or income; investments in subsidiaries, associates and joint ventures; less than year; more than year.",
+    "page": 8
+  },
+  {
+    "type": "figure",
+    "description": "Photo of a man using a tablet.",
+    "page": 8
+  },
+  {
+    "type": "figure",
+    "description": "Trademarks, Patents, Copyrights",
+    "page": 9
+  },
+  {
+    "type": "figure",
+    "description": "Illustrative balance sheet table and diagram showing current and non-current liabilities. The table lists assets, liabilities, equity, and totals for 2018 and 2019; callouts explain that current liabilities will be paid in less than 1 year and include trade accounts payable, while non-current liabilities have repayment terms longer than 1 year and may be repaid over a 5 year period.",
+    "page": 10
+  },
+  {
+    "type": "figure",
+    "description": "Illustration showing commitments related to new buildings, leasehold improvements, and building improvements.",
+    "page": 11
+  },
+  {
+    "type": "figure",
+    "description": "Photo of two people working at a laptop in an office setting.",
+    "page": 11
+  },
+  {
+    "type": "figure",
+    "description": "Illustrative balance sheet layout showing a consolidated statement of financial position on the left and a consolidated statement of changes in equity on the right.",
+    "page": 12
+  },
+  {
+    "type": "figure",
+    "description": "Share capital diagram showing authorised and issued and fully paid ordinary stock units for 2018 and 2019",
+    "page": 13
+  },
+  {
+    "type": "figure",
+    "description": "Diagram showing contributed surplus, with par and receives labels, and colored blocks indicating the flow.",
+    "page": 14
+  },
+  {
+    "type": "figure",
+    "description": "Photo of a person working at a desk with a laptop and external monitor.",
+    "page": 14
+  },
+  {
+    "type": "table",
+    "description": "Paid-up share capital (180,000 x 25¢) $45,000; Contributed surplus (180,000 x 15¢) $27,000",
+    "page": 14
+  },
+  {
+    "type": "figure",
+    "description": "Revenues section banner",
+    "page": 17
+  },
+  {
+    "type": "figure",
+    "description": "Expenses section banner",
+    "page": 17
+  },
+  {
+    "type": "figure",
+    "description": "Profit or loss section banner",
+    "page": 17
+  },
+  {
+    "type": "figure",
+    "description": "Photo of hands typing on a laptop",
+    "page": 17
+  },
+  {
+    "type": "figure",
+    "description": "Stair-step illustration",
+    "page": 18
+  },
+  {
+    "type": "table",
+    "description": "Single-step income statement example",
+    "page": 18
+  },
+  {
+    "type": "figure",
+    "description": "Stair-step illustration with red upward arrow",
+    "page": 18
+  },
+  {
+    "type": "table",
+    "description": "Multiple-step income statement example",
+    "page": 18
+  },
+  {
+    "type": "figure",
+    "description": "Consolidated Statement of Comprehensive Income for year ended 30 June 2019, showing revenue, expenses, operating profit, profit before taxation, net profit, other comprehensive income, total comprehensive income, and earnings per stock unit for 2018 and 2019, with callouts for Operating Profit, Net Operating Profit, OCI-other gains and losses, and EPS–Investor Ratio.",
+    "page": 19
+  },
+  {
+    "type": "figure",
+    "description": "Direct Labor bar with icon on the left.",
+    "page": 20
+  },
+  {
+    "type": "figure",
+    "description": "Direct overhead bar with icon on the left.",
+    "page": 20
+  },
+  {
+    "type": "figure",
+    "description": "Main right-side photo of a man wearing headphones and glasses, writing in a notebook beside a laptop.",
+    "page": 20
+  },
+  {
+    "type": "figure",
+    "description": "Advertising and promotion cost",
+    "page": 21
+  },
+  {
+    "type": "figure",
+    "description": "Legal, Insurance and accounting expenses.",
+    "page": 21
+  },
+  {
+    "type": "figure",
+    "description": "Office supplies",
+    "page": 21
+  },
+  {
+    "type": "figure",
+    "description": "Other related expenses.",
+    "page": 21
+  },
+  {
+    "type": "figure",
+    "description": "Sale of Investments",
+    "page": 22
+  },
+  {
+    "type": "figure",
+    "description": "Foreign exchange translations",
+    "page": 22
+  },
+  {
+    "type": "figure",
+    "description": "Financial Instrument transactions",
+    "page": 22
+  },
+  {
+    "type": "figure",
+    "description": "Photo of a woman using a tablet in an office",
+    "page": 22
+  },
+  {
+    "type": "figure",
+    "description": "hand holding a pen in front of a financial candlestick chart with blue grid background",
+    "page": 23
+  },
+  {
+    "type": "figure",
+    "description": "Operating cash flow section icon",
+    "page": 25
+  },
+  {
+    "type": "figure",
+    "description": "Investing cash flow section icon",
+    "page": 25
+  },
+  {
+    "type": "figure",
+    "description": "Investing section bar and connector graphic",
+    "page": 25
+  },
+  {
+    "type": "figure",
+    "description": "Diagram showing operating, investing, and financing cash flow categories on the left, and on the right the opening cash balance, all cash transactions, and the closing cash balance connected by a dotted upward path.",
+    "page": 26
+  },
+  {
+    "type": "figure",
+    "description": "Diagram showing the opening cash balance, all cash transactions, and the closing cash balance connected by a dotted upward path.",
+    "page": 26
+  },
+  {
+    "type": "figure",
+    "description": "Comparison of cash flow statement presentation methods. Left side: Direct method with operating activities, investing activities, financing activities, and net movement in cash. Right side: Indirect method with net income, depreciation/amortization, working capital adjustments, and the same investing and financing sections.",
+    "page": 27
+  },
+  {
+    "type": "figure",
+    "description": "Comparison of cash flow statement presentation methods. Left side: Direct method with operating activities, investing activities, financing activities, and net movement in cash. Right side: Indirect method with net income, depreciation/amortization, working capital adjustments, and the same investing and financing sections.",
+    "page": 27
+  },
+  {
+    "type": "figure",
+    "description": "Diagram showing four key elements in a cash flow statement: Net cash provided by operating activities; Changes in working capital; PPE Investment; Financing requirement/surplus. Each item is paired with explanatory text about business operating cash flow, working capital stress or control, PPE investment needs, and whether internal funds cover investments or require external finance.",
+    "page": 28
+  },
+  {
+    "type": "table",
+    "description": "Consolidated Statement of Financial Position, year ended 30 June 2019, showing assets, liabilities, and equity for 2018 and 2019.",
+    "page": 29
+  },
+  {
+    "type": "figure",
+    "description": "Company accounting standards",
+    "page": 30
+  },
+  {
+    "type": "figure",
+    "description": "Revenue is recognized",
+    "page": 30
+  },
+  {
+    "type": "figure",
+    "description": "Property, plant & equipment is amortized",
+    "page": 30
+  },
+  {
+    "type": "figure",
+    "description": "A breakdown of the types of investments",
+    "page": 30
+  },
+  {
+    "type": "figure",
+    "description": "Debt and financial instruments",
+    "page": 30
+  },
+  {
+    "type": "figure",
+    "description": "Included items boxes: Inventory, Intangible assets, PP&E, Income taxes, Commitments, Contingencies, Stock based compensation plans",
+    "page": 30
+  },
+  {
+    "type": "figure",
+    "description": "Performance Ratio icon/illustration",
+    "page": 31
+  },
+  {
+    "type": "figure",
+    "description": "Solvency Ratios icon/illustration",
+    "page": 31
+  },
+  {
+    "type": "figure",
+    "description": "Investor Ratios icon/illustration",
+    "page": 31
+  },
+  {
+    "type": "figure",
+    "description": "Financial icon graphic",
+    "page": 32
+  },
+  {
+    "type": "figure",
+    "description": "Non-financial icon graphic",
+    "page": 32
+  },
+  {
+    "type": "figure",
+    "description": "Pie chart showing operational performance, financial performance, and strategic direction",
+    "page": 32
+  },
+  {
+    "type": "figure",
+    "description": "A grid of nine annual report content sections labeled 01–09, including Letters to the shareholders, Business description, Management’s Discussion and Analysis (MD&A), Reporting on internal controls, Audit report, Balance sheet / Income Statement / Statement of Cash Flows, Notes to the financial statements, Earnings per share, and Earnings per share / Listing of directors of the company.",
+    "page": 33
+  },
+  {
+    "type": "figure",
+    "description": "Four-box infographic stating: “Acts as sort of variance analysis”; “Explains company performance”; “Lists future actions to be taken”; “Identifies the key risk facing the organization.”",
+    "page": 34
+  },
+  {
+    "type": "figure",
+    "description": "Illustration of a person working at a desk with a laptop.",
+    "page": 34
+  }
+]

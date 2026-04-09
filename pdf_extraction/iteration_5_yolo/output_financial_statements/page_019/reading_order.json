@@ -1,0 +1,67 @@
+[
+  {
+    "order": 1,
+    "idx": 2,
+    "label": "title",
+    "bbox": [
+      56,
+      215,
+      752,
+      264
+    ],
+    "role": "title",
+    "note": "Page title: The Illustrative income statement."
+  },
+  {
+    "order": 2,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      41,
+      300,
+      1509,
+      1058
+    ],
+    "role": "figure",
+    "note": "Main income statement diagram with highlighted callouts and annotations."
+  },
+  {
+    "order": 3,
+    "idx": 5,
+    "label": "figure_caption",
+    "bbox": [
+      56,
+      215,
+      752,
+      264
+    ],
+    "role": "skip",
+    "note": "Duplicate/overlapping with title; no separate caption visible."
+  },
+  {
+    "order": 4,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer text/logo area; not part of reading content."
+  },
+  {
+    "order": 5,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      1510,
+      1014,
+      1529,
+      1030
+    ],
+    "role": "skip",
+    "note": "Page number in footer; skip."
+  }
+]

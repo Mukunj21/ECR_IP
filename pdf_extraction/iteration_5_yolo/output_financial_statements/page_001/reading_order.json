@@ -1,0 +1,41 @@
+[
+  {
+    "order": 1,
+    "idx": 1,
+    "label": "title",
+    "bbox": [
+      49,
+      371,
+      753,
+      611
+    ],
+    "role": "title",
+    "note": "Main cover title"
+  },
+  {
+    "order": 2,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      53,
+      681,
+      259,
+      715
+    ],
+    "role": "text",
+    "note": "Publication date"
+  },
+  {
+    "order": 3,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      44,
+      880,
+      218,
+      1013
+    ],
+    "role": "skip",
+    "note": "Logo/branding mark at bottom left"
+  }
+]

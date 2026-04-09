@@ -1,0 +1,54 @@
+[
+  {
+    "order": 1,
+    "idx": 2,
+    "label": "title",
+    "bbox": [
+      78,
+      242,
+      1365,
+      287
+    ],
+    "role": "title",
+    "note": "Main slide title."
+  },
+  {
+    "order": 2,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      56,
+      347,
+      1504,
+      990
+    ],
+    "role": "figure",
+    "note": "Main comparison figure/table spanning the page."
+  },
+  {
+    "order": 3,
+    "idx": 4,
+    "label": "table_footnote",
+    "bbox": [
+      88,
+      1012,
+      824,
+      1030
+    ],
+    "role": "skip",
+    "note": "Footer disclaimer text."
+  },
+  {
+    "order": 4,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      1306,
+      1012,
+      1503,
+      1031
+    ],
+    "role": "skip",
+    "note": "Page number / footer branding area."
+  }
+]

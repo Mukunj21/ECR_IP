@@ -1,0 +1,158 @@
+[
+  {
+    "order": 1,
+    "idx": 6,
+    "label": "table_caption",
+    "bbox": [
+      208,
+      80,
+      462,
+      101
+    ],
+    "role": "text",
+    "note": "Caption for the first table: '15. Educational Qualification :'"
+  },
+  {
+    "order": 2,
+    "idx": 1,
+    "label": "table",
+    "bbox": [
+      200,
+      100,
+      1120,
+      435
+    ],
+    "role": "table",
+    "note": "Educational qualification table"
+  },
+  {
+    "order": 3,
+    "idx": 9,
+    "label": "table_caption",
+    "bbox": [
+      210,
+      453,
+      351,
+      477
+    ],
+    "role": "text",
+    "note": "Caption for the second table: '16. Experience :'"
+  },
+  {
+    "order": 4,
+    "idx": 2,
+    "label": "table",
+    "bbox": [
+      200,
+      515,
+      1120,
+      699
+    ],
+    "role": "table",
+    "note": "Experience table"
+  },
+  {
+    "order": 5,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      208,
+      715,
+      956,
+      744
+    ],
+    "role": "text",
+    "note": "Instructional line: '17. If employed in Govt. Dept. / PSU, whether applied through proper channel : Yes / No.'"
+  },
+  {
+    "order": 6,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      208,
+      716,
+      946,
+      743
+    ],
+    "role": "text",
+    "note": "Duplicate of the line for item 17; kept once in reading order"
+  },
+  {
+    "order": 7,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      210,
+      760,
+      1017,
+      809
+    ],
+    "role": "text",
+    "note": "Payment details line: '18. DD No.... Date.... Name of Issuing Branch.... Branch Code No....'"
+  },
+  {
+    "order": 8,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      209,
+      832,
+      1108,
+      1085
+    ],
+    "role": "text",
+    "note": "Declaration paragraph"
+  },
+  {
+    "order": 9,
+    "idx": 11,
+    "label": "title",
+    "bbox": [
+      210,
+      1125,
+      265,
+      1148
+    ],
+    "role": "text",
+    "note": "Date field label"
+  },
+  {
+    "order": 10,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      210,
+      1191,
+      272,
+      1214
+    ],
+    "role": "text",
+    "note": "Place field label"
+  },
+  {
+    "order": 11,
+    "idx": 7,
+    "label": "abandon",
+    "bbox": [
+      752,
+      1191,
+      952,
+      1215
+    ],
+    "role": "text",
+    "note": "Signature line text: '(Signature of Applicant)'"
+  },
+  {
+    "order": 12,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      1037,
+      1468,
+      1102,
+      1491
+    ],
+    "role": "skip",
+    "note": "Page number footer"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "order": 1,
+    "idx": 3,
+    "label": "title",
+    "bbox": [
+      56,
+      218,
+      399,
+      268
+    ],
+    "role": "title",
+    "note": "Page section title"
+  },
+  {
+    "order": 2,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      53,
+      346,
+      761,
+      431
+    ],
+    "role": "text",
+    "note": "Introductory paragraph"
+  },
+  {
+    "order": 3,
+    "idx": 11,
+    "label": "figure",
+    "bbox": [
+      56,
+      436,
+      768,
+      510
+    ],
+    "role": "figure",
+    "note": "First illustrated content block"
+  },
+  {
+    "order": 4,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      139,
+      462,
+      359,
+      487
+    ],
+    "role": "caption",
+    "note": "Caption/label for the first item"
+  },
+  {
+    "order": 5,
+    "idx": 12,
+    "label": "figure",
+    "bbox": [
+      57,
+      598,
+      769,
+      673
+    ],
+    "role": "figure",
+    "note": "Second illustrated content block"
+  },
+  {
+    "order": 6,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      138,
+      625,
+      477,
+      651
+    ],
+    "role": "caption",
+    "note": "Caption/label for the second item"
+  },
+  {
+    "order": 7,
+    "idx": 10,
+    "label": "figure",
+    "bbox": [
+      56,
+      760,
+      769,
+      838
+    ],
+    "role": "figure",
+    "note": "Third illustrated content block"
+  },
+  {
+    "order": 8,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      812,
+      351,
+      1527,
+      1003
+    ],
+    "role": "figure",
+    "note": "Main right-side photo"
+  },
+  {
+    "order": 9,
+    "idx": 6,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer text"
+  },
+  {
+    "order": 10,
+    "idx": 5,
+    "label": "abandon",
+    "bbox": [
+      692,
+      965,
+      781,
+      986
+    ],
+    "role": "skip",
+    "note": "Source note near bottom"
+  },
+  {
+    "order": 11,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      1509,
+      1013,
+      1529,
+      1030
+    ],
+    "role": "skip",
+    "note": "Page number"
+  }
+]

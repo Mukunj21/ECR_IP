@@ -1,0 +1,171 @@
+[
+  {
+    "order": 1,
+    "idx": 7,
+    "label": "title",
+    "bbox": [
+      505,
+      100,
+      811,
+      132
+    ],
+    "role": "title",
+    "note": "Main page heading"
+  },
+  {
+    "order": 2,
+    "idx": 1,
+    "label": "table",
+    "bbox": [
+      476,
+      139,
+      809,
+      396
+    ],
+    "role": "table",
+    "note": "Photo affix box/instruction block"
+  },
+  {
+    "order": 3,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      208,
+      415,
+      1107,
+      602
+    ],
+    "role": "text",
+    "note": "Certification statement paragraph"
+  },
+  {
+    "order": 4,
+    "idx": 4,
+    "label": "title",
+    "bbox": [
+      209,
+      636,
+      487,
+      665
+    ],
+    "role": "section heading",
+    "note": "Permanent address section heading"
+  },
+  {
+    "order": 5,
+    "idx": 9,
+    "label": "figure",
+    "bbox": [
+      273,
+      684,
+      1012,
+      796
+    ],
+    "role": "figure",
+    "note": "Blank lines for permanent address entry"
+  },
+  {
+    "order": 6,
+    "idx": 5,
+    "label": "title",
+    "bbox": [
+      208,
+      818,
+      452,
+      847
+    ],
+    "role": "section heading",
+    "note": "Present address section heading"
+  },
+  {
+    "order": 7,
+    "idx": 14,
+    "label": "plain text",
+    "bbox": [
+      208,
+      1001,
+      998,
+      1029
+    ],
+    "role": "text",
+    "note": "Candidate signature line"
+  },
+  {
+    "order": 8,
+    "idx": 17,
+    "label": "plain text",
+    "bbox": [
+      210,
+      1052,
+      556,
+      1082
+    ],
+    "role": "text",
+    "note": "Certifying officer signature line"
+  },
+  {
+    "order": 9,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      207,
+      1106,
+      998,
+      1135
+    ],
+    "role": "text",
+    "note": "Name of certifying officer line"
+  },
+  {
+    "order": 10,
+    "idx": 18,
+    "label": "plain text",
+    "bbox": [
+      210,
+      1156,
+      560,
+      1186
+    ],
+    "role": "text",
+    "note": "Phone number of certifying officer line"
+  },
+  {
+    "order": 11,
+    "idx": 11,
+    "label": "plain text",
+    "bbox": [
+      209,
+      1235,
+      997,
+      1289
+    ],
+    "role": "text",
+    "note": "Designation and seal of office line"
+  },
+  {
+    "order": 12,
+    "idx": 2,
+    "label": "title",
+    "bbox": [
+      209,
+      1338,
+      1105,
+      1446
+    ],
+    "role": "text",
+    "note": "Certification note"
+  },
+  {
+    "order": 13,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      1037,
+      1468,
+      1102,
+      1492
+    ],
+    "role": "skip",
+    "note": "Page number"
+  }
+]

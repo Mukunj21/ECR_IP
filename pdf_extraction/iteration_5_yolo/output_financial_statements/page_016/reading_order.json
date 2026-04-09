@@ -1,0 +1,41 @@
+[
+  {
+    "order": 1,
+    "idx": 3,
+    "label": "title",
+    "bbox": [
+      66,
+      580,
+      657,
+      652
+    ],
+    "role": "title",
+    "note": "Main slide title: Income statement."
+  },
+  {
+    "order": 2,
+    "idx": 1,
+    "label": "abandon",
+    "bbox": [
+      52,
+      1012,
+      382,
+      1033
+    ],
+    "role": "skip",
+    "note": "Footer branding text."
+  },
+  {
+    "order": 3,
+    "idx": 2,
+    "label": "abandon",
+    "bbox": [
+      1509,
+      1013,
+      1529,
+      1031
+    ],
+    "role": "skip",
+    "note": "Page number 16."
+  }
+]

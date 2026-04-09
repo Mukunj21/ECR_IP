@@ -1,0 +1,171 @@
+[
+  {
+    "order": 1,
+    "idx": 3,
+    "label": "title",
+    "bbox": [
+      55,
+      217,
+      717,
+      270
+    ],
+    "role": "title",
+    "note": "Main page title."
+  },
+  {
+    "order": 2,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      55,
+      346,
+      720,
+      376
+    ],
+    "role": "text",
+    "note": "Introductory sentence under the title."
+  },
+  {
+    "order": 3,
+    "idx": 4,
+    "label": "figure",
+    "bbox": [
+      215,
+      438,
+      358,
+      581
+    ],
+    "role": "figure",
+    "note": "Left financial icon graphic."
+  },
+  {
+    "order": 4,
+    "idx": 7,
+    "label": "title",
+    "bbox": [
+      234,
+      612,
+      334,
+      638
+    ],
+    "role": "caption",
+    "note": "Caption for the left figure: Financial."
+  },
+  {
+    "order": 5,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      54,
+      676,
+      378,
+      788
+    ],
+    "role": "text",
+    "note": "Bulleted list describing financial report contents."
+  },
+  {
+    "order": 6,
+    "idx": 8,
+    "label": "figure",
+    "bbox": [
+      720,
+      438,
+      863,
+      583
+    ],
+    "role": "figure",
+    "note": "Middle non-financial icon graphic."
+  },
+  {
+    "order": 7,
+    "idx": 10,
+    "label": "title",
+    "bbox": [
+      722,
+      612,
+      863,
+      638
+    ],
+    "role": "caption",
+    "note": "Caption for the middle figure: Non-financial."
+  },
+  {
+    "order": 8,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      560,
+      676,
+      997,
+      789
+    ],
+    "role": "text",
+    "note": "Bulleted list describing non-financial report contents."
+  },
+  {
+    "order": 9,
+    "idx": 6,
+    "label": "figure",
+    "bbox": [
+      1113,
+      483,
+      1498,
+      873
+    ],
+    "role": "figure",
+    "note": "Right-side pie chart figure."
+  },
+  {
+    "order": 10,
+    "idx": 9,
+    "label": "abandon",
+    "bbox": [
+      1403,
+      1001,
+      1529,
+      1027
+    ],
+    "role": "skip",
+    "note": "Page number/footer area."
+  },
+  {
+    "order": 11,
+    "idx": 12,
+    "label": "abandon",
+    "bbox": [
+      54,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer text."
+  },
+  {
+    "order": 12,
+    "idx": 11,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Duplicate footer text block."
+  },
+  {
+    "order": 13,
+    "idx": 13,
+    "label": "abandon",
+    "bbox": [
+      1510,
+      1013,
+      1529,
+      1029
+    ],
+    "role": "skip",
+    "note": "Footer/page number artifact."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "order": 1,
+    "idx": 3,
+    "label": "title",
+    "bbox": [
+      75,
+      197,
+      1478,
+      285
+    ],
+    "role": "text",
+    "note": "Main slide title at top."
+  },
+  {
+    "order": 2,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      53,
+      332,
+      1505,
+      1009
+    ],
+    "role": "figure",
+    "note": "Large comparison graphic spanning the page; includes the buy/customize and build panels."
+  },
+  {
+    "order": 3,
+    "idx": 4,
+    "label": "table_footnote",
+    "bbox": [
+      88,
+      1012,
+      824,
+      1030
+    ],
+    "role": "skip",
+    "note": "Footer/confidentiality note."
+  },
+  {
+    "order": 4,
+    "idx": 2,
+    "label": "abandon",
+    "bbox": [
+      1306,
+      1011,
+      1509,
+      1031
+    ],
+    "role": "skip",
+    "note": "Page number/footer area."
+  }
+]

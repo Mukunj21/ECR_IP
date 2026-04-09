@@ -1,0 +1,106 @@
+[
+  {
+    "order": 1,
+    "idx": 2,
+    "label": "title",
+    "bbox": [
+      55,
+      217,
+      856,
+      270
+    ],
+    "role": "title",
+    "note": "Main page heading."
+  },
+  {
+    "order": 2,
+    "idx": 5,
+    "label": "title",
+    "bbox": [
+      56,
+      348,
+      432,
+      378
+    ],
+    "role": "heading",
+    "note": "Section heading for the left text block."
+  },
+  {
+    "order": 3,
+    "idx": 7,
+    "label": "title",
+    "bbox": [
+      56,
+      392,
+      453,
+      419
+    ],
+    "role": "heading",
+    "note": "Subheading introducing the paragraph below."
+  },
+  {
+    "order": 4,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      53,
+      423,
+      725,
+      537
+    ],
+    "role": "paragraph",
+    "note": "Body text describing other comprehensive income."
+  },
+  {
+    "order": 5,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      814,
+      352,
+      1528,
+      1002
+    ],
+    "role": "figure",
+    "note": "Illustrative image on the right side of the page."
+  },
+  {
+    "order": 6,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      646,
+      976,
+      734,
+      996
+    ],
+    "role": "skip",
+    "note": "Figure source caption."
+  },
+  {
+    "order": 7,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1013,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer text."
+  },
+  {
+    "order": 8,
+    "idx": 6,
+    "label": "abandon",
+    "bbox": [
+      1509,
+      1013,
+      1529,
+      1030
+    ],
+    "role": "skip",
+    "note": "Page number."
+  }
+]

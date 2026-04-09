@@ -1,0 +1,236 @@
+[
+  {
+    "order": 1,
+    "idx": 10,
+    "label": "title",
+    "bbox": [
+      77,
+      198,
+      1433,
+      284
+    ],
+    "role": "title",
+    "note": "Page title spanning the top."
+  },
+  {
+    "order": 2,
+    "idx": 4,
+    "label": "title",
+    "bbox": [
+      92,
+      363,
+      406,
+      391
+    ],
+    "role": "title",
+    "note": "Left column section heading: Microservice Architecture."
+  },
+  {
+    "order": 3,
+    "idx": 11,
+    "label": "plain text",
+    "bbox": [
+      94,
+      415,
+      491,
+      557
+    ],
+    "role": "text",
+    "note": "Body text under Microservice Architecture."
+  },
+  {
+    "order": 4,
+    "idx": 7,
+    "label": "title",
+    "bbox": [
+      92,
+      633,
+      412,
+      661
+    ],
+    "role": "title",
+    "note": "Left column section heading: Automated and Immutable."
+  },
+  {
+    "order": 5,
+    "idx": 17,
+    "label": "plain text",
+    "bbox": [
+      93,
+      685,
+      487,
+      824
+    ],
+    "role": "text",
+    "note": "Body text under Automated and Immutable."
+  },
+  {
+    "order": 6,
+    "idx": 2,
+    "label": "title",
+    "bbox": [
+      592,
+      363,
+      749,
+      391
+    ],
+    "role": "title",
+    "note": "Middle column section heading: Event Driven."
+  },
+  {
+    "order": 7,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      591,
+      415,
+      996,
+      492
+    ],
+    "role": "text",
+    "note": "Body text under Event Driven."
+  },
+  {
+    "order": 8,
+    "idx": 6,
+    "label": "title",
+    "bbox": [
+      591,
+      633,
+      697,
+      661
+    ],
+    "role": "title",
+    "note": "Middle column section heading: API First."
+  },
+  {
+    "order": 9,
+    "idx": 18,
+    "label": "plain text",
+    "bbox": [
+      590,
+      684,
+      989,
+      730
+    ],
+    "role": "text",
+    "note": "Body text under API First."
+  },
+  {
+    "order": 10,
+    "idx": 20,
+    "label": "plain text",
+    "bbox": [
+      612,
+      739,
+      998,
+      797
+    ],
+    "role": "text",
+    "note": "Continuation of body text under API First."
+  },
+  {
+    "order": 11,
+    "idx": 3,
+    "label": "title",
+    "bbox": [
+      1076,
+      362,
+      1234,
+      391
+    ],
+    "role": "title",
+    "note": "Right column section heading: Cloud Native."
+  },
+  {
+    "order": 12,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      1077,
+      415,
+      1450,
+      509
+    ],
+    "role": "text",
+    "note": "Body text under Cloud Native."
+  },
+  {
+    "order": 13,
+    "idx": 8,
+    "label": "title",
+    "bbox": [
+      1075,
+      634,
+      1140,
+      660
+    ],
+    "role": "title",
+    "note": "Right column section heading: SaaS."
+  },
+  {
+    "order": 14,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      1075,
+      684,
+      1448,
+      801
+    ],
+    "role": "text",
+    "note": "Body text under SaaS."
+  },
+  {
+    "order": 15,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      113,
+      900,
+      1493,
+      963
+    ],
+    "role": "text",
+    "note": "Bottom emphasized callout statement."
+  },
+  {
+    "order": 16,
+    "idx": 15,
+    "label": "abandon",
+    "bbox": [
+      71,
+      985,
+      765,
+      1004
+    ],
+    "role": "skip",
+    "note": "Footer note line."
+  },
+  {
+    "order": 17,
+    "idx": 14,
+    "label": "abandon",
+    "bbox": [
+      87,
+      1013,
+      820,
+      1029
+    ],
+    "role": "skip",
+    "note": "Confidentiality footer text."
+  },
+  {
+    "order": 18,
+    "idx": 13,
+    "label": "abandon",
+    "bbox": [
+      1307,
+      1011,
+      1510,
+      1031
+    ],
+    "role": "skip",
+    "note": "Page number and logo footer."
+  }
+]

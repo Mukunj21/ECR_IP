@@ -1,0 +1,80 @@
+[
+  {
+    "order": 1,
+    "idx": 5,
+    "label": "title",
+    "bbox": [
+      75,
+      188,
+      1476,
+      279
+    ],
+    "role": "text",
+    "note": "Main slide title at top."
+  },
+  {
+    "order": 2,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      66,
+      292,
+      1492,
+      976
+    ],
+    "role": "figure",
+    "note": "Large central diagram showing technical capabilities and reuse levels."
+  },
+  {
+    "order": 3,
+    "idx": 3,
+    "label": "table_footnote",
+    "bbox": [
+      75,
+      975,
+      276,
+      1006
+    ],
+    "role": "text",
+    "note": "Footnote/source note below the figure on the left."
+  },
+  {
+    "order": 4,
+    "idx": 2,
+    "label": "abandon",
+    "bbox": [
+      1306,
+      1011,
+      1509,
+      1031
+    ],
+    "role": "skip",
+    "note": "Page number/footer area."
+  },
+  {
+    "order": 5,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      87,
+      1013,
+      824,
+      1029
+    ],
+    "role": "skip",
+    "note": "Footer confidentiality line."
+  },
+  {
+    "order": 6,
+    "idx": 7,
+    "label": "table_footnote",
+    "bbox": [
+      87,
+      1013,
+      824,
+      1029
+    ],
+    "role": "skip",
+    "note": "Duplicate footer/footnote region overlapping the confidentiality line."
+  }
+]

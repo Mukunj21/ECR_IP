@@ -1,0 +1,158 @@
+[
+  {
+    "order": 1,
+    "idx": 9,
+    "label": "title",
+    "bbox": [
+      51,
+      212,
+      979,
+      268
+    ],
+    "role": "title",
+    "note": "Main page heading: Selling, general and administrative expenses."
+  },
+  {
+    "order": 2,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      53,
+      345,
+      1073,
+      377
+    ],
+    "role": "text",
+    "note": "Introductory sentence defining SG&A expense items."
+  },
+  {
+    "order": 3,
+    "idx": 3,
+    "label": "figure",
+    "bbox": [
+      94,
+      439,
+      285,
+      631
+    ],
+    "role": "figure",
+    "note": "First icon/illustration for Advertising and promotion cost."
+  },
+  {
+    "order": 4,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      87,
+      683,
+      295,
+      748
+    ],
+    "role": "text",
+    "note": "Caption for the first figure: Advertising and promotion cost."
+  },
+  {
+    "order": 5,
+    "idx": 2,
+    "label": "figure",
+    "bbox": [
+      465,
+      439,
+      658,
+      632
+    ],
+    "role": "figure",
+    "note": "Second icon/illustration for Legal, Insurance and accounting expenses."
+  },
+  {
+    "order": 6,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      427,
+      683,
+      699,
+      749
+    ],
+    "role": "text",
+    "note": "Caption for the second figure: Legal, Insurance and accounting expenses."
+  },
+  {
+    "order": 7,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      837,
+      439,
+      1030,
+      631
+    ],
+    "role": "figure",
+    "note": "Third icon/illustration for Office supplies."
+  },
+  {
+    "order": 8,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      835,
+      683,
+      1032,
+      716
+    ],
+    "role": "text",
+    "note": "Caption for the third figure: Office supplies."
+  },
+  {
+    "order": 9,
+    "idx": 4,
+    "label": "figure",
+    "bbox": [
+      1210,
+      439,
+      1401,
+      631
+    ],
+    "role": "figure",
+    "note": "Fourth icon/illustration for Other related expenses."
+  },
+  {
+    "order": 10,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      1219,
+      683,
+      1394,
+      748
+    ],
+    "role": "text",
+    "note": "Caption for the fourth figure: Other related expenses."
+  },
+  {
+    "order": 11,
+    "idx": 8,
+    "label": "abandon",
+    "bbox": [
+      1356,
+      958,
+      1444,
+      979
+    ],
+    "role": "skip",
+    "note": "Source credit/footer-like text."
+  },
+  {
+    "order": 12,
+    "idx": 11,
+    "label": "abandon",
+    "bbox": [
+      1509,
+      1013,
+      1528,
+      1030
+    ],
+    "role": "skip",
+    "note": "Page number."
+  }
+]

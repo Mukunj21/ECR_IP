@@ -1,0 +1,54 @@
+[
+  {
+    "order": 1,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      111,
+      134,
+      1088,
+      223
+    ],
+    "role": "text",
+    "note": "Closing paragraph of the letter."
+  },
+  {
+    "order": 2,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      607,
+      245,
+      917,
+      415
+    ],
+    "role": "text",
+    "note": "Signature block area."
+  },
+  {
+    "order": 3,
+    "idx": 5,
+    "label": "title",
+    "bbox": [
+      114,
+      500,
+      214,
+      527
+    ],
+    "role": "text",
+    "note": "Enclosure notation."
+  },
+  {
+    "order": 4,
+    "idx": 2,
+    "label": "abandon",
+    "bbox": [
+      608,
+      1440,
+      623,
+      1460
+    ],
+    "role": "skip",
+    "note": "Page number footer."
+  }
+]

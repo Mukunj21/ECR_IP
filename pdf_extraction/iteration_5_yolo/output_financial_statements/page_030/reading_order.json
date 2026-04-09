@@ -1,0 +1,353 @@
+[
+  {
+    "order": 1,
+    "idx": 2,
+    "label": "title",
+    "bbox": [
+      54,
+      217,
+      843,
+      270
+    ],
+    "role": "title",
+    "note": "Page title"
+  },
+  {
+    "order": 2,
+    "idx": 18,
+    "label": "title",
+    "bbox": [
+      109,
+      358,
+      462,
+      392
+    ],
+    "role": "section heading",
+    "note": "Left column heading: Significant Accounting Policies"
+  },
+  {
+    "order": 3,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      133,
+      416,
+      221,
+      501
+    ],
+    "role": "figure",
+    "note": "Icon for Company accounting standards"
+  },
+  {
+    "order": 4,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      127,
+      512,
+      228,
+      578
+    ],
+    "role": "text",
+    "note": "Caption for Company accounting standards"
+  },
+  {
+    "order": 5,
+    "idx": 3,
+    "label": "figure",
+    "bbox": [
+      304,
+      416,
+      393,
+      501
+    ],
+    "role": "figure",
+    "note": "Icon for How inventory & investments are valued"
+  },
+  {
+    "order": 6,
+    "idx": 14,
+    "label": "plain text",
+    "bbox": [
+      274,
+      511,
+      425,
+      578
+    ],
+    "role": "text",
+    "note": "Caption for How inventory & investments are valued"
+  },
+  {
+    "order": 7,
+    "idx": 9,
+    "label": "figure",
+    "bbox": [
+      303,
+      609,
+      394,
+      695
+    ],
+    "role": "figure",
+    "note": "Icon for Revenue is recognized"
+  },
+  {
+    "order": 8,
+    "idx": 20,
+    "label": "plain text",
+    "bbox": [
+      296,
+      708,
+      402,
+      755
+    ],
+    "role": "text",
+    "note": "Caption for Revenue is recognized"
+  },
+  {
+    "order": 9,
+    "idx": 6,
+    "label": "figure",
+    "bbox": [
+      133,
+      610,
+      221,
+      695
+    ],
+    "role": "figure",
+    "note": "Icon for Financial instruments"
+  },
+  {
+    "order": 10,
+    "idx": 29,
+    "label": "plain text",
+    "bbox": [
+      122,
+      709,
+      232,
+      754
+    ],
+    "role": "text",
+    "note": "Caption for Financial instruments"
+  },
+  {
+    "order": 11,
+    "idx": 5,
+    "label": "figure",
+    "bbox": [
+      132,
+      780,
+      222,
+      867
+    ],
+    "role": "figure",
+    "note": "Icon for Property, plant & equipment is amortized"
+  },
+  {
+    "order": 12,
+    "idx": 16,
+    "label": "plain text",
+    "bbox": [
+      101,
+      884,
+      254,
+      950
+    ],
+    "role": "text",
+    "note": "Caption for Property, plant & equipment is amortized"
+  },
+  {
+    "order": 13,
+    "idx": 4,
+    "label": "figure",
+    "bbox": [
+      304,
+      780,
+      394,
+      867
+    ],
+    "role": "figure",
+    "note": "Icon for Any other policies"
+  },
+  {
+    "order": 14,
+    "idx": 15,
+    "label": "plain text",
+    "bbox": [
+      303,
+      885,
+      394,
+      929
+    ],
+    "role": "text",
+    "note": "Caption for Any other policies"
+  },
+  {
+    "order": 15,
+    "idx": 13,
+    "label": "title",
+    "bbox": [
+      687,
+      360,
+      895,
+      390
+    ],
+    "role": "section heading",
+    "note": "Middle column heading: Direct Information"
+  },
+  {
+    "order": 16,
+    "idx": 7,
+    "label": "figure",
+    "bbox": [
+      641,
+      414,
+      733,
+      503
+    ],
+    "role": "figure",
+    "note": "Icon for A breakdown of the types of investments"
+  },
+  {
+    "order": 17,
+    "idx": 21,
+    "label": "plain text",
+    "bbox": [
+      600,
+      522,
+      772,
+      566
+    ],
+    "role": "text",
+    "note": "Caption for A breakdown of the types of investments"
+  },
+  {
+    "order": 18,
+    "idx": 12,
+    "label": "figure",
+    "bbox": [
+      854,
+      415,
+      941,
+      502
+    ],
+    "role": "figure",
+    "note": "Icon for Debt and financial instruments"
+  },
+  {
+    "order": 19,
+    "idx": 24,
+    "label": "plain text",
+    "bbox": [
+      822,
+      522,
+      974,
+      565
+    ],
+    "role": "text",
+    "note": "Caption for Debt and financial instruments"
+  },
+  {
+    "order": 20,
+    "idx": 8,
+    "label": "title",
+    "bbox": [
+      1065,
+      412,
+      1287,
+      438
+    ],
+    "role": "section heading",
+    "note": "Right column subheading: Indirect Information"
+  },
+  {
+    "order": 21,
+    "idx": 23,
+    "label": "plain text",
+    "bbox": [
+      1065,
+      452,
+      1362,
+      478
+    ],
+    "role": "text",
+    "note": "Intro text for indirect information"
+  },
+  {
+    "order": 22,
+    "idx": 19,
+    "label": "plain text",
+    "bbox": [
+      1065,
+      483,
+      1517,
+      596
+    ],
+    "role": "text",
+    "note": "Bulleted description of indirect information"
+  },
+  {
+    "order": 23,
+    "idx": 25,
+    "label": "plain text",
+    "bbox": [
+      562,
+      647,
+      785,
+      675
+    ],
+    "role": "section heading",
+    "note": "Subheading: What is included in:"
+  },
+  {
+    "order": 24,
+    "idx": 26,
+    "label": "figure",
+    "bbox": [
+      560,
+      721,
+      1022,
+      877
+    ],
+    "role": "figure",
+    "note": "Grouped included-items boxes in middle section"
+  },
+  {
+    "order": 25,
+    "idx": 33,
+    "label": "figure",
+    "bbox": [
+      1064,
+      721,
+      1527,
+      876
+    ],
+    "role": "figure",
+    "note": "Grouped included-items boxes in middle-right section"
+  },
+  {
+    "order": 26,
+    "idx": 17,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      382,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer"
+  },
+  {
+    "order": 27,
+    "idx": 22,
+    "label": "abandon",
+    "bbox": [
+      1403,
+      1001,
+      1530,
+      1027
+    ],
+    "role": "skip",
+    "note": "Page number/source footer"
+  }
+]

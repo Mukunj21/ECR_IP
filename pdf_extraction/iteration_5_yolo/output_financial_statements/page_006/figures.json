@@ -1,0 +1,27 @@
+[
+  {
+    "type": "figure",
+    "description": "Three-category balance sheet diagram showing Assets, Liabilities, and Equity",
+    "page": 6
+  },
+  {
+    "type": "figure",
+    "description": "Current assets icon",
+    "page": 6
+  },
+  {
+    "type": "figure",
+    "description": "Current liabilities icon",
+    "page": 6
+  },
+  {
+    "type": "figure",
+    "description": "Non-current assets icon",
+    "page": 6
+  },
+  {
+    "type": "figure",
+    "description": "Non-current liabilities icon",
+    "page": 6
+  }
+]

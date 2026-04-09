@@ -1,0 +1,54 @@
+[
+  {
+    "order": 1,
+    "idx": 4,
+    "label": "title",
+    "bbox": [
+      75,
+      197,
+      1481,
+      283
+    ],
+    "role": "text",
+    "note": "Main slide title"
+  },
+  {
+    "order": 2,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      60,
+      295,
+      1505,
+      1003
+    ],
+    "role": "figure",
+    "note": "Large provider landscape figure"
+  },
+  {
+    "order": 3,
+    "idx": 3,
+    "label": "table_footnote",
+    "bbox": [
+      87,
+      1012,
+      825,
+      1029
+    ],
+    "role": "skip",
+    "note": "Confidentiality/footer text"
+  },
+  {
+    "order": 4,
+    "idx": 2,
+    "label": "abandon",
+    "bbox": [
+      1307,
+      1011,
+      1508,
+      1031
+    ],
+    "role": "skip",
+    "note": "Page number / footer branding"
+  }
+]

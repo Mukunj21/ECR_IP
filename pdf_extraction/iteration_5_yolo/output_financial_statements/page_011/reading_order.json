@@ -1,0 +1,197 @@
+[
+  {
+    "order": 1,
+    "idx": 5,
+    "label": "title",
+    "bbox": [
+      56,
+      213,
+      381,
+      263
+    ],
+    "role": "title",
+    "note": "Main page title"
+  },
+  {
+    "order": 2,
+    "idx": 7,
+    "label": "title",
+    "bbox": [
+      56,
+      350,
+      236,
+      378
+    ],
+    "role": "title",
+    "note": "Left-column section heading"
+  },
+  {
+    "order": 3,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      55,
+      381,
+      697,
+      409
+    ],
+    "role": "text",
+    "note": "Introductory paragraph under Commitments"
+  },
+  {
+    "order": 4,
+    "idx": 10,
+    "label": "figure",
+    "bbox": [
+      46,
+      439,
+      566,
+      692
+    ],
+    "role": "figure",
+    "note": "Left-column illustrative figure"
+  },
+  {
+    "order": 5,
+    "idx": 19,
+    "label": "figure_caption",
+    "bbox": [
+      57,
+      510,
+      219,
+      538
+    ],
+    "role": "caption",
+    "note": "Caption for the left-side figure"
+  },
+  {
+    "order": 6,
+    "idx": 4,
+    "label": "title",
+    "bbox": [
+      816,
+      350,
+      1001,
+      379
+    ],
+    "role": "title",
+    "note": "Right-column section heading"
+  },
+  {
+    "order": 7,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      815,
+      381,
+      1513,
+      433
+    ],
+    "role": "text",
+    "note": "Introductory paragraph under Contingencies"
+  },
+  {
+    "order": 8,
+    "idx": 13,
+    "label": "title",
+    "bbox": [
+      815,
+      437,
+      945,
+      463
+    ],
+    "role": "text",
+    "note": "Subheading/example label"
+  },
+  {
+    "order": 9,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      815,
+      473,
+      1146,
+      501
+    ],
+    "role": "text",
+    "note": "Explanatory text"
+  },
+  {
+    "order": 10,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      823,
+      510,
+      1332,
+      566
+    ],
+    "role": "text",
+    "note": "Numbered conditions text"
+  },
+  {
+    "order": 11,
+    "idx": 14,
+    "label": "plain text",
+    "bbox": [
+      813,
+      577,
+      1435,
+      642
+    ],
+    "role": "text",
+    "note": "Additional explanatory text"
+  },
+  {
+    "order": 12,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      813,
+      652,
+      1526,
+      1003
+    ],
+    "role": "figure",
+    "note": "Right-column illustrative figure"
+  },
+  {
+    "order": 13,
+    "idx": 6,
+    "label": "abandon",
+    "bbox": [
+      613,
+      980,
+      701,
+      1000
+    ],
+    "role": "skip",
+    "note": "Footer/source text"
+  },
+  {
+    "order": 14,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer brand text"
+  },
+  {
+    "order": 15,
+    "idx": 11,
+    "label": "abandon",
+    "bbox": [
+      1510,
+      1013,
+      1527,
+      1030
+    ],
+    "role": "skip",
+    "note": "Page number"
+  }
+]

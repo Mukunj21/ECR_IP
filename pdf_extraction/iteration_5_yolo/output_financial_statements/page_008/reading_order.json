@@ -1,0 +1,106 @@
+[
+  {
+    "order": 1,
+    "idx": 2,
+    "label": "title",
+    "bbox": [
+      56,
+      214,
+      510,
+      264
+    ],
+    "role": "title",
+    "note": "Page title"
+  },
+  {
+    "order": 2,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      53,
+      346,
+      749,
+      505
+    ],
+    "role": "text",
+    "note": "Introductory text and bullets above the diagram"
+  },
+  {
+    "order": 3,
+    "idx": 3,
+    "label": "figure",
+    "bbox": [
+      51,
+      527,
+      792,
+      1033
+    ],
+    "role": "figure",
+    "note": "Left-side circular investment diagram"
+  },
+  {
+    "order": 4,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      813,
+      352,
+      1582,
+      1059
+    ],
+    "role": "figure",
+    "note": "Right-side photo of a man using a tablet"
+  },
+  {
+    "order": 5,
+    "idx": 9,
+    "label": "figure_caption",
+    "bbox": [
+      54,
+      473,
+      615,
+      504
+    ],
+    "role": "caption",
+    "note": "Caption-like text positioned above the left diagram content"
+  },
+  {
+    "order": 6,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      382,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer/source text"
+  },
+  {
+    "order": 7,
+    "idx": 7,
+    "label": "table_footnote",
+    "bbox": [
+      56,
+      1012,
+      382,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer/source text duplicate"
+  },
+  {
+    "order": 8,
+    "idx": 5,
+    "label": "abandon",
+    "bbox": [
+      1515,
+      1013,
+      1530,
+      1032
+    ],
+    "role": "skip",
+    "note": "Page number"
+  }
+]

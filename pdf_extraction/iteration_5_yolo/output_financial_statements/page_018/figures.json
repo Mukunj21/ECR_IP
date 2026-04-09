@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "description": "Stair-step illustration",
+    "page": 18
+  },
+  {
+    "type": "table",
+    "description": "Single-step income statement example",
+    "page": 18
+  },
+  {
+    "type": "figure",
+    "description": "Stair-step illustration with red upward arrow",
+    "page": 18
+  },
+  {
+    "type": "table",
+    "description": "Multiple-step income statement example",
+    "page": 18
+  }
+]

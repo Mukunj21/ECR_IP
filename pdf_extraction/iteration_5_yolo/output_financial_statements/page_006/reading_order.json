@@ -1,0 +1,340 @@
+[
+  {
+    "order": 1,
+    "idx": 3,
+    "label": "title",
+    "bbox": [
+      56,
+      214,
+      341,
+      263
+    ],
+    "role": "title",
+    "note": "Page title"
+  },
+  {
+    "order": 2,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      53,
+      349,
+      330,
+      413
+    ],
+    "role": "text",
+    "note": "Introductory text for the left-side explanation"
+  },
+  {
+    "order": 3,
+    "idx": 6,
+    "label": "figure",
+    "bbox": [
+      54,
+      438,
+      346,
+      622
+    ],
+    "role": "figure",
+    "note": "Left-side category diagram"
+  },
+  {
+    "order": 4,
+    "idx": 20,
+    "label": "title",
+    "bbox": [
+      375,
+      349,
+      654,
+      375
+    ],
+    "role": "heading",
+    "note": "Section heading for the simplified balance sheet"
+  },
+  {
+    "order": 5,
+    "idx": 24,
+    "label": "table_caption",
+    "bbox": [
+      375,
+      349,
+      654,
+      375
+    ],
+    "role": "caption",
+    "note": "Caption for the simplified balance sheet table"
+  },
+  {
+    "order": 6,
+    "idx": 5,
+    "label": "table",
+    "bbox": [
+      375,
+      402,
+      753,
+      781
+    ],
+    "role": "table",
+    "note": "Simplified balance sheet - assets side"
+  },
+  {
+    "order": 7,
+    "idx": 12,
+    "label": "table",
+    "bbox": [
+      772,
+      409,
+      1127,
+      750
+    ],
+    "role": "table",
+    "note": "Simplified balance sheet - liabilities and equity side"
+  },
+  {
+    "order": 8,
+    "idx": 17,
+    "label": "title",
+    "bbox": [
+      1146,
+      350,
+      1402,
+      374
+    ],
+    "role": "heading",
+    "note": "Section title for current vs non-current"
+  },
+  {
+    "order": 9,
+    "idx": 21,
+    "label": "title",
+    "bbox": [
+      1146,
+      380,
+      1235,
+      403
+    ],
+    "role": "heading",
+    "note": "Current subsection heading"
+  },
+  {
+    "order": 10,
+    "idx": 22,
+    "label": "figure",
+    "bbox": [
+      1150,
+      418,
+      1217,
+      486
+    ],
+    "role": "figure",
+    "note": "Current assets icon"
+  },
+  {
+    "order": 11,
+    "idx": 15,
+    "label": "title",
+    "bbox": [
+      1229,
+      422,
+      1297,
+      442
+    ],
+    "role": "heading",
+    "note": "Current assets callout heading"
+  },
+  {
+    "order": 12,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      1234,
+      452,
+      1520,
+      531
+    ],
+    "role": "text",
+    "note": "Current assets explanatory text"
+  },
+  {
+    "order": 13,
+    "idx": 25,
+    "label": "figure",
+    "bbox": [
+      1149,
+      568,
+      1218,
+      636
+    ],
+    "role": "figure",
+    "note": "Current liabilities icon"
+  },
+  {
+    "order": 14,
+    "idx": 16,
+    "label": "title",
+    "bbox": [
+      1227,
+      571,
+      1325,
+      593
+    ],
+    "role": "heading",
+    "note": "Current liabilities callout heading"
+  },
+  {
+    "order": 15,
+    "idx": 11,
+    "label": "plain text",
+    "bbox": [
+      1231,
+      600,
+      1520,
+      657
+    ],
+    "role": "text",
+    "note": "Current liabilities explanatory text"
+  },
+  {
+    "order": 16,
+    "idx": 19,
+    "label": "title",
+    "bbox": [
+      1145,
+      696,
+      1283,
+      720
+    ],
+    "role": "heading",
+    "note": "Non-current subsection heading"
+  },
+  {
+    "order": 17,
+    "idx": 28,
+    "label": "figure_caption",
+    "bbox": [
+      1145,
+      696,
+      1283,
+      720
+    ],
+    "role": "caption",
+    "note": "Caption for the non-current section"
+  },
+  {
+    "order": 18,
+    "idx": 18,
+    "label": "figure",
+    "bbox": [
+      1149,
+      736,
+      1217,
+      803
+    ],
+    "role": "figure",
+    "note": "Non-current assets icon"
+  },
+  {
+    "order": 19,
+    "idx": 14,
+    "label": "title",
+    "bbox": [
+      1229,
+      740,
+      1297,
+      759
+    ],
+    "role": "heading",
+    "note": "Non-current assets callout heading"
+  },
+  {
+    "order": 20,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      1231,
+      768,
+      1522,
+      847
+    ],
+    "role": "text",
+    "note": "Non-current assets explanatory text"
+  },
+  {
+    "order": 21,
+    "idx": 27,
+    "label": "figure",
+    "bbox": [
+      1149,
+      885,
+      1218,
+      952
+    ],
+    "role": "figure",
+    "note": "Non-current liabilities icon"
+  },
+  {
+    "order": 22,
+    "idx": 9,
+    "label": "title",
+    "bbox": [
+      1227,
+      887,
+      1325,
+      909
+    ],
+    "role": "heading",
+    "note": "Non-current liabilities callout heading"
+  },
+  {
+    "order": 23,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      1232,
+      918,
+      1514,
+      996
+    ],
+    "role": "text",
+    "note": "Non-current liabilities explanatory text"
+  },
+  {
+    "order": 24,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer text"
+  },
+  {
+    "order": 25,
+    "idx": 8,
+    "label": "abandon",
+    "bbox": [
+      942,
+      995,
+      1030,
+      1016
+    ],
+    "role": "skip",
+    "note": "Source/footer text"
+  },
+  {
+    "order": 26,
+    "idx": 13,
+    "label": "abandon",
+    "bbox": [
+      1516,
+      1013,
+      1529,
+      1030
+    ],
+    "role": "skip",
+    "note": "Page number"
+  }
+]

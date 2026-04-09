@@ -1,0 +1,67 @@
+[
+  {
+    "order": 1,
+    "idx": 1,
+    "label": "title",
+    "bbox": [
+      54,
+      214,
+      750,
+      264
+    ],
+    "role": "text",
+    "note": "Main page title"
+  },
+  {
+    "order": 2,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      19,
+      271,
+      330,
+      308
+    ],
+    "role": "text",
+    "note": "Subtitle introducing the financial statement"
+  },
+  {
+    "order": 3,
+    "idx": 2,
+    "label": "figure",
+    "bbox": [
+      25,
+      313,
+      1509,
+      937
+    ],
+    "role": "figure",
+    "note": "Illustrative balance sheet content with explanatory callouts"
+  },
+  {
+    "order": 4,
+    "idx": 5,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1013,
+      381,
+      1031
+    ],
+    "role": "skip",
+    "note": "Footer note"
+  },
+  {
+    "order": 5,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      1517,
+      1013,
+      1529,
+      1030
+    ],
+    "role": "skip",
+    "note": "Page number"
+  }
+]

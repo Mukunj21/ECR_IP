@@ -1,0 +1,210 @@
+[
+  {
+    "order": 1,
+    "idx": 4,
+    "label": "title",
+    "bbox": [
+      510,
+      82,
+      806,
+      114
+    ],
+    "role": "title",
+    "note": "Document title"
+  },
+  {
+    "order": 2,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      209,
+      140,
+      718,
+      173
+    ],
+    "role": "text",
+    "note": "Post applied for line"
+  },
+  {
+    "order": 3,
+    "idx": 1,
+    "label": "table",
+    "bbox": [
+      836,
+      143,
+      1099,
+      393
+    ],
+    "role": "figure",
+    "note": "Photo/identity instruction box"
+  },
+  {
+    "order": 4,
+    "idx": 11,
+    "label": "plain text",
+    "bbox": [
+      207,
+      471,
+      1047,
+      585
+    ],
+    "role": "text",
+    "note": "Fields 1 to 3: Full name, father's name, permanent address"
+  },
+  {
+    "order": 5,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      209,
+      766,
+      487,
+      810
+    ],
+    "role": "text",
+    "note": "Field 4 label: address for correspondence/present address"
+  },
+  {
+    "order": 6,
+    "idx": 14,
+    "label": "figure",
+    "bbox": [
+      548,
+      786,
+      1041,
+      899
+    ],
+    "role": "figure",
+    "note": "Continuation lines for address field"
+  },
+  {
+    "order": 7,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      545,
+      956,
+      1007,
+      998
+    ],
+    "role": "text",
+    "note": "Field 5 and 6: date of birth, sex"
+  },
+  {
+    "order": 8,
+    "idx": 13,
+    "label": "plain text",
+    "bbox": [
+      209,
+      1004,
+      523,
+      1029
+    ],
+    "role": "text",
+    "note": "Field 7 label: religion"
+  },
+  {
+    "order": 9,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      545,
+      1004,
+      1060,
+      1028
+    ],
+    "role": "text",
+    "note": "Field 8 label: nationality"
+  },
+  {
+    "order": 10,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      209,
+      1047,
+      518,
+      1092
+    ],
+    "role": "text",
+    "note": "Field 9 label: domicile (state)"
+  },
+  {
+    "order": 11,
+    "idx": 8,
+    "label": "table",
+    "bbox": [
+      692,
+      1043,
+      1031,
+      1137
+    ],
+    "role": "table",
+    "note": "Field 10 category checkbox table"
+  },
+  {
+    "order": 12,
+    "idx": 17,
+    "label": "plain text",
+    "bbox": [
+      210,
+      1154,
+      374,
+      1178
+    ],
+    "role": "text",
+    "note": "Field 11 label: ex-serviceman"
+  },
+  {
+    "order": 13,
+    "idx": 15,
+    "label": "plain text",
+    "bbox": [
+      210,
+      1285,
+      554,
+      1309
+    ],
+    "role": "text",
+    "note": "Field 12 label: e-mail id"
+  },
+  {
+    "order": 14,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      210,
+      1327,
+      549,
+      1353
+    ],
+    "role": "text",
+    "note": "Field 13 label: telephone number"
+  },
+  {
+    "order": 15,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      211,
+      1372,
+      558,
+      1397
+    ],
+    "role": "text",
+    "note": "Field 14 label: mobile number"
+  },
+  {
+    "order": 16,
+    "idx": 2,
+    "label": "abandon",
+    "bbox": [
+      1036,
+      1468,
+      1102,
+      1492
+    ],
+    "role": "skip",
+    "note": "Page number"
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "order": 1,
+    "idx": 3,
+    "label": "title",
+    "bbox": [
+      55,
+      215,
+      649,
+      265
+    ],
+    "role": "title",
+    "note": "Main page title"
+  },
+  {
+    "order": 2,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      42,
+      289,
+      354,
+      325
+    ],
+    "role": "text",
+    "note": "Introductory subtitle for the left-side financial statement"
+  },
+  {
+    "order": 3,
+    "idx": 13,
+    "label": "table",
+    "bbox": [
+      41,
+      339,
+      521,
+      973
+    ],
+    "role": "table",
+    "note": "Left-side financial statement table"
+  },
+  {
+    "order": 4,
+    "idx": 15,
+    "label": "figure",
+    "bbox": [
+      564,
+      342,
+      1143,
+      529
+    ],
+    "role": "figure",
+    "note": "Share capital diagram"
+  },
+  {
+    "order": 5,
+    "idx": 9,
+    "label": "title",
+    "bbox": [
+      1172,
+      360,
+      1362,
+      386
+    ],
+    "role": "title",
+    "note": "Authorised shares heading"
+  },
+  {
+    "order": 6,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      1168,
+      393,
+      1488,
+      445
+    ],
+    "role": "text",
+    "note": "Description of authorised shares"
+  },
+  {
+    "order": 7,
+    "idx": 7,
+    "label": "title",
+    "bbox": [
+      1171,
+      469,
+      1466,
+      497
+    ],
+    "role": "title",
+    "note": "Outstanding shares heading"
+  },
+  {
+    "order": 8,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      1168,
+      503,
+      1489,
+      555
+    ],
+    "role": "text",
+    "note": "Description of outstanding shares"
+  },
+  {
+    "order": 9,
+    "idx": 5,
+    "label": "title",
+    "bbox": [
+      565,
+      677,
+      739,
+      703
+    ],
+    "role": "title",
+    "note": "Common shares section heading"
+  },
+  {
+    "order": 10,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      561,
+      728,
+      999,
+      990
+    ],
+    "role": "text",
+    "note": "Bulleted explanation of common shares"
+  },
+  {
+    "order": 11,
+    "idx": 8,
+    "label": "title",
+    "bbox": [
+      1058,
+      675,
+      1235,
+      703
+    ],
+    "role": "title",
+    "note": "Preferred shares section heading"
+  },
+  {
+    "order": 12,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      1054,
+      728,
+      1518,
+      963
+    ],
+    "role": "text",
+    "note": "Bulleted explanation of preferred shares"
+  },
+  {
+    "order": 13,
+    "idx": 14,
+    "label": "table_footnote",
+    "bbox": [
+      55,
+      981,
+      248,
+      1000
+    ],
+    "role": "skip",
+    "note": "Footnote text"
+  },
+  {
+    "order": 14,
+    "idx": 17,
+    "label": "table_footnote",
+    "bbox": [
+      54,
+      980,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footnote text"
+  },
+  {
+    "order": 15,
+    "idx": 16,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1013,
+      381,
+      1031
+    ],
+    "role": "skip",
+    "note": "Discarded/duplicate text near footer"
+  },
+  {
+    "order": 16,
+    "idx": 11,
+    "label": "abandon",
+    "bbox": [
+      1329,
+      1002,
+      1416,
+      1021
+    ],
+    "role": "skip",
+    "note": "Source credit / footer text"
+  },
+  {
+    "order": 17,
+    "idx": 10,
+    "label": "abandon",
+    "bbox": [
+      1510,
+      1014,
+      1528,
+      1029
+    ],
+    "role": "skip",
+    "note": "Page number"
+  }
+]

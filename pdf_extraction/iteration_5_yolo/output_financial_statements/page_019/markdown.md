@@ -1,0 +1,3 @@
+# The Illustrative income statement
+
+[Figure: Consolidated Statement of Comprehensive Income for year ended 30 June 2019, showing revenue, expenses, operating profit, profit before taxation, net profit, other comprehensive income, total comprehensive income, and earnings per stock unit for 2018 and 2019, with callouts for Operating Profit, Net Operating Profit, OCI-other gains and losses, and EPS–Investor Ratio.]

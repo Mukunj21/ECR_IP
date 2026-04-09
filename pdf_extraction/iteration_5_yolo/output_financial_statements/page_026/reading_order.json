@@ -1,0 +1,106 @@
+[
+  {
+    "order": 1,
+    "idx": 1,
+    "label": "title",
+    "bbox": [
+      55,
+      218,
+      567,
+      268
+    ],
+    "role": "title",
+    "note": "Page title: Statement of Cash Flows"
+  },
+  {
+    "order": 2,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      57,
+      347,
+      665,
+      384
+    ],
+    "role": "text",
+    "note": "Introductory sentence: The transactions are sorted by activity type:"
+  },
+  {
+    "order": 3,
+    "idx": 7,
+    "label": "figure",
+    "bbox": [
+      74,
+      349,
+      1551,
+      951
+    ],
+    "role": "figure",
+    "note": "Main infographic spanning the page"
+  },
+  {
+    "order": 4,
+    "idx": 6,
+    "label": "figure",
+    "bbox": [
+      842,
+      371,
+      1530,
+      945
+    ],
+    "role": "figure",
+    "note": "Right-side portion of the infographic; overlaps with the main figure"
+  },
+  {
+    "order": 5,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer/page branding"
+  },
+  {
+    "order": 6,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      1403,
+      1001,
+      1518,
+      1026
+    ],
+    "role": "skip",
+    "note": "Footer/source text"
+  },
+  {
+    "order": 7,
+    "idx": 8,
+    "label": "abandon",
+    "bbox": [
+      1508,
+      1007,
+      1529,
+      1029
+    ],
+    "role": "skip",
+    "note": "Page number/footer"
+  },
+  {
+    "order": 8,
+    "idx": 5,
+    "label": "abandon",
+    "bbox": [
+      1509,
+      1013,
+      1529,
+      1030
+    ],
+    "role": "skip",
+    "note": "Page number/footer duplicate"
+  }
+]

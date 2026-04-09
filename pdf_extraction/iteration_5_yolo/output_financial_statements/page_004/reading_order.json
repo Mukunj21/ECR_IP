@@ -1,0 +1,197 @@
+[
+  {
+    "order": 1,
+    "idx": 3,
+    "label": "title",
+    "bbox": [
+      56,
+      214,
+      564,
+      263
+    ],
+    "role": "title",
+    "note": "Page main heading"
+  },
+  {
+    "order": 2,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      55,
+      285,
+      1507,
+      350
+    ],
+    "role": "text",
+    "note": "Introductory paragraph under title"
+  },
+  {
+    "order": 3,
+    "idx": 14,
+    "label": "plain text",
+    "bbox": [
+      632,
+      380,
+      1372,
+      412
+    ],
+    "role": "text",
+    "note": "Lead-in sentence above the three statement sections"
+  },
+  {
+    "order": 4,
+    "idx": 12,
+    "label": "figure",
+    "bbox": [
+      61,
+      430,
+      126,
+      495
+    ],
+    "role": "figure",
+    "note": "Icon for Balance Sheet section"
+  },
+  {
+    "order": 5,
+    "idx": 7,
+    "label": "title",
+    "bbox": [
+      139,
+      449,
+      325,
+      479
+    ],
+    "role": "heading",
+    "note": "Balance Sheet section heading"
+  },
+  {
+    "order": 6,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      142,
+      508,
+      473,
+      536
+    ],
+    "role": "text",
+    "note": "Bullet point under Balance Sheet"
+  },
+  {
+    "order": 7,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      812,
+      428,
+      1523,
+      566
+    ],
+    "role": "text",
+    "note": "Explanation of Balance Sheet"
+  },
+  {
+    "order": 8,
+    "idx": 16,
+    "label": "figure",
+    "bbox": [
+      61,
+      595,
+      126,
+      656
+    ],
+    "role": "figure",
+    "note": "Icon for Income Statement section"
+  },
+  {
+    "order": 9,
+    "idx": 15,
+    "label": "plain text",
+    "bbox": [
+      138,
+      614,
+      371,
+      641
+    ],
+    "role": "text",
+    "note": "Income Statement section heading"
+  },
+  {
+    "order": 10,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      137,
+      673,
+      549,
+      701
+    ],
+    "role": "text",
+    "note": "Bullet point under Income Statement"
+  },
+  {
+    "order": 11,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      812,
+      609,
+      1528,
+      722
+    ],
+    "role": "text",
+    "note": "Explanation of Income Statement"
+  },
+  {
+    "order": 12,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      139,
+      777,
+      458,
+      806
+    ],
+    "role": "text",
+    "note": "Statement of Cash Flows section heading"
+  },
+  {
+    "order": 13,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      812,
+      775,
+      1525,
+      968
+    ],
+    "role": "text",
+    "note": "Explanation of Cash Flow Statement"
+  },
+  {
+    "order": 14,
+    "idx": 9,
+    "label": "abandon",
+    "bbox": [
+      1404,
+      1001,
+      1500,
+      1023
+    ],
+    "role": "skip",
+    "note": "Page footer source text"
+  },
+  {
+    "order": 15,
+    "idx": 11,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Page footer text"
+  }
+]

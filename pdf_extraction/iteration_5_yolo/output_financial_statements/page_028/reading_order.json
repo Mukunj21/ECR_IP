@@ -1,0 +1,67 @@
+[
+  {
+    "order": 1,
+    "idx": 3,
+    "label": "title",
+    "bbox": [
+      55,
+      217,
+      839,
+      270
+    ],
+    "role": "title",
+    "note": "Page title"
+  },
+  {
+    "order": 2,
+    "idx": 2,
+    "label": "figure",
+    "bbox": [
+      53,
+      343,
+      1507,
+      914
+    ],
+    "role": "figure",
+    "note": "Main infographic/diagram"
+  },
+  {
+    "order": 3,
+    "idx": 1,
+    "label": "abandon",
+    "bbox": [
+      1404,
+      1001,
+      1530,
+      1028
+    ],
+    "role": "skip",
+    "note": "Page number/footer area"
+  },
+  {
+    "order": 4,
+    "idx": 6,
+    "label": "abandon",
+    "bbox": [
+      54,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer text"
+  },
+  {
+    "order": 5,
+    "idx": 5,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      382,
+      1033
+    ],
+    "role": "skip",
+    "note": "Footer text duplicate"
+  }
+]

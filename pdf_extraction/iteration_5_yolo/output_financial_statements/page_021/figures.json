@@ -1,0 +1,22 @@
+[
+  {
+    "type": "figure",
+    "description": "Advertising and promotion cost",
+    "page": 21
+  },
+  {
+    "type": "figure",
+    "description": "Legal, Insurance and accounting expenses.",
+    "page": 21
+  },
+  {
+    "type": "figure",
+    "description": "Office supplies",
+    "page": 21
+  },
+  {
+    "type": "figure",
+    "description": "Other related expenses.",
+    "page": 21
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "order": 1,
+    "idx": 2,
+    "label": "title",
+    "bbox": [
+      81,
+      243,
+      1075,
+      288
+    ],
+    "role": "title",
+    "note": "Page title"
+  },
+  {
+    "order": 2,
+    "idx": 13,
+    "label": "figure_caption",
+    "bbox": [
+      77,
+      347,
+      335,
+      375
+    ],
+    "role": "text",
+    "note": "Left column section heading"
+  },
+  {
+    "order": 3,
+    "idx": 8,
+    "label": "figure",
+    "bbox": [
+      62,
+      359,
+      1499,
+      982
+    ],
+    "role": "figure",
+    "note": "Main diagram and bullet content area"
+  },
+  {
+    "order": 4,
+    "idx": 4,
+    "label": "title",
+    "bbox": [
+      507,
+      348,
+      781,
+      377
+    ],
+    "role": "text",
+    "note": "Middle column section heading"
+  },
+  {
+    "order": 5,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      509,
+      394,
+      844,
+      570
+    ],
+    "role": "text",
+    "note": "Middle column bullets"
+  },
+  {
+    "order": 6,
+    "idx": 1,
+    "label": "title",
+    "bbox": [
+      936,
+      347,
+      1312,
+      377
+    ],
+    "role": "text",
+    "note": "Right column section heading"
+  },
+  {
+    "order": 7,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      941,
+      389,
+      1489,
+      668
+    ],
+    "role": "text",
+    "note": "Right column bullets, upper section"
+  },
+  {
+    "order": 8,
+    "idx": 12,
+    "label": "title",
+    "bbox": [
+      937,
+      688,
+      1485,
+      734
+    ],
+    "role": "text",
+    "note": "Right column subheading"
+  },
+  {
+    "order": 9,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      943,
+      450,
+      1490,
+      667
+    ],
+    "role": "text",
+    "note": "Right column bullets, continued"
+  },
+  {
+    "order": 10,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      956,
+      746,
+      1494,
+      925
+    ],
+    "role": "text",
+    "note": "Right column bullets, lower section"
+  },
+  {
+    "order": 11,
+    "idx": 11,
+    "label": "table_footnote",
+    "bbox": [
+      87,
+      1012,
+      824,
+      1029
+    ],
+    "role": "skip",
+    "note": "Footer disclaimer"
+  },
+  {
+    "order": 12,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      1307,
+      1011,
+      1510,
+      1031
+    ],
+    "role": "skip",
+    "note": "Page number / footer mark"
+  }
+]

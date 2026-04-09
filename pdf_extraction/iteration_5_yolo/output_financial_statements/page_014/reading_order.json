@@ -1,0 +1,171 @@
+[
+  {
+    "order": 1,
+    "idx": 2,
+    "label": "title",
+    "bbox": [
+      54,
+      214,
+      486,
+      268
+    ],
+    "role": "title",
+    "note": "Main page title at top left."
+  },
+  {
+    "order": 2,
+    "idx": 12,
+    "label": "title",
+    "bbox": [
+      55,
+      349,
+      316,
+      379
+    ],
+    "role": "heading",
+    "note": "Left-column section heading for contributed surplus."
+  },
+  {
+    "order": 3,
+    "idx": 9,
+    "label": "figure",
+    "bbox": [
+      52,
+      413,
+      517,
+      565
+    ],
+    "role": "figure",
+    "note": "Illustration showing par value and contributed surplus flow."
+  },
+  {
+    "order": 4,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      54,
+      587,
+      452,
+      616
+    ],
+    "role": "text",
+    "note": "Example line describing shares and par value."
+  },
+  {
+    "order": 5,
+    "idx": 13,
+    "label": "plain text",
+    "bbox": [
+      53,
+      648,
+      603,
+      722
+    ],
+    "role": "text",
+    "note": "Left-column table with paid-up share capital and contributed surplus values."
+  },
+  {
+    "order": 6,
+    "idx": 10,
+    "label": "title",
+    "bbox": [
+      812,
+      350,
+      1189,
+      379
+    ],
+    "role": "heading",
+    "note": "Right-column section heading for other comprehensive income."
+  },
+  {
+    "order": 7,
+    "idx": 11,
+    "label": "title",
+    "bbox": [
+      814,
+      382,
+      1211,
+      409
+    ],
+    "role": "heading",
+    "note": "Subheading introducing OCI definition."
+  },
+  {
+    "order": 8,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      813,
+      418,
+      1484,
+      473
+    ],
+    "role": "text",
+    "note": "First bullet explaining OCI."
+  },
+  {
+    "order": 9,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      811,
+      483,
+      1457,
+      538
+    ],
+    "role": "text",
+    "note": "Second example sentence about unrealised gains and losses."
+  },
+  {
+    "order": 10,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      813,
+      671,
+      1527,
+      1003
+    ],
+    "role": "figure",
+    "note": "Bottom-right photo illustration."
+  },
+  {
+    "order": 11,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      600,
+      963,
+      688,
+      983
+    ],
+    "role": "skip",
+    "note": "Source credit/footer-like text."
+  },
+  {
+    "order": 12,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Document footer branding text."
+  },
+  {
+    "order": 13,
+    "idx": 5,
+    "label": "abandon",
+    "bbox": [
+      1510,
+      1013,
+      1528,
+      1030
+    ],
+    "role": "skip",
+    "note": "Page number in footer."
+  }
+]

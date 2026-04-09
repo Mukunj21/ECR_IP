@@ -1,0 +1,184 @@
+[
+  {
+    "order": 1,
+    "idx": 6,
+    "label": "title",
+    "bbox": [
+      56,
+      218,
+      354,
+      269
+    ],
+    "role": "heading",
+    "note": "Main page title: Ratio Analysis."
+  },
+  {
+    "order": 2,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      54,
+      346,
+      1504,
+      404
+    ],
+    "role": "paragraph",
+    "note": "Introductory explanatory paragraph."
+  },
+  {
+    "order": 3,
+    "idx": 7,
+    "label": "figure",
+    "bbox": [
+      215,
+      438,
+      358,
+      581
+    ],
+    "role": "figure",
+    "note": "Left icon/illustration for Performance Ratio."
+  },
+  {
+    "order": 4,
+    "idx": 10,
+    "label": "title",
+    "bbox": [
+      184,
+      612,
+      383,
+      638
+    ],
+    "role": "heading",
+    "note": "Caption for the left figure: Performance Ratio."
+  },
+  {
+    "order": 5,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      55,
+      676,
+      448,
+      844
+    ],
+    "role": "paragraph",
+    "note": "Bullet list for Performance Ratio metrics."
+  },
+  {
+    "order": 6,
+    "idx": 5,
+    "label": "figure",
+    "bbox": [
+      720,
+      439,
+      863,
+      582
+    ],
+    "role": "figure",
+    "note": "Middle icon/illustration for Solvency Ratios."
+  },
+  {
+    "order": 7,
+    "idx": 11,
+    "label": "title",
+    "bbox": [
+      707,
+      612,
+      878,
+      640
+    ],
+    "role": "heading",
+    "note": "Caption for the middle figure: Solvency Ratios."
+  },
+  {
+    "order": 8,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      559,
+      676,
+      997,
+      872
+    ],
+    "role": "paragraph",
+    "note": "Bullet list for Solvency Ratios metrics."
+  },
+  {
+    "order": 9,
+    "idx": 8,
+    "label": "figure",
+    "bbox": [
+      1226,
+      438,
+      1369,
+      581
+    ],
+    "role": "figure",
+    "note": "Right icon/illustration for Investor Ratios."
+  },
+  {
+    "order": 10,
+    "idx": 12,
+    "label": "title",
+    "bbox": [
+      1217,
+      612,
+      1377,
+      638
+    ],
+    "role": "heading",
+    "note": "Caption for the right figure: Investor Ratios."
+  },
+  {
+    "order": 11,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      1065,
+      676,
+      1357,
+      788
+    ],
+    "role": "paragraph",
+    "note": "Bullet list for Investor Ratios metrics."
+  },
+  {
+    "order": 12,
+    "idx": 13,
+    "label": "abandon",
+    "bbox": [
+      54,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Footer text/branding."
+  },
+  {
+    "order": 13,
+    "idx": 14,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1012,
+      381,
+      1032
+    ],
+    "role": "skip",
+    "note": "Duplicate footer text/branding."
+  },
+  {
+    "order": 14,
+    "idx": 9,
+    "label": "abandon",
+    "bbox": [
+      1509,
+      1013,
+      1528,
+      1030
+    ],
+    "role": "skip",
+    "note": "Page number."
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "order": 1,
+    "idx": 2,
+    "label": "title",
+    "bbox": [
+      51,
+      213,
+      1299,
+      266
+    ],
+    "role": "title",
+    "note": "Page title spanning the width of the page."
+  },
+  {
+    "order": 2,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      32,
+      296,
+      343,
+      332
+    ],
+    "role": "text",
+    "note": "Introductory subheading for the left-side financial statement."
+  },
+  {
+    "order": 3,
+    "idx": 10,
+    "label": "figure",
+    "bbox": [
+      26,
+      351,
+      1321,
+      888
+    ],
+    "role": "figure",
+    "note": "Main page figure containing the illustrative balance sheet layout."
+  },
+  {
+    "order": 4,
+    "idx": 9,
+    "label": "table_footnote",
+    "bbox": [
+      53,
+      981,
+      382,
+      1031
+    ],
+    "role": "text",
+    "note": "Footnote text below the table/figure area."
+  },
+  {
+    "order": 5,
+    "idx": 1,
+    "label": "abandon",
+    "bbox": [
+      1511,
+      1014,
+      1528,
+      1029
+    ],
+    "role": "skip",
+    "note": "Page number."
+  }
+]
