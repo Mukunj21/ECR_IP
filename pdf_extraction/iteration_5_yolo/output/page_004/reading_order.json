@@ -1,0 +1,145 @@
+[
+  {
+    "order": 1,
+    "idx": 6,
+    "label": "figure",
+    "bbox": [
+      166,
+      143,
+      1030,
+      518
+    ],
+    "role": "figure",
+    "note": "Top figure containing two subplots."
+  },
+  {
+    "order": 2,
+    "idx": 7,
+    "label": "figure_caption",
+    "bbox": [
+      141,
+      536,
+      1052,
+      584
+    ],
+    "role": "caption",
+    "note": "Caption for the top figure."
+  },
+  {
+    "order": 3,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      140,
+      630,
+      334,
+      652
+    ],
+    "role": "text",
+    "note": "Left-column section heading line."
+  },
+  {
+    "order": 4,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      141,
+      656,
+      581,
+      1033
+    ],
+    "role": "text",
+    "note": "Left-column body text under the figure caption."
+  },
+  {
+    "order": 5,
+    "idx": 9,
+    "label": "title",
+    "bbox": [
+      140,
+      1056,
+      315,
+      1081
+    ],
+    "role": "title",
+    "note": "Section heading for the left column."
+  },
+  {
+    "order": 6,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      141,
+      1092,
+      581,
+      1552
+    ],
+    "role": "text",
+    "note": "Left-column continuation text."
+  },
+  {
+    "order": 7,
+    "idx": 4,
+    "label": "table",
+    "bbox": [
+      609,
+      623,
+      1060,
+      918
+    ],
+    "role": "table",
+    "note": "Main table in the right column."
+  },
+  {
+    "order": 8,
+    "idx": 11,
+    "label": "table_caption",
+    "bbox": [
+      610,
+      934,
+      1052,
+      1005
+    ],
+    "role": "caption",
+    "note": "Caption for the table."
+  },
+  {
+    "order": 9,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      611,
+      1052,
+      1050,
+      1103
+    ],
+    "role": "text",
+    "note": "Right-column text following the table caption."
+  },
+  {
+    "order": 10,
+    "idx": 8,
+    "label": "title",
+    "bbox": [
+      611,
+      1127,
+      763,
+      1154
+    ],
+    "role": "title",
+    "note": "Section heading for the conclusion."
+  },
+  {
+    "order": 11,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      611,
+      1173,
+      1051,
+      1552
+    ],
+    "role": "text",
+    "note": "Right-column conclusion text."
+  }
+]

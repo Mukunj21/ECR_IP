@@ -1,0 +1,197 @@
+[
+  {
+    "order": 1,
+    "idx": 13,
+    "label": "title",
+    "bbox": [
+      194,
+      154,
+      996,
+      188
+    ],
+    "role": "heading",
+    "note": "paper title"
+  },
+  {
+    "order": 2,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      182,
+      227,
+      410,
+      367
+    ],
+    "role": "body",
+    "note": "author block, left"
+  },
+  {
+    "order": 3,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      481,
+      227,
+      709,
+      367
+    ],
+    "role": "body",
+    "note": "author block, center"
+  },
+  {
+    "order": 4,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      771,
+      227,
+      1018,
+      368
+    ],
+    "role": "body",
+    "note": "author block, right"
+  },
+  {
+    "order": 5,
+    "idx": 11,
+    "label": "title",
+    "bbox": [
+      314,
+      441,
+      406,
+      467
+    ],
+    "role": "heading",
+    "note": "abstract heading"
+  },
+  {
+    "order": 6,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      172,
+      480,
+      548,
+      1172
+    ],
+    "role": "body",
+    "note": "abstract text"
+  },
+  {
+    "order": 7,
+    "idx": 4,
+    "label": "figure",
+    "bbox": [
+      611,
+      438,
+      1097,
+      995
+    ],
+    "role": "figure",
+    "note": "figure with 2 subplots"
+  },
+  {
+    "order": 8,
+    "idx": 5,
+    "label": "figure_caption",
+    "bbox": [
+      609,
+      1012,
+      1053,
+      1157
+    ],
+    "role": "caption",
+    "note": "caption for figure 1"
+  },
+  {
+    "order": 9,
+    "idx": 9,
+    "label": "title",
+    "bbox": [
+      141,
+      1186,
+      307,
+      1212
+    ],
+    "role": "heading",
+    "note": "section heading"
+  },
+  {
+    "order": 10,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      140,
+      1229,
+      580,
+      1470
+    ],
+    "role": "body",
+    "note": "left column body text"
+  },
+  {
+    "order": 11,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      611,
+      1200,
+      1052,
+      1469
+    ],
+    "role": "body",
+    "note": "right column body text"
+  },
+  {
+    "order": 12,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      141,
+      1472,
+      581,
+      1551
+    ],
+    "role": "body",
+    "note": "continuation of left column text"
+  },
+  {
+    "order": 13,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      611,
+      1473,
+      1051,
+      1551
+    ],
+    "role": "body",
+    "note": "continuation of right column text"
+  },
+  {
+    "order": 14,
+    "idx": 14,
+    "label": "abandon",
+    "bbox": [
+      30,
+      531,
+      75,
+      1208
+    ],
+    "role": "skip",
+    "note": "page watermark / margin text"
+  },
+  {
+    "order": 15,
+    "idx": 15,
+    "label": "abandon",
+    "bbox": [
+      30,
+      542,
+      75,
+      1206
+    ],
+    "role": "skip",
+    "note": "duplicate watermark / margin text"
+  }
+]

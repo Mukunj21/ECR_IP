@@ -1,0 +1,340 @@
+[
+  {
+    "order": 1,
+    "idx": 26,
+    "label": "plain text",
+    "bbox": [
+      606,
+      110,
+      1054,
+      1406
+    ],
+    "role": "skip",
+    "note": "continuation of reference entry/header area on right side"
+  },
+  {
+    "order": 2,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      140,
+      144,
+      582,
+      278
+    ],
+    "role": "body",
+    "note": "left column paragraph continuation"
+  },
+  {
+    "order": 3,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      610,
+      146,
+      1050,
+      190
+    ],
+    "role": "body",
+    "note": "right column reference entry"
+  },
+  {
+    "order": 4,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      610,
+      207,
+      872,
+      229
+    ],
+    "role": "body",
+    "note": "right column reference entry continuation"
+  },
+  {
+    "order": 5,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      611,
+      247,
+      1052,
+      358
+    ],
+    "role": "body",
+    "note": "right column reference entry"
+  },
+  {
+    "order": 6,
+    "idx": 4,
+    "label": "title",
+    "bbox": [
+      141,
+      323,
+      253,
+      348
+    ],
+    "role": "heading",
+    "note": "section heading"
+  },
+  {
+    "order": 7,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      140,
+      361,
+      582,
+      492
+    ],
+    "role": "body",
+    "note": "left column reference entry"
+  },
+  {
+    "order": 8,
+    "idx": 25,
+    "label": "plain text",
+    "bbox": [
+      610,
+      375,
+      1052,
+      418
+    ],
+    "role": "body",
+    "note": "right column reference entry"
+  },
+  {
+    "order": 9,
+    "idx": 23,
+    "label": "plain text",
+    "bbox": [
+      610,
+      437,
+      1051,
+      523
+    ],
+    "role": "body",
+    "note": "right column reference entry"
+  },
+  {
+    "order": 10,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      140,
+      508,
+      408,
+      530
+    ],
+    "role": "body",
+    "note": "left column reference entry"
+  },
+  {
+    "order": 11,
+    "idx": 15,
+    "label": "plain text",
+    "bbox": [
+      610,
+      543,
+      1052,
+      675
+    ],
+    "role": "body",
+    "note": "right column reference entry"
+  },
+  {
+    "order": 12,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      141,
+      546,
+      432,
+      568
+    ],
+    "role": "body",
+    "note": "left column reference entry continuation"
+  },
+  {
+    "order": 13,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      142,
+      584,
+      581,
+      715
+    ],
+    "role": "body",
+    "note": "left column reference entry"
+  },
+  {
+    "order": 14,
+    "idx": 24,
+    "label": "plain text",
+    "bbox": [
+      611,
+      692,
+      1052,
+      780
+    ],
+    "role": "body",
+    "note": "right column reference entry"
+  },
+  {
+    "order": 15,
+    "idx": 21,
+    "label": "plain text",
+    "bbox": [
+      140,
+      731,
+      581,
+      820
+    ],
+    "role": "body",
+    "note": "left column reference entry"
+  },
+  {
+    "order": 16,
+    "idx": 22,
+    "label": "plain text",
+    "bbox": [
+      611,
+      797,
+      1051,
+      863
+    ],
+    "role": "body",
+    "note": "right column reference entry"
+  },
+  {
+    "order": 17,
+    "idx": 18,
+    "label": "plain text",
+    "bbox": [
+      140,
+      834,
+      581,
+      945
+    ],
+    "role": "body",
+    "note": "left column reference entry"
+  },
+  {
+    "order": 18,
+    "idx": 13,
+    "label": "plain text",
+    "bbox": [
+      610,
+      881,
+      866,
+      903
+    ],
+    "role": "body",
+    "note": "right column reference entry continuation"
+  },
+  {
+    "order": 19,
+    "idx": 17,
+    "label": "plain text",
+    "bbox": [
+      611,
+      921,
+      1051,
+      1008
+    ],
+    "role": "body",
+    "note": "right column reference entry"
+  },
+  {
+    "order": 20,
+    "idx": 20,
+    "label": "plain text",
+    "bbox": [
+      140,
+      960,
+      580,
+      1048
+    ],
+    "role": "body",
+    "note": "left column reference entry"
+  },
+  {
+    "order": 21,
+    "idx": 19,
+    "label": "plain text",
+    "bbox": [
+      610,
+      1027,
+      1051,
+      1158
+    ],
+    "role": "body",
+    "note": "right column reference entry"
+  },
+  {
+    "order": 22,
+    "idx": 16,
+    "label": "plain text",
+    "bbox": [
+      140,
+      1064,
+      582,
+      1173
+    ],
+    "role": "body",
+    "note": "left column reference entry"
+  },
+  {
+    "order": 23,
+    "idx": 11,
+    "label": "plain text",
+    "bbox": [
+      611,
+      1176,
+      1052,
+      1307
+    ],
+    "role": "body",
+    "note": "right column reference entry"
+  },
+  {
+    "order": 24,
+    "idx": 14,
+    "label": "plain text",
+    "bbox": [
+      140,
+      1189,
+      581,
+      1278
+    ],
+    "role": "body",
+    "note": "left column reference entry"
+  },
+  {
+    "order": 25,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      140,
+      1293,
+      581,
+      1424
+    ],
+    "role": "body",
+    "note": "left column reference entry"
+  },
+  {
+    "order": 26,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      139,
+      1440,
+      581,
+      1550
+    ],
+    "role": "body",
+    "note": "left column reference entry"
+  }
+]

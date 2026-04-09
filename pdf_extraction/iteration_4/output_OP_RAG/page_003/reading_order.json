@@ -1,0 +1,210 @@
+[
+  {
+    "order": 1,
+    "idx": 7,
+    "label": "figure",
+    "bbox": [
+      183,
+      177,
+      980,
+      538
+    ],
+    "role": "figure",
+    "note": "two-panel figure with line charts"
+  },
+  {
+    "order": 2,
+    "idx": 15,
+    "label": "figure_caption",
+    "bbox": [
+      139,
+      557,
+      1051,
+      606
+    ],
+    "role": "caption",
+    "note": "caption for Figure 3"
+  },
+  {
+    "order": 3,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      141,
+      649,
+      581,
+      701
+    ],
+    "role": "body",
+    "note": "left column paragraph continuation"
+  },
+  {
+    "order": 4,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      611,
+      650,
+      1050,
+      756
+    ],
+    "role": "body",
+    "note": "right column paragraph continuation"
+  },
+  {
+    "order": 5,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      141,
+      705,
+      581,
+      837
+    ],
+    "role": "body",
+    "note": "left column paragraph"
+  },
+  {
+    "order": 6,
+    "idx": 9,
+    "label": "title",
+    "bbox": [
+      611,
+      780,
+      882,
+      804
+    ],
+    "role": "heading",
+    "note": "section heading"
+  },
+  {
+    "order": 7,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      611,
+      817,
+      1052,
+      923
+    ],
+    "role": "body",
+    "note": "right column paragraph under section heading"
+  },
+  {
+    "order": 8,
+    "idx": 11,
+    "label": "isolate_formula",
+    "bbox": [
+      257,
+      867,
+      460,
+      896
+    ],
+    "role": "formula",
+    "note": "displayed equation"
+  },
+  {
+    "order": 9,
+    "idx": 14,
+    "label": "formula_caption",
+    "bbox": [
+      553,
+      869,
+      579,
+      893
+    ],
+    "role": "caption",
+    "note": "equation number"
+  },
+  {
+    "order": 10,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      140,
+      910,
+      581,
+      1070
+    ],
+    "role": "body",
+    "note": "left column paragraph and figure 2 discussion"
+  },
+  {
+    "order": 11,
+    "idx": 13,
+    "label": "title",
+    "bbox": [
+      611,
+      947,
+      802,
+      971
+    ],
+    "role": "heading",
+    "note": "subsection heading"
+  },
+  {
+    "order": 12,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      610,
+      985,
+      1051,
+      1553
+    ],
+    "role": "body",
+    "note": "right column main body text"
+  },
+  {
+    "order": 13,
+    "idx": 10,
+    "label": "title",
+    "bbox": [
+      141,
+      1094,
+      309,
+      1121
+    ],
+    "role": "heading",
+    "note": "section heading"
+  },
+  {
+    "order": 14,
+    "idx": 12,
+    "label": "title",
+    "bbox": [
+      140,
+      1138,
+      275,
+      1162
+    ],
+    "role": "heading",
+    "note": "subsection heading"
+  },
+  {
+    "order": 15,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      141,
+      1173,
+      581,
+      1552
+    ],
+    "role": "body",
+    "note": "left column main body text"
+  },
+  {
+    "order": 16,
+    "idx": 16,
+    "label": "figure_caption",
+    "bbox": [
+      240,
+      557,
+      1028,
+      604
+    ],
+    "role": "skip",
+    "note": "duplicate caption block"
+  }
+]

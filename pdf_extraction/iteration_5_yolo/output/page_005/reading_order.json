@@ -1,0 +1,327 @@
+[
+  {
+    "order": 1,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      140,
+      144,
+      582,
+      278
+    ],
+    "role": "text",
+    "note": "Left column continuation paragraph before the references section."
+  },
+  {
+    "order": 2,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      610,
+      146,
+      1050,
+      190
+    ],
+    "role": "text",
+    "note": "Right column reference entry starting with Meta. 2024a."
+  },
+  {
+    "order": 3,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      610,
+      207,
+      872,
+      229
+    ],
+    "role": "text",
+    "note": "Right column reference entry starting with Meta. 2024b."
+  },
+  {
+    "order": 4,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      611,
+      247,
+      1052,
+      358
+    ],
+    "role": "text",
+    "note": "Right column reference entry for Mialon et al. 2023."
+  },
+  {
+    "order": 5,
+    "idx": 4,
+    "label": "title",
+    "bbox": [
+      141,
+      323,
+      253,
+      348
+    ],
+    "role": "text",
+    "note": "Section heading References."
+  },
+  {
+    "order": 6,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      140,
+      361,
+      582,
+      492
+    ],
+    "role": "text",
+    "note": "Left column reference entry for Abdin et al. 2024."
+  },
+  {
+    "order": 7,
+    "idx": 25,
+    "label": "plain text",
+    "bbox": [
+      610,
+      375,
+      1052,
+      418
+    ],
+    "role": "text",
+    "note": "Right column reference entry for OpenAI 2023."
+  },
+  {
+    "order": 8,
+    "idx": 23,
+    "label": "plain text",
+    "bbox": [
+      610,
+      437,
+      1051,
+      523
+    ],
+    "role": "text",
+    "note": "Right column reference entry for Press et al. 2021."
+  },
+  {
+    "order": 9,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      140,
+      508,
+      408,
+      530
+    ],
+    "role": "text",
+    "note": "Left column reference entry for Mistral AI 2024."
+  },
+  {
+    "order": 10,
+    "idx": 15,
+    "label": "plain text",
+    "bbox": [
+      610,
+      543,
+      1052,
+      675
+    ],
+    "role": "text",
+    "note": "Right column reference entry for Reid et al. 2024."
+  },
+  {
+    "order": 11,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      141,
+      546,
+      432,
+      568
+    ],
+    "role": "text",
+    "note": "Left column reference entry for Anthropic 2024."
+  },
+  {
+    "order": 12,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      142,
+      584,
+      581,
+      715
+    ],
+    "role": "text",
+    "note": "Left column reference entry for Bai et al. 2023."
+  },
+  {
+    "order": 13,
+    "idx": 24,
+    "label": "plain text",
+    "bbox": [
+      611,
+      692,
+      1052,
+      780
+    ],
+    "role": "text",
+    "note": "Right column reference entry for Sun et al. 2022."
+  },
+  {
+    "order": 14,
+    "idx": 21,
+    "label": "plain text",
+    "bbox": [
+      140,
+      731,
+      581,
+      820
+    ],
+    "role": "text",
+    "note": "Left column reference entry for Chen et al. 2023."
+  },
+  {
+    "order": 15,
+    "idx": 22,
+    "label": "plain text",
+    "bbox": [
+      611,
+      797,
+      1051,
+      863
+    ],
+    "role": "text",
+    "note": "Right column reference entry for Tay et al. 2020."
+  },
+  {
+    "order": 16,
+    "idx": 18,
+    "label": "plain text",
+    "bbox": [
+      140,
+      834,
+      581,
+      945
+    ],
+    "role": "text",
+    "note": "Left column reference entry for Choromanski et al. 2020."
+  },
+  {
+    "order": 17,
+    "idx": 13,
+    "label": "plain text",
+    "bbox": [
+      610,
+      881,
+      866,
+      903
+    ],
+    "role": "text",
+    "note": "Right column reference entry for xAI 2024."
+  },
+  {
+    "order": 18,
+    "idx": 17,
+    "label": "plain text",
+    "bbox": [
+      611,
+      921,
+      1051,
+      1008
+    ],
+    "role": "text",
+    "note": "Right column reference entry for Xiao et al. 2023."
+  },
+  {
+    "order": 19,
+    "idx": 20,
+    "label": "plain text",
+    "bbox": [
+      140,
+      960,
+      580,
+      1048
+    ],
+    "role": "text",
+    "note": "Left column reference entry for Dao et al. 2024."
+  },
+  {
+    "order": 20,
+    "idx": 19,
+    "label": "plain text",
+    "bbox": [
+      610,
+      1027,
+      1051,
+      1158
+    ],
+    "role": "text",
+    "note": "Right column reference entry for Zaheer et al. 2020."
+  },
+  {
+    "order": 21,
+    "idx": 16,
+    "label": "plain text",
+    "bbox": [
+      140,
+      1064,
+      582,
+      1173
+    ],
+    "role": "text",
+    "note": "Left column reference entry for Guu et al. 2020."
+  },
+  {
+    "order": 22,
+    "idx": 11,
+    "label": "plain text",
+    "bbox": [
+      611,
+      1176,
+      1052,
+      1307
+    ],
+    "role": "text",
+    "note": "Right column reference entry for Zhang et al. 2024."
+  },
+  {
+    "order": 23,
+    "idx": 14,
+    "label": "plain text",
+    "bbox": [
+      140,
+      1189,
+      581,
+      1278
+    ],
+    "role": "text",
+    "note": "Left column reference entry for Lewis et al. 2020."
+  },
+  {
+    "order": 24,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      140,
+      1293,
+      581,
+      1424
+    ],
+    "role": "text",
+    "note": "Left column reference entry for Li et al. 2024."
+  },
+  {
+    "order": 25,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      139,
+      1440,
+      581,
+      1550
+    ],
+    "role": "text",
+    "note": "Left column reference entry for the final listed paper."
+  }
+]

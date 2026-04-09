@@ -1,0 +1,7 @@
+[
+  {
+    "type": "figure",
+    "description": "Two-panel bar chart comparing F1 score and average input token count for OP-RAG and long-context LLMs; caption indicates comparisons on En.QA dataset of ∞Bench.",
+    "page": 1
+  }
+]

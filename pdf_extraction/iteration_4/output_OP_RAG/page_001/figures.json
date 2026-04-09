@@ -1,0 +1,20 @@
+[
+  {
+    "page": 1,
+    "type": "figure",
+    "figure_tag": "Figure 1",
+    "heading": "Abstract",
+    "caption": "Figure 1: Comparisons between the proposed order-preserve retrieval-augmented generation (OP-RAG) and approaches using long-context LLMs without RAG on En.QA dataset of \u221eBench. Our OP-RAG uses Llama3.1-70B as generator, which significantly outperforms its counterpart using Llama3.1-70B without RAG.",
+    "content": "Two-panel bar chart. Panel (a) shows F1 score comparisons across methods, with blue bars for OP-RAG variants (OP-RAG-16K, OP-RAG-24K, OP-RAG-48K) and orange bars for long-context models (Llama3.1-70B, GPT-4O, Gemini-1.5-Pro). Visible bar labels include 44.43, 45.45, 47.25, 34.26, 32.36, and 43.08. Panel (b) shows average input token count (K) for the same methods, with blue bars labeled 16, 24, and 48, and orange bars labeled 117, 117, and 196. Legends identify Llama3.1-70B OP-RAG versus Long Context.",
+    "subplots": [
+      {
+        "label": "a",
+        "content": "F1 score bar chart comparing OP-RAG-16K, OP-RAG-24K, OP-RAG-48K, Llama3.1-70B, GPT-4O, and Gemini-1.5-Pro."
+      },
+      {
+        "label": "b",
+        "content": "Average input tokens (K) bar chart comparing the same methods."
+      }
+    ]
+  }
+]

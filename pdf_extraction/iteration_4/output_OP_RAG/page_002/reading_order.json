@@ -1,0 +1,171 @@
+[
+  {
+    "order": 1,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      140,
+      144,
+      581,
+      331
+    ],
+    "role": "body",
+    "note": "left column main paragraph"
+  },
+  {
+    "order": 2,
+    "idx": 8,
+    "label": "figure",
+    "bbox": [
+      613,
+      147,
+      1047,
+      325
+    ],
+    "role": "figure",
+    "note": "figure with chunk ordering illustration"
+  },
+  {
+    "order": 3,
+    "idx": 7,
+    "label": "figure_caption",
+    "bbox": [
+      609,
+      342,
+      1053,
+      533
+    ],
+    "role": "caption",
+    "note": "caption for the figure"
+  },
+  {
+    "order": 4,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      140,
+      336,
+      582,
+      904
+    ],
+    "role": "body",
+    "note": "left column main paragraph"
+  },
+  {
+    "order": 5,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      611,
+      581,
+      1049,
+      631
+    ],
+    "role": "body",
+    "note": "right column paragraph"
+  },
+  {
+    "order": 6,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      610,
+      636,
+      1051,
+      1176
+    ],
+    "role": "body",
+    "note": "right column main paragraph"
+  },
+  {
+    "order": 7,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      140,
+      907,
+      581,
+      1286
+    ],
+    "role": "body",
+    "note": "left column main paragraph"
+  },
+  {
+    "order": 8,
+    "idx": 10,
+    "label": "title",
+    "bbox": [
+      611,
+      1202,
+      865,
+      1228
+    ],
+    "role": "heading",
+    "note": "section heading"
+  },
+  {
+    "order": 9,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      611,
+      1250,
+      1053,
+      1491
+    ],
+    "role": "body",
+    "note": "right column paragraph"
+  },
+  {
+    "order": 10,
+    "idx": 11,
+    "label": "title",
+    "bbox": [
+      141,
+      1313,
+      319,
+      1340
+    ],
+    "role": "heading",
+    "note": "section heading"
+  },
+  {
+    "order": 11,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      141,
+      1364,
+      581,
+      1552
+    ],
+    "role": "body",
+    "note": "left column paragraph"
+  },
+  {
+    "order": 12,
+    "idx": 13,
+    "label": "isolate_formula",
+    "bbox": [
+      703,
+      1525,
+      957,
+      1554
+    ],
+    "role": "formula",
+    "note": "displayed equation"
+  },
+  {
+    "order": 13,
+    "idx": 12,
+    "label": "formula_caption",
+    "bbox": [
+      1023,
+      1528,
+      1050,
+      1551
+    ],
+    "role": "caption",
+    "note": "equation number"
+  }
+]

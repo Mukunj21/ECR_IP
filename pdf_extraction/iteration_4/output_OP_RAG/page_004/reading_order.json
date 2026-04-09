@@ -1,0 +1,158 @@
+[
+  {
+    "order": 1,
+    "idx": 6,
+    "label": "figure",
+    "bbox": [
+      166,
+      143,
+      1030,
+      518
+    ],
+    "role": "figure",
+    "note": "figure with two subplots"
+  },
+  {
+    "order": 2,
+    "idx": 7,
+    "label": "figure_caption",
+    "bbox": [
+      141,
+      536,
+      1052,
+      584
+    ],
+    "role": "caption",
+    "note": "caption for Figure 4"
+  },
+  {
+    "order": 3,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      141,
+      656,
+      581,
+      1033
+    ],
+    "role": "body",
+    "note": "left-column paragraph continuing after figure caption"
+  },
+  {
+    "order": 4,
+    "idx": 4,
+    "label": "table",
+    "bbox": [
+      609,
+      623,
+      1060,
+      918
+    ],
+    "role": "table",
+    "note": "comparison table"
+  },
+  {
+    "order": 5,
+    "idx": 11,
+    "label": "table_caption",
+    "bbox": [
+      610,
+      934,
+      1052,
+      1005
+    ],
+    "role": "caption",
+    "note": "caption for Table 1"
+  },
+  {
+    "order": 6,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      140,
+      630,
+      334,
+      652
+    ],
+    "role": "heading",
+    "note": "section heading text"
+  },
+  {
+    "order": 7,
+    "idx": 9,
+    "label": "title",
+    "bbox": [
+      140,
+      1056,
+      315,
+      1081
+    ],
+    "role": "heading",
+    "note": "subsection heading 4.4 Main Results"
+  },
+  {
+    "order": 8,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      141,
+      1092,
+      581,
+      1552
+    ],
+    "role": "body",
+    "note": "left-column body text"
+  },
+  {
+    "order": 9,
+    "idx": 8,
+    "label": "title",
+    "bbox": [
+      611,
+      1127,
+      763,
+      1154
+    ],
+    "role": "heading",
+    "note": "section heading 5 Conclusion"
+  },
+  {
+    "order": 10,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      611,
+      1173,
+      1051,
+      1552
+    ],
+    "role": "body",
+    "note": "right-column body text"
+  },
+  {
+    "order": 11,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      611,
+      1052,
+      1050,
+      1103
+    ],
+    "role": "body",
+    "note": "right-column text preceding conclusion heading"
+  },
+  {
+    "order": 12,
+    "idx": 12,
+    "label": "title",
+    "bbox": [
+      140,
+      630,
+      334,
+      652
+    ],
+    "role": "skip",
+    "note": "duplicate detection of same heading"
+  }
+]

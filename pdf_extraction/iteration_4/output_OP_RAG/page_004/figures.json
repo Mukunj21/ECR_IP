@@ -1,0 +1,28 @@
+[
+  {
+    "page": 4,
+    "type": "figure",
+    "figure_tag": "Figure 1",
+    "heading": "",
+    "caption": "Figure 4: Comparisons between the proposed order-preserve RAG and vanilla RAG. The evaluations are conducted on En.QA and EN.MC datasets of \u221eBench, using Llama3.1-70B model.",
+    "content": "Two-panel line chart figure. Left subplot (a) EN.QA plots F1 score versus number of retrieved chunks, comparing Vanilla RAG (blue circles) and Order-Preserve RAG (orange triangles). Right subplot (b) EN.MC plots Accuracy versus number of retrieved chunks with the same two methods. In both subplots, the order-preserve method is consistently higher, especially at larger chunk counts.",
+    "subplots": [
+      {
+        "label": "a",
+        "content": "EN.QA: F1 score vs. number of retrieved chunks for Vanilla RAG and Order-Preserve RAG."
+      },
+      {
+        "label": "b",
+        "content": "EN.MC: Accuracy vs. number of retrieved chunks for Vanilla RAG and Order-Preserve RAG."
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "type": "table",
+    "figure_tag": "Table 1",
+    "heading": "4.4 Main Results",
+    "caption": "Table 1: Comparisons among the long-context LLM without RAG, SELF-ROUTE mechanism (Li et al., 2024) and the proposed order-preserve (OP) RAG.",
+    "content": "Comparison table with columns Method, EN.QA F1 Score, EN.QA Tokens, EN.MC Acc., and EN.MC Tokens. It groups methods into three sections: Long-context LLM w/o RAG, SELF-ROUTE (Li et al., 2024), and Llama3.1-70B order-preserve RAG (ours). Listed rows include Llama3.1-70B, GPT-4O, Gemini-1.5-Pro, GPT-4O, Gemini-1.5-Pro, OP-RAG-16K, OP-RAG-24K, and OP-RAG-48K, with corresponding scores and token counts."
+  }
+]

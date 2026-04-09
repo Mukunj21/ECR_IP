@@ -52,11 +52,12 @@ whole context as input. Extensive experiments
 on public benchmark demonstrate the superior-
 ity of our OP-RAG.
 
-FIGURE_1 : The figure displays comparisons between order-preserve retrieval-augmented generation (OP-RAG) and long-context LLMs without RAG on the En.QA dataset. 
+FIGURE_1 : Combined figure showing a comparison of order-preserve retrieval-augmented generation and long-context language models.
 
-**(a)** The sub-plot shows F1 scores for different models. OP-RAG models (16K, 24K, 48K) using Llama3.1-70B achieve higher scores (44.43, 45.45, 47.25) compared to long-context models (34.26 for Llama3.1-70B, 32.36 for GPT-40, 43.08 for Gemini-1.5-Pro).
+**(a)** This plot presents the F1 scores of different models. The Llama3.1-70B OP-RAG variants (16K, 24K, 48K) outperform the long-context models (Llama3.1-70B, GPT-40, Gemini-1.5-Pro), with the highest score being 47.25 for OP-RAG-48K. The legend differentiates between Llama3.1-70B OP-RAG and Long Context approaches.
 
-**(b)** This sub-plot illustrates average input token counts (in thousands). The OP-RAG models have lower token counts (16K, 24K, 48K) compared to the long-context models (117K for Llama3.1-70B and GPT-40, 196K for Gemini-1.5-Pro).
+**(b)** This plot shows the average input token count for the same models. OP-RAG models have significantly lower input token counts (e.g., 16K for OP-RAG-16K) compared to long-context models, which range from 117K to 196K tokens.
+```
 
 1
 
@@ -187,11 +188,7 @@ guage model to access up-to-date and specific in-
 formation, reducing hallucinations and improving
 factual accuracy. Before the era of long-context
 
-FIGURE_2 : The figure compares Vanilla RAG with the order-preserve RAG in a document processing context.  
-
-**(a)** The Vanilla RAG displays chunks ordered by their similarity scores in descending order: chunks c5, c12, c4, and c13 are highlighted with scores ranging from 0.9 to 0.7.  
-
-**(b)** The order-preserve RAG maintains the order of chunks based on their position in the original document, displaying them as c5, c12, c13, and c4, all with a similarity score of 0.7.
+FIGURE_2 : The figure compares Vanilla RAG with the proposed order-preserve RAG using similarity scores of document chunks. A long document is divided into 13 chunks, each with a similarity score. The top four chunks with the highest scores are selected for both methods. Vanilla RAG sorts chunks in descending order of scores, while order-preserve RAG maintains the original order of the document. Two separate sections illustrate the ordering for each method.
 
 LLMs, RAG is a promising solution to overcoming
 the limitation of short context window.
@@ -237,14 +234,13 @@ si = cos(emb(q), emb(ci)),
 
 ## Page 3
 
-FIGURE_3 : The figure shows the influence of context length on the performance of RAG across different datasets.
+FIGURE_3 : The figure illustrates the influence of context length on the performance of RAG across two datasets, EN.QA and EN.MC.
 
-**(a)** The sub-plot displays the F1 score as it relates to context length (K) for EN.QA. The "Llama3.1-70B" model exhibits a peak F1 score just above 45 at around 30K context length and maintains higher performance across the range compared to "Llama3.1-8B," which peaks just below 40 at a lower context length and then decreases significantly.
+**(a)** The EN.QA sub-plot shows the F1 score on the y-axis against the context length in thousands (K) on the x-axis. Two models are compared: Llama3.1-8B and Llama3.1-70B. Llama3.1-70B achieves a higher F1 score overall, peaking at a shorter context length and maintaining performance as the context grows.
 
-**(b)** This sub-plot illustrates accuracy versus context length (K) for EN.MC. The "Llama3.1-70B" consistently maintains higher accuracy, peaking near 90 at around 10K context length. The "Llama3.1-8B" shows variation, with peaks around 70 at lower context lengths but declining after 40K.
+**(b)** The EN.MC sub-plot displays accuracy on the y-axis versus context length on the x-axis. Similar to the EN.QA plot, Llama3.1-70B starts with a higher accuracy and holds its performance across longer context lengths compared to Llama3.1-8B, which shows more fluctuation.
 
-FIGURE_3 : The figure illustrates the impact of context length on the performance of RAG. The evaluations use En.QA and EN.MC datasets from ∞Bench. The x-axis likely represents context length, while the y-axis indicates performance metrics such as accuracy or F1 score. There may be lines or bars representing different datasets, with annotations highlighting key data points or trends.
-```
+FIGURE_3 : The figure examines how context length affects the performance of RAG, with evaluations conducted on En.QA and EN.MC datasets of ∞Bench. Visible components include a graph with labeled axes for context length and performance metrics. A legend identifies different dataset evaluations. The plot likely contains data points or lines demonstrating performance trends relative to varying context lengths.
 
 where cos(·, ·) denotes the cosine similarity func-
 tion and emb(·) denotes the embedding function.
@@ -327,11 +323,11 @@ capability to distinguish the relevant chunks from
 
 ## Page 4
 
-FIGURE_4 : The figure presents a comparison between the proposed order-preserve RAG and vanilla RAG across two sub-plots.
+FIGURE_4 : Figure 4 shows comparisons between order-preserve RAG and vanilla RAG across two datasets.
 
-**(a)** The first sub-plot displays the F1 score against the number of retrieved chunks for the EN.QA dataset. As the number of chunks increases, the order-preserve RAG (orange line) consistently outperforms the vanilla RAG (blue line), starting around 27.5 and peaking at about 47.5. 
+**(a)** This sub-plot displays the F1 score plotted against the number of retrieved chunks for EN.QA dataset. The order-preserve RAG (orange) consistently outperforms the vanilla RAG (blue), with both methods showing improvements in F1 score as more chunks are retrieved. The order-preserve RAG peaks above a score of 45.
 
-**(b)** The second sub-plot shows accuracy against the number of retrieved chunks for the EN.MC dataset. The order-preserve RAG again performs better, starting at close to 65 and reaching around 87.5, compared to the vanilla RAG which shows an increase up to approximately 85.
+**(b)** This sub-plot depicts accuracy versus the number of retrieved chunks for the EN.MC dataset. The order-preserve RAG also shows superior performance compared to the vanilla RAG, achieving higher accuracy values, especially notable at around 100 retrieved chunks. Both models show a peak in performance before slightly declining.
 
 irrelevant distractions.
 Order-preserve RAG versus vanilla RAG. As
@@ -370,20 +366,20 @@ to RAG or long-context LLM based on the model
 self-reflection. As shown in Table 1, ours signifi-
 
 TABLE_1 : ```markdown
-| Method                      | EN.QA      |         | EN.MC      |         |
-|-----------------------------|------------|---------|------------|---------|
-|                             | F1 Score   | Tokens  | Acc.       | Tokens  |
-| Long-context LLM w/o RAG    |            |         |            |         |
-| Llama3.1-70B                | 34.26      | 117K    | 71.62      | 117K    |
-| GPT-4O                      | 32.36      | 117K    | 78.42      | 117K    |
-| Gemini-1.5-Pro              | 43.08      | 117K    | 85.57      | 188K    |
-| SELF-ROUTE (Li et al., 2024)|            |         |            |         |
-| GPT-4O                      | 34.95      | 85K     | 77.29      | 62K     |
-| Gemini-1.5-Pro              | 37.51      | 83K     | 76.86      | 62K     |
-| Llama3.1-70B order-preserve RAG (ours) | |         |            |         |
-| OP-RAG-16K                  | 44.43      | 16K     | 84.72      | 16K     |
-| OP-RAG-24K                  | 45.45      | 24K     | 88.65      | 24K     |
-| OP-RAG-48K                  | 47.25      | 48K     | 85.59      | 48K     |
+| Method                     | EN.QA     |          | EN.MC     |          |
+|----------------------------|-----------|----------|-----------|----------|
+|                            | F1 Score  | Tokens   | Acc.      | Tokens   |
+| Long-context LLM w/o RAG   |           |          |           |          |
+| Llama3.1-70B               | 34.26     | 117K     | 71.62     | 117K     |
+| GPT-4O                     | 32.36     | 117K     | 78.42     | 117K     |
+| Gemini-1.5-Pro             | 43.08     | 196K     | 85.57     | 188K     |
+| SELF-ROUTE (Li et al., 2024)|           |          |           |          |
+| GPT-4O                     | 34.95     | 85K      | 77.29     | 62K      |
+| Gemini-1.5-Pro             | 37.51     | 83K      | 76.86     | 62K      |
+| Llama3.1-70B order-preserve RAG (ours) |           |          |           |          |
+| OP-RAG-16K                 | 44.43     | 16K      | 84.72     | 16K      |
+| OP-RAG-24K                 | 45.45     | 24K      | 88.65     | 24K      |
+| OP-RAG-48K                 | 47.25     | 48K      | 85.59     | 48K      |
 ```
 
 cantly outperforms than using much fewer tokens
