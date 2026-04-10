@@ -1,0 +1,262 @@
+[
+  {
+    "order": 1,
+    "idx": 21,
+    "label": "plain text",
+    "bbox": [
+      125,
+      222,
+      1067,
+      309
+    ],
+    "role": "text",
+    "note": "Main paragraph beginning with Proposition 5."
+  },
+  {
+    "order": 2,
+    "idx": 19,
+    "label": "plain text",
+    "bbox": [
+      128,
+      300,
+      710,
+      326
+    ],
+    "role": "text",
+    "note": "Continuation of Proposition 5 introductory text."
+  },
+  {
+    "order": 3,
+    "idx": 3,
+    "label": "isolate_formula",
+    "bbox": [
+      414,
+      340,
+      777,
+      476
+    ],
+    "role": "formula",
+    "note": "Displayed pair of conditions for n1 and n2."
+  },
+  {
+    "order": 4,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      124,
+      490,
+      1065,
+      540
+    ],
+    "role": "text",
+    "note": "Paragraph explaining interchanging the roles of the two hubs."
+  },
+  {
+    "order": 5,
+    "idx": 11,
+    "label": "title",
+    "bbox": [
+      127,
+      602,
+      270,
+      626
+    ],
+    "role": "heading",
+    "note": "Section heading: Conclusion."
+  },
+  {
+    "order": 6,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      126,
+      643,
+      1064,
+      859
+    ],
+    "role": "text",
+    "note": "Conclusion paragraph."
+  },
+  {
+    "order": 7,
+    "idx": 15,
+    "label": "title",
+    "bbox": [
+      135,
+      894,
+      923,
+      920
+    ],
+    "role": "heading",
+    "note": "Appendix A heading."
+  },
+  {
+    "order": 8,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      126,
+      935,
+      1063,
+      1056
+    ],
+    "role": "text",
+    "note": "Appendix explanatory paragraph."
+  },
+  {
+    "order": 9,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      127,
+      1057,
+      1064,
+      1125
+    ],
+    "role": "text",
+    "note": "Text introducing the payoff equations."
+  },
+  {
+    "order": 10,
+    "idx": 4,
+    "label": "isolate_formula",
+    "bbox": [
+      275,
+      1125,
+      914,
+      1172
+    ],
+    "role": "formula",
+    "note": "Equation (A.1)."
+  },
+  {
+    "order": 11,
+    "idx": 12,
+    "label": "formula_caption",
+    "bbox": [
+      1014,
+      1136,
+      1061,
+      1161
+    ],
+    "role": "caption",
+    "note": "Equation number (A.1)."
+  },
+  {
+    "order": 12,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      128,
+      1180,
+      485,
+      1204
+    ],
+    "role": "text",
+    "note": "Text introducing the mutant payoff equation."
+  },
+  {
+    "order": 13,
+    "idx": 7,
+    "label": "isolate_formula",
+    "bbox": [
+      473,
+      1222,
+      717,
+      1250
+    ],
+    "role": "formula",
+    "note": "Equation (A.2)."
+  },
+  {
+    "order": 14,
+    "idx": 14,
+    "label": "formula_caption",
+    "bbox": [
+      1014,
+      1222,
+      1061,
+      1247
+    ],
+    "role": "caption",
+    "note": "Equation number (A.2)."
+  },
+  {
+    "order": 15,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      126,
+      1266,
+      645,
+      1291
+    ],
+    "role": "text",
+    "note": "Text leading into the finite population ESS condition."
+  },
+  {
+    "order": 16,
+    "idx": 8,
+    "label": "isolate_formula",
+    "bbox": [
+      550,
+      1311,
+      639,
+      1336
+    ],
+    "role": "formula",
+    "note": "Equation (A.3)."
+  },
+  {
+    "order": 17,
+    "idx": 13,
+    "label": "formula_caption",
+    "bbox": [
+      1014,
+      1309,
+      1061,
+      1334
+    ],
+    "role": "caption",
+    "note": "Equation number (A.3)."
+  },
+  {
+    "order": 18,
+    "idx": 17,
+    "label": "title",
+    "bbox": [
+      127,
+      1369,
+      239,
+      1391
+    ],
+    "role": "heading",
+    "note": "References heading."
+  },
+  {
+    "order": 19,
+    "idx": 18,
+    "label": "abandon",
+    "bbox": [
+      133,
+      1408,
+      1063,
+      1467
+    ],
+    "role": "text",
+    "note": "Reference list entries."
+  },
+  {
+    "order": 20,
+    "idx": 16,
+    "label": "abandon",
+    "bbox": [
+      57,
+      1645,
+      1136,
+      1670
+    ],
+    "role": "skip",
+    "note": "Footer/preprint notice."
+  }
+]

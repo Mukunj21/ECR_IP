@@ -1,0 +1,392 @@
+[
+  {
+    "order": 1,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      103,
+      221,
+      1066,
+      368
+    ],
+    "role": "text",
+    "note": "Main paragraph text"
+  },
+  {
+    "order": 2,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      123,
+      378,
+      1063,
+      430
+    ],
+    "role": "text",
+    "note": "Introductory sentence leading into Proposition 1"
+  },
+  {
+    "order": 3,
+    "idx": 10,
+    "label": "isolate_formula",
+    "bbox": [
+      435,
+      443,
+      749,
+      500
+    ],
+    "role": "equation",
+    "note": "Equation (4.1)"
+  },
+  {
+    "order": 4,
+    "idx": 22,
+    "label": "formula_caption",
+    "bbox": [
+      1018,
+      459,
+      1061,
+      484
+    ],
+    "role": "equation_number",
+    "note": "Label for equation (4.1)"
+  },
+  {
+    "order": 5,
+    "idx": 16,
+    "label": "plain text",
+    "bbox": [
+      128,
+      513,
+      166,
+      536
+    ],
+    "role": "text",
+    "note": "Connector text 'and'"
+  },
+  {
+    "order": 6,
+    "idx": 8,
+    "label": "isolate_formula",
+    "bbox": [
+      435,
+      545,
+      755,
+      602
+    ],
+    "role": "equation",
+    "note": "Equation (4.2)"
+  },
+  {
+    "order": 7,
+    "idx": 23,
+    "label": "formula_caption",
+    "bbox": [
+      1018,
+      561,
+      1061,
+      586
+    ],
+    "role": "equation_number",
+    "note": "Label for equation (4.2)"
+  },
+  {
+    "order": 8,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      127,
+      613,
+      646,
+      639
+    ],
+    "role": "text",
+    "note": "Proof statement"
+  },
+  {
+    "order": 9,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      126,
+      654,
+      1064,
+      728
+    ],
+    "role": "text",
+    "note": "Proposition 2 introductory text"
+  },
+  {
+    "order": 10,
+    "idx": 9,
+    "label": "isolate_formula",
+    "bbox": [
+      384,
+      743,
+      800,
+      792
+    ],
+    "role": "equation",
+    "note": "Equation (4.3)"
+  },
+  {
+    "order": 11,
+    "idx": 20,
+    "label": "formula_caption",
+    "bbox": [
+      1018,
+      756,
+      1062,
+      781
+    ],
+    "role": "equation_number",
+    "note": "Label for equation (4.3)"
+  },
+  {
+    "order": 12,
+    "idx": 21,
+    "label": "plain text",
+    "bbox": [
+      127,
+      804,
+      152,
+      823
+    ],
+    "role": "text",
+    "note": "Connector text 'or'"
+  },
+  {
+    "order": 13,
+    "idx": 15,
+    "label": "isolate_formula",
+    "bbox": [
+      384,
+      835,
+      805,
+      886
+    ],
+    "role": "equation",
+    "note": "Equation (4.4)"
+  },
+  {
+    "order": 14,
+    "idx": 24,
+    "label": "formula_caption",
+    "bbox": [
+      1018,
+      850,
+      1061,
+      875
+    ],
+    "role": "equation_number",
+    "note": "Label for equation (4.4)"
+  },
+  {
+    "order": 15,
+    "idx": 18,
+    "label": "plain text",
+    "bbox": [
+      126,
+      900,
+      1061,
+      950
+    ],
+    "role": "text",
+    "note": "Proof text"
+  },
+  {
+    "order": 16,
+    "idx": 30,
+    "label": "plain text",
+    "bbox": [
+      266,
+      951,
+      1054,
+      977
+    ],
+    "role": "skip",
+    "note": "Low-confidence duplicate/overlap of nearby text"
+  },
+  {
+    "order": 17,
+    "idx": 27,
+    "label": "plain text",
+    "bbox": [
+      152,
+      952,
+      1063,
+      989
+    ],
+    "role": "text",
+    "note": "Continuation of proof text"
+  },
+  {
+    "order": 18,
+    "idx": 19,
+    "label": "plain text",
+    "bbox": [
+      127,
+      1001,
+      816,
+      1028
+    ],
+    "role": "text",
+    "note": "Proof text continuation"
+  },
+  {
+    "order": 19,
+    "idx": 6,
+    "label": "isolate_formula",
+    "bbox": [
+      355,
+      1041,
+      835,
+      1101
+    ],
+    "role": "equation",
+    "note": "Displayed equation in proof"
+  },
+  {
+    "order": 20,
+    "idx": 13,
+    "label": "plain text",
+    "bbox": [
+      127,
+      1114,
+      277,
+      1138
+    ],
+    "role": "text",
+    "note": "Proof text continuation"
+  },
+  {
+    "order": 21,
+    "idx": 11,
+    "label": "isolate_formula",
+    "bbox": [
+      348,
+      1129,
+      838,
+      1185
+    ],
+    "role": "equation",
+    "note": "Displayed equation in proof"
+  },
+  {
+    "order": 22,
+    "idx": 26,
+    "label": "plain text",
+    "bbox": [
+      126,
+      1190,
+      313,
+      1213
+    ],
+    "role": "text",
+    "note": "Proof text continuation"
+  },
+  {
+    "order": 23,
+    "idx": 7,
+    "label": "isolate_formula",
+    "bbox": [
+      437,
+      1211,
+      751,
+      1261
+    ],
+    "role": "equation",
+    "note": "Displayed equation in proof"
+  },
+  {
+    "order": 24,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      125,
+      1267,
+      1067,
+      1317
+    ],
+    "role": "text",
+    "note": "Proof text continuation"
+  },
+  {
+    "order": 25,
+    "idx": 5,
+    "label": "isolate_formula",
+    "bbox": [
+      354,
+      1331,
+      835,
+      1391
+    ],
+    "role": "equation",
+    "note": "Displayed equation in proof"
+  },
+  {
+    "order": 26,
+    "idx": 17,
+    "label": "plain text",
+    "bbox": [
+      126,
+      1405,
+      277,
+      1428
+    ],
+    "role": "text",
+    "note": "Proof text continuation"
+  },
+  {
+    "order": 27,
+    "idx": 14,
+    "label": "isolate_formula",
+    "bbox": [
+      348,
+      1419,
+      839,
+      1475
+    ],
+    "role": "equation",
+    "note": "Displayed equation in proof"
+  },
+  {
+    "order": 28,
+    "idx": 29,
+    "label": "abandon",
+    "bbox": [
+      587,
+      1480,
+      602,
+      1499
+    ],
+    "role": "skip",
+    "note": "Unusable artifact"
+  },
+  {
+    "order": 29,
+    "idx": 28,
+    "label": "abandon",
+    "bbox": [
+      588,
+      1480,
+      603,
+      1499
+    ],
+    "role": "skip",
+    "note": "Unusable artifact"
+  },
+  {
+    "order": 30,
+    "idx": 25,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1643,
+      1137,
+      1670
+    ],
+    "role": "skip",
+    "note": "Footer/page note"
+  }
+]

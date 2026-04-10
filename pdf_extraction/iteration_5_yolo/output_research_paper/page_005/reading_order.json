@@ -1,0 +1,249 @@
+[
+  {
+    "order": 1,
+    "idx": 15,
+    "label": "plain text",
+    "bbox": [
+      126,
+      223,
+      310,
+      247
+    ],
+    "role": "text",
+    "note": "Introductory sentence before the displayed equation."
+  },
+  {
+    "order": 2,
+    "idx": 9,
+    "label": "isolate_formula",
+    "bbox": [
+      437,
+      246,
+      750,
+      296
+    ],
+    "role": "equation",
+    "note": "Displayed formula completing the preceding sentence."
+  },
+  {
+    "order": 3,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      128,
+      302,
+      515,
+      329
+    ],
+    "role": "text",
+    "note": "Concluding sentence of the proof."
+  },
+  {
+    "order": 4,
+    "idx": 14,
+    "label": "plain text",
+    "bbox": [
+      154,
+      345,
+      538,
+      371
+    ],
+    "role": "text",
+    "note": "Transition sentence introducing the corollary."
+  },
+  {
+    "order": 5,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      106,
+      384,
+      1068,
+      569
+    ],
+    "role": "text",
+    "note": "Corollary paragraph text."
+  },
+  {
+    "order": 6,
+    "idx": 20,
+    "label": "plain text",
+    "bbox": [
+      156,
+      569,
+      805,
+      593
+    ],
+    "role": "text",
+    "note": "Continuation of the corollary paragraph."
+  },
+  {
+    "order": 7,
+    "idx": 4,
+    "label": "isolate_formula",
+    "bbox": [
+      435,
+      606,
+      763,
+      662
+    ],
+    "role": "equation",
+    "note": "Displayed equation within the corollary."
+  },
+  {
+    "order": 8,
+    "idx": 13,
+    "label": "plain text",
+    "bbox": [
+      127,
+      673,
+      152,
+      692
+    ],
+    "role": "text",
+    "note": "Short text fragment continuing the case distinction."
+  },
+  {
+    "order": 9,
+    "idx": 5,
+    "label": "isolate_formula",
+    "bbox": [
+      428,
+      703,
+      760,
+      760
+    ],
+    "role": "equation",
+    "note": "Second displayed equation in the corollary."
+  },
+  {
+    "order": 10,
+    "idx": 10,
+    "label": "title",
+    "bbox": [
+      127,
+      787,
+      632,
+      813
+    ],
+    "role": "heading",
+    "note": "Section title for the examples."
+  },
+  {
+    "order": 11,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      126,
+      829,
+      1065,
+      925
+    ],
+    "role": "text",
+    "note": "Introductory paragraph for the examples section."
+  },
+  {
+    "order": 12,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      126,
+      942,
+      1066,
+      993
+    ],
+    "role": "text",
+    "note": "Example 1 lead-in sentence."
+  },
+  {
+    "order": 13,
+    "idx": 11,
+    "label": "figure",
+    "bbox": [
+      367,
+      996,
+      689,
+      1204
+    ],
+    "role": "figure",
+    "note": "Diagram of the circular network."
+  },
+  {
+    "order": 14,
+    "idx": 8,
+    "label": "figure_caption",
+    "bbox": [
+      438,
+      1225,
+      752,
+      1248
+    ],
+    "role": "caption",
+    "note": "Caption for the network figure."
+  },
+  {
+    "order": 15,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      120,
+      1264,
+      1069,
+      1314
+    ],
+    "role": "text",
+    "note": "Text following the figure and caption."
+  },
+  {
+    "order": 16,
+    "idx": 16,
+    "label": "plain text",
+    "bbox": [
+      127,
+      1331,
+      945,
+      1357
+    ],
+    "role": "text",
+    "note": "Proposition 3 heading and start of the list."
+  },
+  {
+    "order": 17,
+    "idx": 19,
+    "label": "plain text",
+    "bbox": [
+      148,
+      1357,
+      1065,
+      1429
+    ],
+    "role": "text",
+    "note": "Continuation of the proposition statements."
+  },
+  {
+    "order": 18,
+    "idx": 17,
+    "label": "isolate_formula",
+    "bbox": [
+      458,
+      1428,
+      779,
+      1474
+    ],
+    "role": "equation",
+    "note": "Displayed inequality concluding the proposition."
+  },
+  {
+    "order": 19,
+    "idx": 18,
+    "label": "abandon",
+    "bbox": [
+      56,
+      1644,
+      1136,
+      1670
+    ],
+    "role": "skip",
+    "note": "Page footer / preprint notice."
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "order": 1,
+    "idx": 7,
+    "label": "title",
+    "bbox": [
+      262,
+      215,
+      928,
+      250
+    ],
+    "role": "title",
+    "note": "Main article title"
+  },
+  {
+    "order": 2,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      331,
+      282,
+      858,
+      307
+    ],
+    "role": "text",
+    "note": "Author line"
+  },
+  {
+    "order": 3,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      167,
+      325,
+      1023,
+      383
+    ],
+    "role": "text",
+    "note": "Author affiliations"
+  },
+  {
+    "order": 4,
+    "idx": 9,
+    "label": "title",
+    "bbox": [
+      129,
+      473,
+      217,
+      496
+    ],
+    "role": "heading",
+    "note": "Abstract heading"
+  },
+  {
+    "order": 5,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      127,
+      509,
+      1064,
+      557
+    ],
+    "role": "text",
+    "note": "Abstract paragraph"
+  },
+  {
+    "order": 6,
+    "idx": 13,
+    "label": "plain text",
+    "bbox": [
+      131,
+      590,
+      686,
+      614
+    ],
+    "role": "text",
+    "note": "Keywords line"
+  },
+  {
+    "order": 7,
+    "idx": 11,
+    "label": "plain text",
+    "bbox": [
+      129,
+      639,
+      261,
+      661
+    ],
+    "role": "text",
+    "note": "JEL classification line"
+  },
+  {
+    "order": 8,
+    "idx": 8,
+    "label": "title",
+    "bbox": [
+      128,
+      736,
+      285,
+      759
+    ],
+    "role": "heading",
+    "note": "Section 1 heading"
+  },
+  {
+    "order": 9,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      121,
+      778,
+      1064,
+      1089
+    ],
+    "role": "text",
+    "note": "Section 1 body text"
+  },
+  {
+    "order": 10,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      117,
+      1090,
+      1064,
+      1256
+    ],
+    "role": "text",
+    "note": "Continuation of section 1 body text"
+  },
+  {
+    "order": 11,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      127,
+      1258,
+      1064,
+      1328
+    ],
+    "role": "text",
+    "note": "Closing paragraph of section 1"
+  },
+  {
+    "order": 12,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      127,
+      1372,
+      963,
+      1413
+    ],
+    "role": "skip",
+    "note": "Footer email addresses / correspondence line"
+  },
+  {
+    "order": 13,
+    "idx": 12,
+    "label": "abandon",
+    "bbox": [
+      930,
+      1482,
+      1064,
+      1501
+    ],
+    "role": "skip",
+    "note": "Footer date"
+  },
+  {
+    "order": 14,
+    "idx": 14,
+    "label": "abandon",
+    "bbox": [
+      129,
+      1483,
+      356,
+      1500
+    ],
+    "role": "skip",
+    "note": "Footer preprint submission note"
+  },
+  {
+    "order": 15,
+    "idx": 15,
+    "label": "abandon",
+    "bbox": [
+      57,
+      1645,
+      1136,
+      1670
+    ],
+    "role": "skip",
+    "note": "Page footer disclaimer / watermark"
+  }
+]

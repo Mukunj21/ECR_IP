@@ -1,0 +1,223 @@
+[
+  {
+    "order": 1,
+    "idx": 8,
+    "label": "title",
+    "bbox": [
+      128,
+      222,
+      501,
+      247
+    ],
+    "role": "text",
+    "note": "Section heading: '2. Description of the Network Game'."
+  },
+  {
+    "order": 2,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      126,
+      264,
+      1065,
+      480
+    ],
+    "role": "text",
+    "note": "Introductory paragraph defining the graph, actions, and payoff function."
+  },
+  {
+    "order": 3,
+    "idx": 4,
+    "label": "isolate_formula",
+    "bbox": [
+      381,
+      482,
+      810,
+      543
+    ],
+    "role": "formula",
+    "note": "Displayed equation for the network payoff."
+  },
+  {
+    "order": 4,
+    "idx": 15,
+    "label": "plain text",
+    "bbox": [
+      125,
+      551,
+      1065,
+      601
+    ],
+    "role": "text",
+    "note": "Paragraph continuing the discussion of local interaction games."
+  },
+  {
+    "order": 5,
+    "idx": 17,
+    "label": "plain text",
+    "bbox": [
+      214,
+      618,
+      1002,
+      645
+    ],
+    "role": "text",
+    "note": "Definition 1 statement heading line."
+  },
+  {
+    "order": 6,
+    "idx": 5,
+    "label": "isolate_formula",
+    "bbox": [
+      482,
+      661,
+      709,
+      692
+    ],
+    "role": "formula",
+    "note": "Displayed Nash equilibrium inequality."
+  },
+  {
+    "order": 7,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      126,
+      707,
+      334,
+      732
+    ],
+    "role": "text",
+    "note": "Continuation of Definition 1."
+  },
+  {
+    "order": 8,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      120,
+      751,
+      1063,
+      800
+    ],
+    "role": "text",
+    "note": "Paragraph noting mixed-strategy Nash equilibrium existence and transition to stability aspects."
+  },
+  {
+    "order": 9,
+    "idx": 9,
+    "label": "title",
+    "bbox": [
+      128,
+      833,
+      702,
+      859
+    ],
+    "role": "text",
+    "note": "Section heading: '3. Evolutionary Stability for Games Played on Networks'."
+  },
+  {
+    "order": 10,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      125,
+      875,
+      1064,
+      1104
+    ],
+    "role": "text",
+    "note": "Explanatory paragraph introducing evolutionary stability and finite ESS context."
+  },
+  {
+    "order": 11,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      95,
+      1097,
+      398,
+      1119
+    ],
+    "role": "text",
+    "note": "Continuation of the paragraph ending with 'evolutionary stability formally'."
+  },
+  {
+    "order": 12,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      124,
+      1137,
+      1065,
+      1187
+    ],
+    "role": "text",
+    "note": "Definition 2 heading and opening condition list."
+  },
+  {
+    "order": 13,
+    "idx": 16,
+    "label": "plain text",
+    "bbox": [
+      148,
+      1198,
+      689,
+      1251
+    ],
+    "role": "text",
+    "note": "Duplicate/overlapping OCR text block for Definition 2 conditions; retained as body text."
+  },
+  {
+    "order": 14,
+    "idx": 11,
+    "label": "isolate_formula",
+    "bbox": [
+      343,
+      1264,
+      894,
+      1335
+    ],
+    "role": "formula",
+    "note": "Displayed inequality for ESS condition, equation (3.1)."
+  },
+  {
+    "order": 15,
+    "idx": 10,
+    "label": "formula_caption",
+    "bbox": [
+      1019,
+      1278,
+      1061,
+      1303
+    ],
+    "role": "text",
+    "note": "Equation number/caption '(3.1)'."
+  },
+  {
+    "order": 16,
+    "idx": 13,
+    "label": "abandon",
+    "bbox": [
+      188,
+      1369,
+      976,
+      1391
+    ],
+    "role": "text",
+    "note": "Footnote text about dropping network g when using the definition."
+  },
+  {
+    "order": 17,
+    "idx": 14,
+    "label": "abandon",
+    "bbox": [
+      57,
+      1644,
+      1136,
+      1670
+    ],
+    "role": "skip",
+    "note": "Page footer / preprint notice."
+  }
+]

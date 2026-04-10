@@ -1,0 +1,197 @@
+[
+  {
+    "order": 1,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      113,
+      221,
+      1068,
+      443
+    ],
+    "role": "text",
+    "note": "Introductory paragraph at top of page."
+  },
+  {
+    "order": 2,
+    "idx": 5,
+    "label": "figure",
+    "bbox": [
+      466,
+      460,
+      726,
+      606
+    ],
+    "role": "figure",
+    "note": "Network diagram illustrating the hub-spoke structure."
+  },
+  {
+    "order": 3,
+    "idx": 8,
+    "label": "figure_caption",
+    "bbox": [
+      433,
+      624,
+      760,
+      646
+    ],
+    "role": "caption",
+    "note": "Caption for the figure immediately below it."
+  },
+  {
+    "order": 4,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      128,
+      687,
+      785,
+      714
+    ],
+    "role": "text",
+    "note": "Body text beginning Proposition 4 section."
+  },
+  {
+    "order": 5,
+    "idx": 11,
+    "label": "plain text",
+    "bbox": [
+      148,
+      722,
+      1064,
+      887
+    ],
+    "role": "text",
+    "note": "Continuation of proposition text and equations."
+  },
+  {
+    "order": 6,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      125,
+      900,
+      1065,
+      1057
+    ],
+    "role": "text",
+    "note": "Further proof text and displayed equations."
+  },
+  {
+    "order": 7,
+    "idx": 3,
+    "label": "isolate_formula",
+    "bbox": [
+      469,
+      1055,
+      719,
+      1104
+    ],
+    "role": "equation",
+    "note": "Displayed formula."
+  },
+  {
+    "order": 8,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      129,
+      1111,
+      589,
+      1135
+    ],
+    "role": "text",
+    "note": "Continuation of proof text."
+  },
+  {
+    "order": 9,
+    "idx": 2,
+    "label": "isolate_formula",
+    "bbox": [
+      433,
+      1149,
+      758,
+      1206
+    ],
+    "role": "equation",
+    "note": "Displayed formula."
+  },
+  {
+    "order": 10,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      126,
+      1218,
+      1066,
+      1266
+    ],
+    "role": "text",
+    "note": "Continuation of proof text."
+  },
+  {
+    "order": 11,
+    "idx": 1,
+    "label": "isolate_formula",
+    "bbox": [
+      412,
+      1283,
+      776,
+      1418
+    ],
+    "role": "equation",
+    "note": "Large displayed formula."
+  },
+  {
+    "order": 12,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      128,
+      1432,
+      408,
+      1457
+    ],
+    "role": "text",
+    "note": "Closing sentence before footer."
+  },
+  {
+    "order": 13,
+    "idx": 15,
+    "label": "abandon",
+    "bbox": [
+      587,
+      1480,
+      603,
+      1499
+    ],
+    "role": "skip",
+    "note": "Unclear small mark; ignored."
+  },
+  {
+    "order": 14,
+    "idx": 14,
+    "label": "abandon",
+    "bbox": [
+      587,
+      1481,
+      602,
+      1499
+    ],
+    "role": "skip",
+    "note": "Duplicate unclear small mark; ignored."
+  },
+  {
+    "order": 15,
+    "idx": 13,
+    "label": "abandon",
+    "bbox": [
+      57,
+      1644,
+      1137,
+      1670
+    ],
+    "role": "skip",
+    "note": "Footer/page-level disclaimer text."
+  }
+]
