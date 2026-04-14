@@ -1,0 +1,301 @@
+[
+  {
+    "order": 1,
+    "idx": 25,
+    "label": "figure_caption",
+    "bbox": [
+      84,
+      82,
+      673,
+      157
+    ],
+    "role": "caption",
+    "note": "Caption above left chart"
+  },
+  {
+    "order": 2,
+    "idx": 20,
+    "label": "figure_caption",
+    "bbox": [
+      85,
+      83,
+      672,
+      122
+    ],
+    "role": "caption",
+    "note": "Duplicate/overlapping caption text above chart"
+  },
+  {
+    "order": 3,
+    "idx": 10,
+    "label": "figure",
+    "bbox": [
+      89,
+      177,
+      1864,
+      1011
+    ],
+    "role": "bar_chart",
+    "note": "Left-page emissions bar chart"
+  },
+  {
+    "order": 4,
+    "idx": 17,
+    "label": "table_footnote",
+    "bbox": [
+      85,
+      1018,
+      964,
+      1081
+    ],
+    "role": "footnote",
+    "note": "Footnote under chart"
+  },
+  {
+    "order": 5,
+    "idx": 11,
+    "label": "figure_caption",
+    "bbox": [
+      87,
+      1116,
+      880,
+      1192
+    ],
+    "role": "caption",
+    "note": "Caption for lower-left donut chart"
+  },
+  {
+    "order": 6,
+    "idx": 19,
+    "label": "figure",
+    "bbox": [
+      82,
+      1228,
+      918,
+      1929
+    ],
+    "role": "pie_chart",
+    "note": "Lower-left donut/ring chart"
+  },
+  {
+    "order": 7,
+    "idx": 24,
+    "label": "figure",
+    "bbox": [
+      84,
+      1228,
+      916,
+      1931
+    ],
+    "role": "skip",
+    "note": "Duplicate block overlapping same chart"
+  },
+  {
+    "order": 8,
+    "idx": 18,
+    "label": "plain text",
+    "bbox": [
+      2030,
+      1057,
+      2201,
+      1233
+    ],
+    "role": "caption",
+    "note": "Small caption beside photo/section"
+  },
+  {
+    "order": 9,
+    "idx": 13,
+    "label": "title",
+    "bbox": [
+      2249,
+      1061,
+      2420,
+      1107
+    ],
+    "role": "title",
+    "note": "Section title for right-page content"
+  },
+  {
+    "order": 10,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      2245,
+      1123,
+      2974,
+      1808
+    ],
+    "role": "body",
+    "note": "Right-column body text under Approach"
+  },
+  {
+    "order": 11,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      1169,
+      1138,
+      1734,
+      1493
+    ],
+    "role": "body",
+    "note": "Center-column body text under Context"
+  },
+  {
+    "order": 12,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      1169,
+      1502,
+      1727,
+      1710
+    ],
+    "role": "body",
+    "note": "Continuation of center-column body text"
+  },
+  {
+    "order": 13,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      3016,
+      1417,
+      3737,
+      1631
+    ],
+    "role": "body",
+    "note": "Continuation of right-column body text"
+  },
+  {
+    "order": 14,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      3016,
+      1668,
+      3704,
+      1965
+    ],
+    "role": "body",
+    "note": "Lower right-column body continuation"
+  },
+  {
+    "order": 15,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      3017,
+      152,
+      3731,
+      493
+    ],
+    "role": "body",
+    "note": "Right-column body text continuation"
+  },
+  {
+    "order": 16,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      3015,
+      530,
+      3734,
+      830
+    ],
+    "role": "body",
+    "note": "Right-column body text continuation"
+  },
+  {
+    "order": 17,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      3016,
+      866,
+      3744,
+      1381
+    ],
+    "role": "body",
+    "note": "Right-column body text continuation"
+  },
+  {
+    "order": 18,
+    "idx": 12,
+    "label": "abandon",
+    "bbox": [
+      2251,
+      1911,
+      2921,
+      1964
+    ],
+    "role": "skip",
+    "note": "Decorative/invalid block"
+  },
+  {
+    "order": 19,
+    "idx": 14,
+    "label": "abandon",
+    "bbox": [
+      1168,
+      1947,
+      1681,
+      2023
+    ],
+    "role": "skip",
+    "note": "Decorative/invalid block"
+  },
+  {
+    "order": 20,
+    "idx": 23,
+    "label": "abandon",
+    "bbox": [
+      90,
+      2070,
+      369,
+      2107
+    ],
+    "role": "skip",
+    "note": "Footer/navigation element"
+  },
+  {
+    "order": 21,
+    "idx": 22,
+    "label": "abandon",
+    "bbox": [
+      117,
+      2071,
+      807,
+      2106
+    ],
+    "role": "skip",
+    "note": "Footer/navigation element"
+  },
+  {
+    "order": 22,
+    "idx": 16,
+    "label": "abandon",
+    "bbox": [
+      3117,
+      2075,
+      3606,
+      2101
+    ],
+    "role": "skip",
+    "note": "Page footer"
+  },
+  {
+    "order": 23,
+    "idx": 21,
+    "label": "abandon",
+    "bbox": [
+      3726,
+      2076,
+      3747,
+      2098
+    ],
+    "role": "skip",
+    "note": "Footer edge artifact"
+  }
+]

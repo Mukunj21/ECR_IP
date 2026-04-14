@@ -1,0 +1,483 @@
+[
+  {
+    "order": 1,
+    "idx": 10,
+    "label": "title",
+    "bbox": [
+      92,
+      89,
+      1067,
+      416
+    ],
+    "role": "title",
+    "note": "main page title"
+  },
+  {
+    "order": 2,
+    "idx": 13,
+    "label": "plain text",
+    "bbox": [
+      92,
+      503,
+      757,
+      678
+    ],
+    "role": "body",
+    "note": "left column intro paragraph"
+  },
+  {
+    "order": 3,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      91,
+      712,
+      797,
+      1270
+    ],
+    "role": "body",
+    "note": "left column body text continuation"
+  },
+  {
+    "order": 4,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      91,
+      1306,
+      812,
+      1866
+    ],
+    "role": "body",
+    "note": "left column body text continuation"
+  },
+  {
+    "order": 5,
+    "idx": 3,
+    "label": "figure",
+    "bbox": [
+      862,
+      502,
+      1587,
+      1242
+    ],
+    "role": "photo",
+    "note": "embedded photo in left-middle column"
+  },
+  {
+    "order": 6,
+    "idx": 29,
+    "label": "plain text",
+    "bbox": [
+      862,
+      1327,
+      1540,
+      1453
+    ],
+    "role": "body",
+    "note": "text below photo, left-middle continuation"
+  },
+  {
+    "order": 7,
+    "idx": 23,
+    "label": "plain text",
+    "bbox": [
+      856,
+      1491,
+      1565,
+      1877
+    ],
+    "role": "body",
+    "note": "left-middle continuation with linked items"
+  },
+  {
+    "order": 8,
+    "idx": 34,
+    "label": "title",
+    "bbox": [
+      1940,
+      89,
+      2808,
+      142
+    ],
+    "role": "title",
+    "note": "right-page section title"
+  },
+  {
+    "order": 9,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      1938,
+      227,
+      2504,
+      582
+    ],
+    "role": "body",
+    "note": "right column intro text"
+  },
+  {
+    "order": 10,
+    "idx": 22,
+    "label": "title",
+    "bbox": [
+      2556,
+      229,
+      3010,
+      305
+    ],
+    "role": "section_header",
+    "note": "subsection header"
+  },
+  {
+    "order": 11,
+    "idx": 31,
+    "label": "plain text",
+    "bbox": [
+      2550,
+      307,
+      3120,
+      974
+    ],
+    "role": "body",
+    "note": "subsection body list"
+  },
+  {
+    "order": 12,
+    "idx": 24,
+    "label": "title",
+    "bbox": [
+      3172,
+      228,
+      3490,
+      264
+    ],
+    "role": "section_header",
+    "note": "subsection header"
+  },
+  {
+    "order": 13,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      3170,
+      265,
+      3744,
+      719
+    ],
+    "role": "body",
+    "note": "rightmost column body list"
+  },
+  {
+    "order": 14,
+    "idx": 14,
+    "label": "plain text",
+    "bbox": [
+      1940,
+      618,
+      2487,
+      703
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 15,
+    "idx": 15,
+    "label": "plain text",
+    "bbox": [
+      1940,
+      739,
+      2417,
+      823
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 16,
+    "idx": 25,
+    "label": "title",
+    "bbox": [
+      3172,
+      761,
+      3326,
+      796
+    ],
+    "role": "section_header",
+    "note": "subsection header"
+  },
+  {
+    "order": 17,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      3171,
+      800,
+      3716,
+      1077
+    ],
+    "role": "body",
+    "note": "rightmost column continuation"
+  },
+  {
+    "order": 18,
+    "idx": 27,
+    "label": "plain text",
+    "bbox": [
+      1940,
+      860,
+      2453,
+      943
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 19,
+    "idx": 20,
+    "label": "plain text",
+    "bbox": [
+      1940,
+      981,
+      2429,
+      1064
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 20,
+    "idx": 26,
+    "label": "title",
+    "bbox": [
+      2555,
+      1014,
+      2666,
+      1047
+    ],
+    "role": "section_header",
+    "note": "subsection header"
+  },
+  {
+    "order": 21,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      2552,
+      1052,
+      3108,
+      1541
+    ],
+    "role": "body",
+    "note": "list/body continuation under subsection"
+  },
+  {
+    "order": 22,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      1939,
+      1103,
+      2466,
+      1227
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 23,
+    "idx": 30,
+    "label": "title",
+    "bbox": [
+      3172,
+      1120,
+      3348,
+      1155
+    ],
+    "role": "section_header",
+    "note": "subsection header"
+  },
+  {
+    "order": 24,
+    "idx": 33,
+    "label": "plain text",
+    "bbox": [
+      1632,
+      1121,
+      1803,
+      1243
+    ],
+    "role": "body",
+    "note": "small standalone text block"
+  },
+  {
+    "order": 25,
+    "idx": 11,
+    "label": "plain text",
+    "bbox": [
+      3169,
+      1155,
+      3745,
+      1718
+    ],
+    "role": "body",
+    "note": "rightmost column continuation"
+  },
+  {
+    "order": 26,
+    "idx": 16,
+    "label": "plain text",
+    "bbox": [
+      1939,
+      1266,
+      2480,
+      1349
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 27,
+    "idx": 19,
+    "label": "plain text",
+    "bbox": [
+      1939,
+      1387,
+      2431,
+      1471
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 28,
+    "idx": 32,
+    "label": "title",
+    "bbox": [
+      2556,
+      1583,
+      2779,
+      1618
+    ],
+    "role": "section_header",
+    "note": "subsection header"
+  },
+  {
+    "order": 29,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      2553,
+      1622,
+      3110,
+      1901
+    ],
+    "role": "body",
+    "note": "subsection body continuation"
+  },
+  {
+    "order": 30,
+    "idx": 18,
+    "label": "plain text",
+    "bbox": [
+      1939,
+      1508,
+      2459,
+      1591
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 31,
+    "idx": 17,
+    "label": "plain text",
+    "bbox": [
+      1939,
+      1631,
+      2461,
+      1714
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 32,
+    "idx": 21,
+    "label": "title",
+    "bbox": [
+      1940,
+      1754,
+      2071,
+      1789
+    ],
+    "role": "section_header",
+    "note": "subsection header"
+  },
+  {
+    "order": 33,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      1938,
+      1795,
+      2474,
+      2005
+    ],
+    "role": "body",
+    "note": "final right column body"
+  },
+  {
+    "order": 34,
+    "idx": 37,
+    "label": "abandon",
+    "bbox": [
+      90,
+      2071,
+      367,
+      2106
+    ],
+    "role": "skip",
+    "note": "decorative/footer element"
+  },
+  {
+    "order": 35,
+    "idx": 35,
+    "label": "abandon",
+    "bbox": [
+      95,
+      2071,
+      837,
+      2106
+    ],
+    "role": "footer",
+    "note": "page footer text"
+  },
+  {
+    "order": 36,
+    "idx": 28,
+    "label": "abandon",
+    "bbox": [
+      3116,
+      2075,
+      3608,
+      2102
+    ],
+    "role": "footer",
+    "note": "page footer text"
+  },
+  {
+    "order": 37,
+    "idx": 36,
+    "label": "abandon",
+    "bbox": [
+      3727,
+      2078,
+      3746,
+      2099
+    ],
+    "role": "page_number",
+    "note": "page number"
+  }
+]

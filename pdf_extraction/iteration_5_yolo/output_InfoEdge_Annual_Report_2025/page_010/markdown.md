@@ -1,0 +1,17 @@
+# infoedge
+
+## PROFIT GENERATION BY INFO EDGE (₹ Mn)
+
+[Figure: Sankey-style flow diagram showing how Info Edge’s revenue from operations is split into business segments and then flows into operating profit/expenses and finally net profit. On the left, a revenue split shows Recruitment 19,826, Real Estate 4,108, Matchmaking 1,098, and Education 1,504 feeding into Revenue from operations 26,536. This then divides into Operating Profit 9,733 and Operating Expenses 16,803. Operating Profit further flows to Net Profit 7,734, with separate outflows shown for Tax 5,701 and Exceptional Items 564, while Other Income 3,138 also feeds into Net Profit. Operating Expenses branch into Employee Benefits Expenses 10,815, Advertising and Promotion Costs 3,125, Depreciation and Amortisation 801, Other Expenses 1,340, Network, Internet and Other Direct Expenses 532, and Finance Costs 191. The diagram uses thick colored bands to show magnitude, with purple tones for revenue/other income/net profit, blue tones for revenue and expenses, and pink accents for tax/exceptional items.]
+
+## NET REVENUE (₹ Mn)
+
+[Figure: Stacked bar chart of net revenue by FY21 to FY25. The x-axis shows FY21, FY22, FY23, FY24, FY25; values are displayed above the bars as 11,280, 15,625, 21,586, 23,810, and 26,536. Each stacked bar breaks down into Recruitment, Real Estate, Matchmaking, and Education, with the totals dominated by Recruitment. Segment values shown on the bars are: FY21 Recruitment 8,004, Real Estate 1,738, Matchmaking 969, Education 570; FY22 Recruitment 11,542, Real Estate 2,173, Matchmaking 1,002, Education 907; FY23 Recruitment 16,796, Real Estate 2,845, Matchmaking 776, Education 1,169; FY24 Recruitment 18,053, Real Estate 3,513, Matchmaking 853, Education 1,391; FY25 Recruitment 19,826, Real Estate 4,108, Matchmaking 1,098, Education 1,504. A legend identifies the colors: Recruitment, Real Estate, Matchmaking, Education, and Total net revenue. On the right, circular CAGR callouts show 27.5%, 3.2%, 24.0%, and 25.5%.]
+
+## MARKETING EXPENSE AS A % OF RESPECTIVE BUSINESS' NET REVENUES (%)
+
+[Figure: Line chart with three series across FY21 to FY25 showing marketing expense percentages. Recruitment is the dark blue line rising from 1.0% to 2.2%, 3.8%, 4.5%, and 5.4%. Non-recruitment is the purple line falling from 47.6% to 57.3%, 45.8%, 29.4%, and 26.4% after peaking in FY22. Total is the gray line at 14.6%, 16.6%, 13.1%, 10.5%, and 10.7%. The x-axis labels are FY21, FY22, FY23, FY24, FY25; markers and data labels are shown at each point. The legend at the bottom identifies Recruitment, Non-recruitment, and Total.]
+
+## BILLINGS (₹ Mn)
+
+[Figure: Stacked bar chart of billings by FY21 to FY25. The x-axis shows FY21, FY22, FY23, FY24, FY25; total billings are labeled above the bars as 11,758, 18,660, 23,663, 24,959, and 28,817. Segment values shown on the bars are: FY21 Recruitment 8,320, Real Estate 1,848, Matchmaking 1,004, Education 586; FY22 Recruitment 14,364, Real Estate 2,312, Matchmaking 1,019, Education 965; FY23 Recruitment 18,587, Real Estate 3,116, Matchmaking 721, Education 1,239; FY24 Recruitment 18,832, Real Estate 3,851, Matchmaking 846, Education 1,430; FY25 Recruitment 21,577, Real Estate 4,507, Matchmaking 1,109, Education 1,624. A legend at the bottom identifies the same color coding for Recruitment, Real Estate, Matchmaking, Education, and Total Billings. On the right, circular CAGR callouts show 29.0%, 2.5%, 25.0%, and 26.9%.]

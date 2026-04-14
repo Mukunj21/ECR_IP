@@ -1,0 +1,353 @@
+[
+  {
+    "order": 1,
+    "idx": 13,
+    "label": "title",
+    "bbox": [
+      402,
+      88,
+      1051,
+      189
+    ],
+    "role": "title",
+    "note": "Top-left section title"
+  },
+  {
+    "order": 2,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      402,
+      203,
+      1030,
+      371
+    ],
+    "role": "body",
+    "note": "Left column continuation"
+  },
+  {
+    "order": 3,
+    "idx": 25,
+    "label": "plain text",
+    "bbox": [
+      91,
+      494,
+      356,
+      619
+    ],
+    "role": "caption",
+    "note": "Small caption text beside image"
+  },
+  {
+    "order": 4,
+    "idx": 28,
+    "label": "figure_caption",
+    "bbox": [
+      91,
+      494,
+      356,
+      619
+    ],
+    "role": "caption",
+    "note": "Caption overlapping same region"
+  },
+  {
+    "order": 5,
+    "idx": 4,
+    "label": "figure",
+    "bbox": [
+      97,
+      698,
+      1124,
+      1999
+    ],
+    "role": "photo",
+    "note": "Large photograph in left column"
+  },
+  {
+    "order": 6,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      1171,
+      89,
+      1891,
+      260
+    ],
+    "role": "body",
+    "note": "Top of second column"
+  },
+  {
+    "order": 7,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      1171,
+      296,
+      1884,
+      552
+    ],
+    "role": "body",
+    "note": "Second column continuation"
+  },
+  {
+    "order": 8,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      1173,
+      557,
+      1867,
+      938
+    ],
+    "role": "body",
+    "note": "Second column continuation"
+  },
+  {
+    "order": 9,
+    "idx": 11,
+    "label": "plain text",
+    "bbox": [
+      1172,
+      944,
+      1879,
+      1584
+    ],
+    "role": "body",
+    "note": "Second column continuation"
+  },
+  {
+    "order": 10,
+    "idx": 16,
+    "label": "plain text",
+    "bbox": [
+      1171,
+      1587,
+      1863,
+      1757
+    ],
+    "role": "body",
+    "note": "Second column continuation"
+  },
+  {
+    "order": 11,
+    "idx": 17,
+    "label": "title",
+    "bbox": [
+      1941,
+      90,
+      2271,
+      128
+    ],
+    "role": "title",
+    "note": "Right column section title"
+  },
+  {
+    "order": 12,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      1941,
+      133,
+      2659,
+      690
+    ],
+    "role": "body",
+    "note": "Right column body text"
+  },
+  {
+    "order": 13,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      2710,
+      90,
+      3401,
+      301
+    ],
+    "role": "body",
+    "note": "Top-right continuation"
+  },
+  {
+    "order": 14,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      2709,
+      340,
+      3443,
+      680
+    ],
+    "role": "body",
+    "note": "Right-top continuation"
+  },
+  {
+    "order": 15,
+    "idx": 22,
+    "label": "table_caption",
+    "bbox": [
+      2458,
+      795,
+      2841,
+      832
+    ],
+    "role": "caption",
+    "note": "Caption above table"
+  },
+  {
+    "order": 16,
+    "idx": 2,
+    "label": "table",
+    "bbox": [
+      1938,
+      837,
+      3746,
+      1408
+    ],
+    "role": "table",
+    "note": "Main data table"
+  },
+  {
+    "order": 17,
+    "idx": 26,
+    "label": "table_caption",
+    "bbox": [
+      1945,
+      1415,
+      2146,
+      1447
+    ],
+    "role": "caption",
+    "note": "Caption/title fragment before table continuation"
+  },
+  {
+    "order": 18,
+    "idx": 27,
+    "label": "title",
+    "bbox": [
+      2459,
+      1415,
+      2607,
+      1446
+    ],
+    "role": "section_header",
+    "note": "Table subsection header"
+  },
+  {
+    "order": 19,
+    "idx": 15,
+    "label": "plain text",
+    "bbox": [
+      2459,
+      1449,
+      3741,
+      1552
+    ],
+    "role": "body",
+    "note": "Table-related explanatory text"
+  },
+  {
+    "order": 20,
+    "idx": 19,
+    "label": "title",
+    "bbox": [
+      2460,
+      1569,
+      2674,
+      1601
+    ],
+    "role": "section_header",
+    "note": "Subsection header"
+  },
+  {
+    "order": 21,
+    "idx": 12,
+    "label": "plain text",
+    "bbox": [
+      2460,
+      1604,
+      3713,
+      1706
+    ],
+    "role": "body",
+    "note": "Right-column explanatory text"
+  },
+  {
+    "order": 22,
+    "idx": 23,
+    "label": "title",
+    "bbox": [
+      2459,
+      1723,
+      2622,
+      1754
+    ],
+    "role": "section_header",
+    "note": "Subsection header"
+  },
+  {
+    "order": 23,
+    "idx": 14,
+    "label": "plain text",
+    "bbox": [
+      2459,
+      1760,
+      3674,
+      1862
+    ],
+    "role": "body",
+    "note": "Right-column explanatory text"
+  },
+  {
+    "order": 24,
+    "idx": 18,
+    "label": "abandon",
+    "bbox": [
+      1940,
+      1950,
+      3712,
+      2008
+    ],
+    "role": "footnote",
+    "note": "Bottom footnote spanning page"
+  },
+  {
+    "order": 25,
+    "idx": 21,
+    "label": "abandon",
+    "bbox": [
+      91,
+      2070,
+      814,
+      2107
+    ],
+    "role": "footer",
+    "note": "Bottom navigation/footer text"
+  },
+  {
+    "order": 26,
+    "idx": 20,
+    "label": "abandon",
+    "bbox": [
+      3118,
+      2075,
+      3607,
+      2102
+    ],
+    "role": "footer",
+    "note": "Document footer"
+  },
+  {
+    "order": 27,
+    "idx": 24,
+    "label": "abandon",
+    "bbox": [
+      3726,
+      2075,
+      3746,
+      2099
+    ],
+    "role": "page_number",
+    "note": "Page number at bottom-right"
+  }
+]

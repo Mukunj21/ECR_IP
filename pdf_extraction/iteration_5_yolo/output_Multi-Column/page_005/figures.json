@@ -1,0 +1,17 @@
+[
+  {
+    "type": "figure",
+    "description": "Materiality matrix showing Nestlé topics plotted by importance and impact on business success versus impact on people and the environment, with axes labeled Negligible, Moderate, Significant, and Major. Topics are grouped across the matrix with numbered green markers and a side list of report chapters covering those topics.",
+    "page": 5
+  },
+  {
+    "type": "figure",
+    "description": "A materiality matrix chart with a 4x4-style grid. The horizontal axis is “Importance and impact on Nestlé’s business success” from Negligible to Major, and the vertical axis is “Impact of Nestlé on people and the environment” from Negligible to Major. Green numbered markers label topics including governance structures & mechanisms, data privacy management, business ethics, community relations, animal welfare, employee health & safety, physical impacts of climate change, access & affordability, product labeling & marketing, circular economy, human rights & labor practices, employee acquisition, talent management & retention, employee engagement, diversity & inclusion, packaging lifecycle management, water management, ecological impacts, GHG emissions, health & nutrition, environmental & social impacts of ingredient supply chain, and product quality & safety. A side list titled “Report chapters covering topics” maps chapter names to topic numbers.",
+    "page": 5
+  },
+  {
+    "type": "figure",
+    "description": "A left-to-right process flow with six steps connected by green arrows: Material topics selection; Establish external context; Stakeholder engagement; Materiality assessment; Review strategies; Publish in CSV and Sustainability Report. Supporting text under each step notes SASB-aligned material topics selected, AI software analysis and analysis of environment, 55 interviews conducted and surveys collected, quantitative and qualitative input assessed, identify risks and opportunities in results and adjust priorities accordingly, and share results internally and externally.",
+    "page": 5
+  }
+]

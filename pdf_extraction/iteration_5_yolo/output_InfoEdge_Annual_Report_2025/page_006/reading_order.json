@@ -1,0 +1,288 @@
+[
+  {
+    "order": 1,
+    "idx": 13,
+    "label": "abandon",
+    "bbox": [
+      97,
+      53,
+      247,
+      92
+    ],
+    "role": "skip",
+    "note": "page header/logo element"
+  },
+  {
+    "order": 2,
+    "idx": 16,
+    "label": "abandon",
+    "bbox": [
+      2327,
+      118,
+      2378,
+      354
+    ],
+    "role": "skip",
+    "note": "decorative side tab"
+  },
+  {
+    "order": 3,
+    "idx": 22,
+    "label": "plain text",
+    "bbox": [
+      98,
+      191,
+      362,
+      257
+    ],
+    "role": "section_header",
+    "note": "left-page section label"
+  },
+  {
+    "order": 4,
+    "idx": 21,
+    "label": "plain text",
+    "bbox": [
+      100,
+      228,
+      362,
+      256
+    ],
+    "role": "skip",
+    "note": "duplicate/overlapping text block"
+  },
+  {
+    "order": 5,
+    "idx": 10,
+    "label": "title",
+    "bbox": [
+      479,
+      259,
+      1058,
+      545
+    ],
+    "role": "title",
+    "note": "main page headline"
+  },
+  {
+    "order": 6,
+    "idx": 18,
+    "label": "figure",
+    "bbox": [
+      53,
+      588,
+      693,
+      1683
+    ],
+    "role": "photo",
+    "note": "large portrait image"
+  },
+  {
+    "order": 7,
+    "idx": 19,
+    "label": "figure",
+    "bbox": [
+      723,
+      621,
+      861,
+      755
+    ],
+    "role": "figure",
+    "note": "small decorative quote graphic"
+  },
+  {
+    "order": 8,
+    "idx": 17,
+    "label": "plain text",
+    "bbox": [
+      725,
+      784,
+      1057,
+      1265
+    ],
+    "role": "caption",
+    "note": "pull-quote text near portrait"
+  },
+  {
+    "order": 9,
+    "idx": 15,
+    "label": "plain text",
+    "bbox": [
+      873,
+      1417,
+      1052,
+      1482
+    ],
+    "role": "caption",
+    "note": "signature/name block under quote"
+  },
+  {
+    "order": 10,
+    "idx": 20,
+    "label": "plain text",
+    "bbox": [
+      873,
+      1417,
+      1052,
+      1482
+    ],
+    "role": "skip",
+    "note": "duplicate of signature block"
+  },
+  {
+    "order": 11,
+    "idx": 14,
+    "label": "abandon",
+    "bbox": [
+      99,
+      1609,
+      117,
+      1629
+    ],
+    "role": "page_number",
+    "note": "page number"
+  },
+  {
+    "order": 12,
+    "idx": 12,
+    "label": "title",
+    "bbox": [
+      1330,
+      247,
+      1540,
+      275
+    ],
+    "role": "section_header",
+    "note": "right-page intro heading"
+  },
+  {
+    "order": 13,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      1330,
+      289,
+      2252,
+      439
+    ],
+    "role": "body",
+    "note": "introductory paragraph"
+  },
+  {
+    "order": 14,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      1330,
+      479,
+      1794,
+      623
+    ],
+    "role": "body",
+    "note": "left text column continuation"
+  },
+  {
+    "order": 15,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      1329,
+      635,
+      1785,
+      923
+    ],
+    "role": "body",
+    "note": "left text column continuation"
+  },
+  {
+    "order": 16,
+    "idx": 9,
+    "label": "title",
+    "bbox": [
+      1814,
+      480,
+      2150,
+      539
+    ],
+    "role": "section_header",
+    "note": "right column subheading"
+  },
+  {
+    "order": 17,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      1815,
+      545,
+      2266,
+      906
+    ],
+    "role": "body",
+    "note": "right column body text"
+  },
+  {
+    "order": 18,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      1329,
+      935,
+      1787,
+      1127
+    ],
+    "role": "body",
+    "note": "left column continuation"
+  },
+  {
+    "order": 19,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      1330,
+      1139,
+      1788,
+      1308
+    ],
+    "role": "body",
+    "note": "left column continuation"
+  },
+  {
+    "order": 20,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      1329,
+      1319,
+      1791,
+      1415
+    ],
+    "role": "body",
+    "note": "left column ending paragraph"
+  },
+  {
+    "order": 21,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      1815,
+      918,
+      2275,
+      1301
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 22,
+    "idx": 11,
+    "label": "abandon",
+    "bbox": [
+      2059,
+      1609,
+      2279,
+      1629
+    ],
+    "role": "footer",
+    "note": "page footer"
+  }
+]

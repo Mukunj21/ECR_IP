@@ -1,0 +1,12 @@
+[
+  {
+    "type": "figure",
+    "description": "World map visualization titled 'Impact of climate and physical risks on Nestlé’s key ingredient yields by 2040'. It shows modeled yield changes by 2040 vs. 2022 for key ingredients across sourcing countries, with a legend for green (+2% increase or more), white (-2% decrease to +2% increase), and red (-2% decrease or more). The map covers North and South America, Europe, Africa, Asia, and Australia, with labeled countries including US, Mexico, Colombia, Ecuador, Chile, Argentina, Brazil, Honduras, Ghana, Côte d’Ivoire, Pakistan, South Africa, Spain, UK, France, Germany, Italy, India, Thailand, Malaysia, Vietnam, Indonesia, China, and Australia. A left-side ingredient legend lists arabica, robusta, palm oil, cocoa, dairy, barley, maize, rice, soy, wheat, sugarcane, and sugarbeet. Callout lines connect country labels to small stacked ingredient markers and colored dots indicating yield-change categories.",
+    "page": 11
+  },
+  {
+    "type": "diagram",
+    "description": "Small illustrative visual on the right page associated with the article 'Researching resilient coffee plants'; the crop image is provided only as a placeholder/thumbnail and its contents are not legible in the page image.",
+    "page": 11
+  }
+]

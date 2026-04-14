@@ -1,0 +1,275 @@
+[
+  {
+    "order": 1,
+    "idx": 16,
+    "label": "title",
+    "bbox": [
+      96,
+      52,
+      247,
+      93
+    ],
+    "role": "title",
+    "note": "page title at top left"
+  },
+  {
+    "order": 2,
+    "idx": 4,
+    "label": "figure_caption",
+    "bbox": [
+      102,
+      157,
+      617,
+      185
+    ],
+    "role": "caption",
+    "note": "caption above left chart"
+  },
+  {
+    "order": 3,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      95,
+      215,
+      1052,
+      623
+    ],
+    "role": "bar_chart",
+    "note": "left upper chart"
+  },
+  {
+    "order": 4,
+    "idx": 13,
+    "label": "figure_caption",
+    "bbox": [
+      98,
+      668,
+      327,
+      696
+    ],
+    "role": "caption",
+    "note": "caption above lower-left chart"
+  },
+  {
+    "order": 5,
+    "idx": 10,
+    "label": "figure",
+    "bbox": [
+      101,
+      663,
+      1044,
+      1027
+    ],
+    "role": "bar_chart",
+    "note": "left middle chart"
+  },
+  {
+    "order": 6,
+    "idx": 15,
+    "label": "figure_caption",
+    "bbox": [
+      97,
+      1074,
+      687,
+      1103
+    ],
+    "role": "caption",
+    "note": "caption above bottom-left chart"
+  },
+  {
+    "order": 7,
+    "idx": 12,
+    "label": "figure",
+    "bbox": [
+      95,
+      1082,
+      1050,
+      1523
+    ],
+    "role": "bar_chart",
+    "note": "left lower chart"
+  },
+  {
+    "order": 8,
+    "idx": 11,
+    "label": "table_footnote",
+    "bbox": [
+      99,
+      1549,
+      778,
+      1571
+    ],
+    "role": "footnote",
+    "note": "footnote after left column content"
+  },
+  {
+    "order": 9,
+    "idx": 7,
+    "label": "figure_caption",
+    "bbox": [
+      1328,
+      158,
+      1751,
+      185
+    ],
+    "role": "caption",
+    "note": "caption above top-right chart"
+  },
+  {
+    "order": 10,
+    "idx": 2,
+    "label": "figure",
+    "bbox": [
+      1326,
+      188,
+      2282,
+      497
+    ],
+    "role": "bar_chart",
+    "note": "top-right chart"
+  },
+  {
+    "order": 11,
+    "idx": 14,
+    "label": "table_footnote",
+    "bbox": [
+      1330,
+      500,
+      1638,
+      521
+    ],
+    "role": "footnote",
+    "note": "note under top-right chart"
+  },
+  {
+    "order": 12,
+    "idx": 3,
+    "label": "figure_caption",
+    "bbox": [
+      1329,
+      560,
+      1672,
+      587
+    ],
+    "role": "caption",
+    "note": "caption above right-middle chart"
+  },
+  {
+    "order": 13,
+    "idx": 9,
+    "label": "figure",
+    "bbox": [
+      1323,
+      604,
+      2287,
+      1025
+    ],
+    "role": "diagram",
+    "note": "standalone balance sheet diagrams"
+  },
+  {
+    "order": 14,
+    "idx": 5,
+    "label": "figure_caption",
+    "bbox": [
+      1328,
+      1082,
+      1692,
+      1109
+    ],
+    "role": "caption",
+    "note": "caption above bottom-right chart"
+  },
+  {
+    "order": 15,
+    "idx": 17,
+    "label": "figure",
+    "bbox": [
+      1319,
+      1119,
+      2287,
+      1566
+    ],
+    "role": "diagram",
+    "note": "consolidated balance sheet diagrams"
+  },
+  {
+    "order": 16,
+    "idx": 18,
+    "label": "figure",
+    "bbox": [
+      1807,
+      1120,
+      2283,
+      1568
+    ],
+    "role": "diagram",
+    "note": "right sub-diagram in bottom-right panel"
+  },
+  {
+    "order": 17,
+    "idx": 19,
+    "label": "figure",
+    "bbox": [
+      1325,
+      1123,
+      1789,
+      1540
+    ],
+    "role": "diagram",
+    "note": "left sub-diagram in bottom-right panel"
+  },
+  {
+    "order": 18,
+    "idx": 8,
+    "label": "abandon",
+    "bbox": [
+      100,
+      1609,
+      129,
+      1630
+    ],
+    "role": "page_number",
+    "note": "bottom-left page number"
+  },
+  {
+    "order": 19,
+    "idx": 6,
+    "label": "abandon",
+    "bbox": [
+      2046,
+      1609,
+      2278,
+      1629
+    ],
+    "role": "footer",
+    "note": "bottom-right footer text"
+  },
+  {
+    "order": 20,
+    "idx": 20,
+    "label": "abandon",
+    "bbox": [
+      96,
+      52,
+      247,
+      93
+    ],
+    "role": "skip",
+    "note": "duplicate/unclear label on title block"
+  },
+  {
+    "order": 21,
+    "idx": 21,
+    "label": "abandon",
+    "bbox": [
+      2336,
+      162,
+      2361,
+      322
+    ],
+    "role": "skip",
+    "note": "decorative side element"
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "order": 1,
+    "idx": 9,
+    "label": "title",
+    "bbox": [
+      97,
+      89,
+      1577,
+      249
+    ],
+    "role": "title",
+    "note": "page title at top left"
+  },
+  {
+    "order": 2,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      92,
+      502,
+      666,
+      738
+    ],
+    "role": "body",
+    "note": "left column introductory paragraph"
+  },
+  {
+    "order": 3,
+    "idx": 12,
+    "label": "title",
+    "bbox": [
+      93,
+      808,
+      488,
+      860
+    ],
+    "role": "section_header",
+    "note": "left column section heading"
+  },
+  {
+    "order": 4,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      91,
+      871,
+      663,
+      1473
+    ],
+    "role": "body",
+    "note": "continuation of left column section text"
+  },
+  {
+    "order": 5,
+    "idx": 11,
+    "label": "title",
+    "bbox": [
+      709,
+      503,
+      1004,
+      554
+    ],
+    "role": "section_header",
+    "note": "middle column section heading"
+  },
+  {
+    "order": 6,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      709,
+      564,
+      1263,
+      1124
+    ],
+    "role": "body",
+    "note": "body text under middle column heading"
+  },
+  {
+    "order": 7,
+    "idx": 10,
+    "label": "title",
+    "bbox": [
+      1325,
+      502,
+      1656,
+      555
+    ],
+    "role": "section_header",
+    "note": "right column section heading"
+  },
+  {
+    "order": 8,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      1323,
+      565,
+      1893,
+      1166
+    ],
+    "role": "body",
+    "note": "body text under right column heading"
+  },
+  {
+    "order": 9,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      709,
+      1158,
+      1267,
+      1414
+    ],
+    "role": "body",
+    "note": "middle column continuation"
+  },
+  {
+    "order": 10,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      1324,
+      1202,
+      1893,
+      1586
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 11,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      708,
+      1449,
+      1243,
+      1967
+    ],
+    "role": "body",
+    "note": "middle column continuation after prior paragraph"
+  },
+  {
+    "order": 12,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      1324,
+      1623,
+      1875,
+      1835
+    ],
+    "role": "body",
+    "note": "right column final paragraph"
+  },
+  {
+    "order": 13,
+    "idx": 14,
+    "label": "figure_caption",
+    "bbox": [
+      1988,
+      196,
+      2630,
+      245
+    ],
+    "role": "caption",
+    "note": "caption above the figure"
+  },
+  {
+    "order": 14,
+    "idx": 17,
+    "label": "figure",
+    "bbox": [
+      1979,
+      279,
+      3282,
+      1410
+    ],
+    "role": "diagram",
+    "note": "materiality matrix diagram"
+  },
+  {
+    "order": 15,
+    "idx": 16,
+    "label": "table_footnote",
+    "bbox": [
+      1991,
+      1412,
+      2756,
+      1449
+    ],
+    "role": "footnote",
+    "note": "note under the diagram"
+  },
+  {
+    "order": 16,
+    "idx": 20,
+    "label": "title",
+    "bbox": [
+      1989,
+      1567,
+      2490,
+      1616
+    ],
+    "role": "section_header",
+    "note": "heading for process graphic"
+  },
+  {
+    "order": 17,
+    "idx": 15,
+    "label": "figure",
+    "bbox": [
+      1991,
+      1621,
+      3796,
+      2001
+    ],
+    "role": "flowchart",
+    "note": "process flow graphic"
+  },
+  {
+    "order": 18,
+    "idx": 21,
+    "label": "table",
+    "bbox": [
+      1991,
+      1621,
+      3796,
+      2001
+    ],
+    "role": "skip",
+    "note": "duplicate detection of same visual"
+  },
+  {
+    "order": 19,
+    "idx": 18,
+    "label": "abandon",
+    "bbox": [
+      88,
+      2070,
+      763,
+      2107
+    ],
+    "role": "skip",
+    "note": "footer element"
+  },
+  {
+    "order": 20,
+    "idx": 13,
+    "label": "abandon",
+    "bbox": [
+      3116,
+      2075,
+      3619,
+      2102
+    ],
+    "role": "skip",
+    "note": "page footer"
+  },
+  {
+    "order": 21,
+    "idx": 19,
+    "label": "abandon",
+    "bbox": [
+      3729,
+      2077,
+      3747,
+      2101
+    ],
+    "role": "page_number",
+    "note": "page number"
+  }
+]
