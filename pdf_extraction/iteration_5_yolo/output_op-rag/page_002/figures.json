@@ -1,7 +1,0 @@
-[
-  {
-    "type": "figure",
-    "description": "Figure 2: Vanilla RAG versus the proposed order-preserve the RAG. As shown in the example, a long document is cropped into 13 chunks, {c_i}_{i=1}^{13}. The similarity score is appended to each chunk. We retrieve top 4 chunks with the highest similarity scores. Vanilla RAG places the chunks in a score-descending order, whereas the proposed order-preserve RAG places the chunks based on the order in the original document.",
-    "page": 2
-  }
-]

@@ -1,7 +1,0 @@
-[
-  {
-    "type": "figure",
-    "description": "Two line charts comparing Llama3.1-8B and Llama3.1-70B on EN.QA (F1 score) and EN.MC (Accuracy) versus context length (K).",
-    "page": 3
-  }
-]
