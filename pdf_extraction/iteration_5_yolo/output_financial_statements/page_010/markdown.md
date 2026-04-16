@@ -1,6 +1,0 @@
-# Illustrative balance sheet (liabilities)
-
-Consolidated Statement of Financial Position  
-Year ended 30 June 2019
-
-[Figure: Illustrative balance sheet table and diagram showing current and non-current liabilities. The table lists assets, liabilities, equity, and totals for 2018 and 2019; callouts explain that current liabilities will be paid in less than 1 year and include trade accounts payable, while non-current liabilities have repayment terms longer than 1 year and may be repaid over a 5 year period.]

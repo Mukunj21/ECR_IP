@@ -1,5 +1,0 @@
-# Creating Shared Value and Sustainability Report 2023
-
-Advancing regenerative food systems at scale
-
-[Figure: Two people are harvesting coffee cherries in a lush green coffee plantation. Both appear to be adult women wearing broad-brimmed hats and gloves; the person on the left wears a light pink jacket and beige hat, leaning forward and reaching into the coffee plants, while the person on the right wears a green jacket and blue hat, smiling and extending an arm toward the crop. The setting is outdoors in dense vegetation with large coffee leaves filling the foreground and background. Red coffee cherries are visible on branches near the left-center. The lighting is bright and natural, with a fresh, vibrant, green atmosphere. The image serves as a cover photograph for the report. The words “Creating Shared Value and Sustainability Report 2023” and “Advancing regenerative food systems at scale” are overlaid in white at the lower left. No other text, watermarks, or annotations are visible.]

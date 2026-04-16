@@ -1,1 +1,0 @@
-# Understanding the income statement and cash flow

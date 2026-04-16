@@ -1,7 +1,0 @@
-doclayout-yolo==0.0.4
-huggingface_hub==0.36.0
-pillow==12.1.1
-pdfminer.six==20251230
-portkey-ai==2.2.0
-pymupdf==1.27.2
-regex==2024.11.6

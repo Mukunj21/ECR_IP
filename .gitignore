@@ -1,4 +1,0 @@
-.env
-/Model/
-/pdf_extraction/**/*.jpg
-/layout_parser/model_final.pth
