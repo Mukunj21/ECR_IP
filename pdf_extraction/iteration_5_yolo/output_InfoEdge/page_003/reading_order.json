@@ -1,0 +1,210 @@
+[
+  {
+    "order": 1,
+    "idx": 13,
+    "label": "abandon",
+    "bbox": [
+      95,
+      52,
+      249,
+      93
+    ],
+    "role": "skip",
+    "note": "decorative page logo"
+  },
+  {
+    "order": 2,
+    "idx": 15,
+    "label": "title",
+    "bbox": [
+      107,
+      851,
+      1073,
+      1123
+    ],
+    "role": "title",
+    "note": "main page title"
+  },
+  {
+    "order": 3,
+    "idx": 1,
+    "label": "plain text",
+    "bbox": [
+      110,
+      1175,
+      1042,
+      1397
+    ],
+    "role": "body",
+    "note": "introductory body text under title"
+  },
+  {
+    "order": 4,
+    "idx": 2,
+    "label": "plain text",
+    "bbox": [
+      1733,
+      159,
+      2268,
+      353
+    ],
+    "role": "body",
+    "note": "right column top paragraph"
+  },
+  {
+    "order": 5,
+    "idx": 3,
+    "label": "plain text",
+    "bbox": [
+      1733,
+      365,
+      2278,
+      486
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 6,
+    "idx": 4,
+    "label": "plain text",
+    "bbox": [
+      1733,
+      538,
+      2265,
+      756
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 7,
+    "idx": 8,
+    "label": "plain text",
+    "bbox": [
+      1733,
+      815,
+      2252,
+      888
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 8,
+    "idx": 9,
+    "label": "plain text",
+    "bbox": [
+      1733,
+      947,
+      2280,
+      1020
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 9,
+    "idx": 10,
+    "label": "plain text",
+    "bbox": [
+      1733,
+      1073,
+      2275,
+      1145
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 10,
+    "idx": 6,
+    "label": "plain text",
+    "bbox": [
+      1734,
+      1211,
+      2280,
+      1332
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 11,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      1734,
+      1343,
+      2236,
+      1439
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 12,
+    "idx": 7,
+    "label": "plain text",
+    "bbox": [
+      1733,
+      1451,
+      2277,
+      1525
+    ],
+    "role": "body",
+    "note": "right column continuation"
+  },
+  {
+    "order": 13,
+    "idx": 12,
+    "label": "abandon",
+    "bbox": [
+      98,
+      1607,
+      118,
+      1632
+    ],
+    "role": "page_number",
+    "note": "bottom-left page number"
+  },
+  {
+    "order": 14,
+    "idx": 11,
+    "label": "abandon",
+    "bbox": [
+      2059,
+      1609,
+      2279,
+      1630
+    ],
+    "role": "page_number",
+    "note": "bottom-right page number"
+  },
+  {
+    "order": 15,
+    "idx": 14,
+    "label": "title",
+    "bbox": [
+      110,
+      851,
+      1069,
+      1124
+    ],
+    "role": "skip",
+    "note": "duplicate of main title block"
+  },
+  {
+    "order": 16,
+    "idx": 16,
+    "label": "abandon",
+    "bbox": [
+      2329,
+      127,
+      2376,
+      355
+    ],
+    "role": "skip",
+    "note": "vertical side tab decoration"
+  }
+]

@@ -1,14 +1,12 @@
 [
   {
     "type": "figure",
-    "description": "Right-column business diagram with four colored diagonal bands labeled Recruitment, Real Estate, Matchmaking, and Education. Associated brand names appear to the right: Naukri, iimjobs, Hirist, NaukriGulf, Naukri Fast Forward, JobHai, AmbitionBox, Naukri Campus, DoSelect, Zwayam, 99acres, Jeevansathi, Aisle, and Shiksha. Uses icon-style line drawings within each band.",
-    "page_element": "diagram",
+    "description": "A business diagram titled “Our Businesses” showing four stacked colored segments arranged diagonally from top-left to bottom-right under the heading “Our Businesses.” The segments are labeled Recruitment, Real Estate, Matchmaking, and Education, each with a faint line icon: a magnifying glass/person for Recruitment, a house/hand for Real Estate, rings/hearts for Matchmaking, and a graduation cap/lightbulb for Education. To the right of each segment are associated business names: Recruitment includes Naukri, iimjobs, Hirist, NaukriGulf, Naukri Fast Forward, JobHai, AmbitionBox, Naukri Campus, DoSelect, Zwayam; Real Estate includes 99acres; Matchmaking includes Jeevansathi and Aisle; Education includes Shiksha. The layout suggests a grouped business portfolio rather than a process or flow, with the diagonal stack acting as the main organizing structure.",
     "page": 5
   },
   {
     "type": "figure",
-    "description": "Small blue line icon of an eye with connected nodes, used as the icon for the Our Vision section.",
-    "page_element": "illustration",
+    "description": "An icon-style illustration of an eye centered among four small connected nodes. The eye symbol is rendered in blue outline and suggests vision, observation, or insight. The style is simple, symbolic, and metaphorical rather than technical. It functions as the visual marker for the “Our Vision” section.",
     "page": 5
   }
 ]

@@ -2,36 +2,43 @@
   {
     "type": "figure",
     "title": "OPERATING PBT (₹ Mn)",
+    "description": "Stacked bar chart showing Operating PBT in ₹ Mn across FY21 to FY25. The y-axis is Operating PBT values by business segment, with stacked components for Recruitment, Real Estate, Matchmaking, and Education, and a total shown above each year. A CAGR of 42.2% is shown.",
     "page": 11
   },
   {
     "type": "figure",
     "title": "OPERATING PBT MARGINS (%)",
+    "description": "Line chart showing Operating PBT margins in percent across FY21 to FY25. Two series are plotted: Recruitment and Total Standalone. The Recruitment line stays above the Total Standalone line throughout. No dual axis is shown. The visible values are 51.6%, 56.9%, 59.9%, 58.2%, 56.3% for Recruitment and 21.1%, 26.8%, 34.1%, 36.6%, 36.7% for Total Standalone.",
     "page": 11
   },
   {
     "type": "figure",
     "title": "BILLINGS (₹ Mn)",
+    "description": "Simple bar chart comparing billings in ₹ Mn for FY24 and FY25. FY24 is 6,127 and FY25 is 7,240. A YoY increase of 18.2% is shown.",
     "page": 11
   },
   {
     "type": "figure",
     "title": "CASH PROFITS / (LOSSES) FROM OPERATIONS (₹ Mn)",
+    "description": "Simple bar chart comparing cash profits / losses from operations in ₹ Mn for FY24 and FY25. FY24 is (439) and FY25 is 206. A YoY increase of 147.0% is shown.",
     "page": 11
   },
   {
     "type": "figure",
     "title": "PROFIT AFTER TAXES (BEFORE EXCEPTIONAL ITEMS) (₹ Mn)",
+    "description": "Bar chart showing Profit After Taxes (Before Exceptional Items) in ₹ Mn across FY21 to FY25. Values rise from 2,817 to 8,502, then end at 7,170 in FY25. A CAGR of 26.3% is shown.",
     "page": 11
   },
   {
     "type": "figure",
     "title": "EARNINGS PER SHARE* (₹)",
+    "description": "Bar chart showing Earnings Per Share in ₹ across FY21 to FY25. Values rise steadily from 4.46 to 15.42. A CAGR of 36.4% is shown.",
     "page": 11
   },
   {
     "type": "figure",
     "title": "CASH FROM OPERATIONS (BEFORE TAXES) (₹ Mn)",
+    "description": "Stacked bar chart showing Cash from operations before taxes in ₹ Mn across FY21 to FY25. The stacked components are Recruitment, Real Estate, Matchmaking, and Education, with a total shown above each year. A CAGR of 36.4% is shown.",
     "page": 11
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "figure",
+    "label": "Cross Section",
+    "page_part": "top cross-section diagram",
+    "page": 4
+  },
+  {
+    "type": "figure",
+    "label": "Structural Details",
+    "page_part": "bottom multi-panel detail sheet",
+    "page": 4
+  }
+]

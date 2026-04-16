@@ -1,0 +1,106 @@
+[
+  {
+    "order": 1,
+    "idx": 8,
+    "label": "abandon",
+    "bbox": [
+      144,
+      71,
+      552,
+      198
+    ],
+    "role": "title",
+    "note": "main page title/logo area"
+  },
+  {
+    "order": 2,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      682,
+      143,
+      1082,
+      196
+    ],
+    "role": "header",
+    "note": "top-right department header"
+  },
+  {
+    "order": 3,
+    "idx": 6,
+    "label": "title",
+    "bbox": [
+      142,
+      242,
+      430,
+      268
+    ],
+    "role": "section_header",
+    "note": "section heading above the plan"
+  },
+  {
+    "order": 4,
+    "idx": 5,
+    "label": "abandon",
+    "bbox": [
+      977,
+      244,
+      1081,
+      267
+    ],
+    "role": "header",
+    "note": "sheet identifier at top right"
+  },
+  {
+    "order": 5,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      165,
+      295,
+      1058,
+      1365
+    ],
+    "role": "diagram",
+    "note": "main floor plan drawing"
+  },
+  {
+    "order": 6,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      141,
+      1507,
+      476,
+      1528
+    ],
+    "role": "footer",
+    "note": "revision/date footer"
+  },
+  {
+    "order": 7,
+    "idx": 2,
+    "label": "abandon",
+    "bbox": [
+      965,
+      1454,
+      1064,
+      1552
+    ],
+    "role": "page_number",
+    "note": "sheet number marker"
+  },
+  {
+    "order": 8,
+    "idx": 7,
+    "label": "abandon",
+    "bbox": [
+      1032,
+      1375,
+      1090,
+      1433
+    ],
+    "role": "skip",
+    "note": "decorative seal/emblem"
+  }
+]

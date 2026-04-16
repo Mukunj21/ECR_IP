@@ -1,0 +1,306 @@
+[
+  {
+    "type": "diagram",
+    "title": "Foundation Plan",
+    "content": [
+      {
+        "category": "note",
+        "text": "NOTE: all measurements to face of foundation or to face of stud, u.n.o."
+      },
+      {
+        "category": "note",
+        "text": "Provide foundation access 18\" x 24\" min"
+      },
+      {
+        "category": "dimension",
+        "text": "12'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "28'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "6'-6\""
+      },
+      {
+        "category": "dimension",
+        "text": "1'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "8'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "24'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "18'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "12'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "4'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "20'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "12'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "6'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "16'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "34'-0\""
+      },
+      {
+        "category": "dimension",
+        "text": "14'-4\""
+      },
+      {
+        "category": "dimension",
+        "text": "6'-0\" Typ"
+      },
+      {
+        "category": "label",
+        "text": "Double Joists Under Parallel Walls"
+      },
+      {
+        "category": "label",
+        "text": "4 x 8 Beam"
+      },
+      {
+        "category": "label",
+        "text": "2 x 8 RDWD"
+      },
+      {
+        "category": "label",
+        "text": "2 x 8 Joists @ 16\" o.c. Typ"
+      },
+      {
+        "category": "label",
+        "text": "5/8\" T&G Ply Subfloor"
+      },
+      {
+        "category": "label",
+        "text": "24\" x 24\" x 12\" Conc Pads"
+      },
+      {
+        "category": "label",
+        "text": "4 x 6 D. F.#1 Girder"
+      },
+      {
+        "category": "label",
+        "text": "Solid Block Over Girder"
+      },
+      {
+        "category": "label",
+        "text": "GH 46 Girder Hanger or Equal (Typ)"
+      },
+      {
+        "category": "label",
+        "text": "24\" x 24\" x 12\" Pad under Ridge Beam"
+      },
+      {
+        "category": "label",
+        "text": "4\" Concrete Slab"
+      },
+      {
+        "category": "marker",
+        "text": "4"
+      },
+      {
+        "category": "marker",
+        "text": "2"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "Double Joists Under Parallel Walls",
+        "to": "left upper foundation extension",
+        "type": "applies_to"
+      },
+      {
+        "from": "4 x 8 Beam",
+        "to": "upper central horizontal beam region",
+        "type": "identifies"
+      },
+      {
+        "from": "2 x 8 RDWD",
+        "to": "upper right circular framed area",
+        "type": "identifies"
+      },
+      {
+        "from": "2 x 8 Joists @ 16\" o.c. Typ",
+        "to": "left vertical framed bay",
+        "type": "identifies"
+      },
+      {
+        "from": "5/8\" T&G Ply Subfloor",
+        "to": "left central subfloor area",
+        "type": "identifies"
+      },
+      {
+        "from": "24\" x 24\" x 12\" Conc Pads",
+        "to": "multiple dashed pad locations",
+        "type": "repeats_at"
+      },
+      {
+        "from": "4 x 6 D. F.#1 Girder",
+        "to": "central horizontal girder line",
+        "type": "supports"
+      },
+      {
+        "from": "Solid Block Over Girder",
+        "to": "girder at right central area",
+        "type": "applies_to"
+      },
+      {
+        "from": "GH 46 Girder Hanger or Equal (Typ)",
+        "to": "girder support locations",
+        "type": "attaches_at"
+      },
+      {
+        "from": "24\" x 24\" x 12\" Pad under Ridge Beam",
+        "to": "ridge beam support points",
+        "type": "supports"
+      },
+      {
+        "from": "4\" Concrete Slab",
+        "to": "lower right room area",
+        "type": "applies_to"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "type": "diagram",
+    "title": "Roof Framing Plan",
+    "content": [
+      {
+        "category": "label",
+        "text": "Joist Hangers"
+      },
+      {
+        "category": "label",
+        "text": "8 x 10 Ridge"
+      },
+      {
+        "category": "label",
+        "text": "California Frame"
+      },
+      {
+        "category": "label",
+        "text": "4 x 12"
+      },
+      {
+        "category": "label",
+        "text": "2 x 4 Outriggers @ 4'-0\" o.c."
+      },
+      {
+        "category": "label",
+        "text": "4 x 12 Ridge Beam"
+      },
+      {
+        "category": "label",
+        "text": "2 x 10 Ridge Board"
+      },
+      {
+        "category": "label",
+        "text": "2 x 8 Rafters @ 24\" o.c. (typ)"
+      },
+      {
+        "category": "label",
+        "text": "2 x 8 Ceiling Joists @ 16\" o.c. (typ)"
+      },
+      {
+        "category": "label",
+        "text": "Provide attic access 22\" x 30\" min"
+      },
+      {
+        "category": "label",
+        "text": "2 x 10 Ridge Board"
+      },
+      {
+        "category": "marker",
+        "text": "4"
+      },
+      {
+        "category": "marker",
+        "text": "2"
+      }
+    ],
+    "relationships": [
+      {
+        "from": "Joist Hangers",
+        "to": "upper left roof extension",
+        "type": "attach_to"
+      },
+      {
+        "from": "8 x 10 Ridge",
+        "to": "top small roof section",
+        "type": "identifies"
+      },
+      {
+        "from": "California Frame",
+        "to": "roof perimeter edges",
+        "type": "frames"
+      },
+      {
+        "from": "4 x 12",
+        "to": "upper central roof connection",
+        "type": "identifies"
+      },
+      {
+        "from": "2 x 4 Outriggers @ 4'-0\" o.c.",
+        "to": "right edge roof section",
+        "type": "identifies"
+      },
+      {
+        "from": "4 x 12 Ridge Beam",
+        "to": "right roof section",
+        "type": "supports"
+      },
+      {
+        "from": "2 x 10 Ridge Board",
+        "to": "central roof ridge line",
+        "type": "identifies"
+      },
+      {
+        "from": "2 x 8 Rafters @ 24\" o.c. (typ)",
+        "to": "main roof field",
+        "type": "covers"
+      },
+      {
+        "from": "2 x 8 Ceiling Joists @ 16\" o.c. (typ)",
+        "to": "main roof field",
+        "type": "covers"
+      },
+      {
+        "from": "Provide attic access 22\" x 30\" min",
+        "to": "lower central roof area",
+        "type": "applies_to"
+      },
+      {
+        "from": "2 x 10 Ridge Board",
+        "to": "lower right roof extension",
+        "type": "identifies"
+      }
+    ],
+    "page": 3
+  }
+]

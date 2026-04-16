@@ -1,7 +1,8 @@
 [
   {
     "type": "figure",
-    "description": "Info Edge at a Glance — a composite infographic with financial highlights, shareholder returns highlights, and investment highlights. It consists of multiple rectangular metric cards arranged in a two-column grid on a soft blue-to-lavender gradient background. The visible text includes headings \"FINANCIAL HIGHLIGHTS\", \"SHAREHOLDER RETURNS HIGHLIGHTS\", and \"INVESTMENT HIGHLIGHTS\". Metric cards display: \"₹28,817 Mn Standalone Billings\" with an upward arrow and \"15.46%\"; \"56.3% Recruitment Operating PBT Margins\"; \"36.7% Standalone Operating PBT margins\"; \"₹47,857 Mn Cash Balance\"; \"₹15.42 Earnings Per Share (EPS)\" with an upward arrow and \"17.0%\"; \"38.9% Dividend Payout Ratio\"; \"₹6 Dividend Per Share\" with an upward arrow and \"36.4%\"; \"110+ Active Investments\"; and \"₹333 Bn Value of Investments in Listed Companies\". Several metrics include superscript note markers such as ¹, ², ³, ⁴, and ⁵. The card layout uses pale lavender panels with diagonal right-edge accents and black typography, and the lower part includes a notes block with footnotes.",
+    "title": "Info Edge at a Glance infographic",
+    "description": "Multiple highlighted metric cards on a soft gradient background. Sections include financial highlights, shareholder returns highlights, and investment highlights. Visible metrics include ₹28,817 Mn Standalone Billings, 56.3% Recruitment Operating PBT Margins, 36.7% Standalone Operating PBT margins, ₹47,857 Mn Cash Balance, ₹15.42 Earnings Per Share (EPS), 38.9% Dividend Payout Ratio, ₹6 Dividend Per Share, 110+ Active Investments, and ₹333 Bn Value of Investments in Listed Companies.",
     "page": 4
   }
 ]

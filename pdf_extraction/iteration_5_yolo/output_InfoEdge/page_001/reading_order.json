@@ -1,0 +1,80 @@
+[
+  {
+    "order": 1,
+    "idx": 1,
+    "label": "abandon",
+    "bbox": [
+      56,
+      56,
+      316,
+      124
+    ],
+    "role": "title",
+    "note": "top-left cover title"
+  },
+  {
+    "order": 2,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      861,
+      55,
+      1141,
+      139
+    ],
+    "role": "title",
+    "note": "top-right cover branding/title"
+  },
+  {
+    "order": 3,
+    "idx": 3,
+    "label": "figure",
+    "bbox": [
+      183,
+      289,
+      1051,
+      1198
+    ],
+    "role": "illustration",
+    "note": "main cover artwork"
+  },
+  {
+    "order": 4,
+    "idx": 2,
+    "label": "title",
+    "bbox": [
+      174,
+      1306,
+      997,
+      1507
+    ],
+    "role": "title",
+    "note": "main cover headline"
+  },
+  {
+    "order": 5,
+    "idx": 5,
+    "label": "plain text",
+    "bbox": [
+      174,
+      1306,
+      997,
+      1507
+    ],
+    "role": "skip",
+    "note": "duplicate text block"
+  },
+  {
+    "order": 6,
+    "idx": 6,
+    "label": "title",
+    "bbox": [
+      861,
+      55,
+      1141,
+      139
+    ],
+    "role": "skip",
+    "note": "duplicate title block"
+  }
+]

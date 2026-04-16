@@ -1,0 +1,288 @@
+[
+  {
+    "order": 1,
+    "idx": 16,
+    "label": "title",
+    "bbox": [
+      96,
+      52,
+      248,
+      93
+    ],
+    "role": "header",
+    "note": "page brand/header"
+  },
+  {
+    "order": 2,
+    "idx": 10,
+    "label": "figure_caption",
+    "bbox": [
+      100,
+      156,
+      343,
+      184
+    ],
+    "role": "caption",
+    "note": "caption above left chart group"
+  },
+  {
+    "order": 3,
+    "idx": 2,
+    "label": "figure",
+    "bbox": [
+      92,
+      160,
+      1039,
+      668
+    ],
+    "role": "bar_chart",
+    "note": "left top operating PBT chart"
+  },
+  {
+    "order": 4,
+    "idx": 6,
+    "label": "figure_caption",
+    "bbox": [
+      98,
+      710,
+      426,
+      738
+    ],
+    "role": "caption",
+    "note": "caption above left line chart"
+  },
+  {
+    "order": 5,
+    "idx": 3,
+    "label": "figure",
+    "bbox": [
+      95,
+      746,
+      1053,
+      1088
+    ],
+    "role": "line_chart",
+    "note": "left middle operating PBT margins trend"
+  },
+  {
+    "order": 6,
+    "idx": 5,
+    "label": "figure_caption",
+    "bbox": [
+      98,
+      1129,
+      589,
+      1156
+    ],
+    "role": "caption",
+    "note": "section caption for lower-left business performance"
+  },
+  {
+    "order": 7,
+    "idx": 9,
+    "label": "figure",
+    "bbox": [
+      94,
+      1174,
+      542,
+      1524
+    ],
+    "role": "bar_chart",
+    "note": "left lower billings chart"
+  },
+  {
+    "order": 8,
+    "idx": 15,
+    "label": "figure_caption",
+    "bbox": [
+      612,
+      1168,
+      1069,
+      1194
+    ],
+    "role": "caption",
+    "note": "caption above lower-left cash profits chart"
+  },
+  {
+    "order": 9,
+    "idx": 14,
+    "label": "figure",
+    "bbox": [
+      609,
+      1225,
+      1056,
+      1505
+    ],
+    "role": "bar_chart",
+    "note": "left lower cash profits chart"
+  },
+  {
+    "order": 10,
+    "idx": 13,
+    "label": "table_footnote",
+    "bbox": [
+      98,
+      1535,
+      208,
+      1556
+    ],
+    "role": "footnote",
+    "note": "footnote below left section"
+  },
+  {
+    "order": 11,
+    "idx": 12,
+    "label": "figure_caption",
+    "bbox": [
+      1329,
+      158,
+      1975,
+      185
+    ],
+    "role": "caption",
+    "note": "caption above right top chart"
+  },
+  {
+    "order": 12,
+    "idx": 7,
+    "label": "figure",
+    "bbox": [
+      1327,
+      208,
+      2281,
+      541
+    ],
+    "role": "bar_chart",
+    "note": "right top profit after taxes chart"
+  },
+  {
+    "order": 13,
+    "idx": 17,
+    "label": "figure_caption",
+    "bbox": [
+      1329,
+      584,
+      1615,
+      612
+    ],
+    "role": "caption",
+    "note": "caption above right middle chart"
+  },
+  {
+    "order": 14,
+    "idx": 4,
+    "label": "figure",
+    "bbox": [
+      1326,
+      582,
+      2277,
+      949
+    ],
+    "role": "bar_chart",
+    "note": "right middle earnings per share chart"
+  },
+  {
+    "order": 15,
+    "idx": 18,
+    "label": "figure_caption",
+    "bbox": [
+      1331,
+      1021,
+      1858,
+      1051
+    ],
+    "role": "caption",
+    "note": "caption above right lower chart"
+  },
+  {
+    "order": 16,
+    "idx": 1,
+    "label": "figure",
+    "bbox": [
+      1324,
+      1016,
+      2269,
+      1530
+    ],
+    "role": "bar_chart",
+    "note": "right lower cash from operations chart"
+  },
+  {
+    "order": 17,
+    "idx": 19,
+    "label": "table_footnote",
+    "bbox": [
+      1327,
+      1538,
+      1962,
+      1571
+    ],
+    "role": "footnote",
+    "note": "footnote below right section"
+  },
+  {
+    "order": 18,
+    "idx": 20,
+    "label": "abandon",
+    "bbox": [
+      96,
+      52,
+      248,
+      93
+    ],
+    "role": "skip",
+    "note": "duplicate of title region"
+  },
+  {
+    "order": 19,
+    "idx": 21,
+    "label": "abandon",
+    "bbox": [
+      2329,
+      135,
+      2375,
+      355
+    ],
+    "role": "skip",
+    "note": "decorative side tab"
+  },
+  {
+    "order": 20,
+    "idx": 22,
+    "label": "figure_caption",
+    "bbox": [
+      98,
+      1169,
+      240,
+      1193
+    ],
+    "role": "skip",
+    "note": "spurious fragment"
+  },
+  {
+    "order": 21,
+    "idx": 11,
+    "label": "abandon",
+    "bbox": [
+      102,
+      1609,
+      129,
+      1630
+    ],
+    "role": "page_number",
+    "note": "page number"
+  },
+  {
+    "order": 22,
+    "idx": 8,
+    "label": "abandon",
+    "bbox": [
+      2046,
+      1608,
+      2280,
+      1630
+    ],
+    "role": "footer",
+    "note": "page footer"
+  }
+]

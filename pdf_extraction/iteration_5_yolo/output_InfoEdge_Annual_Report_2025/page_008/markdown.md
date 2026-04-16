@@ -28,10 +28,12 @@ We have been leveraging AI/ML for several years in areas like resume parsing, se
 
 Info Edge is uniquely positioned to lead in the AI space, owing to our extensive proprietary data assets, the ability to deploy solutions seamlessly across business verticals and the financial strength to invest with a long-term perspective. Our AI strategy hinges on four key priorities:
 
-1. Enhancing search quality, user personalisation and productivity across existing platforms  
-2. Building new AI-powered features that improve user experience and engagement  
-3. Creating entirely new products and monetisation levers powered by AI  
+[Figure: A centered light-grey box containing a numbered list of four AI priorities:
+1. Enhancing search quality, user personalisation and productivity across existing platforms
+2. Building new AI-powered features that improve user experience and engagement
+3. Creating entirely new products and monetisation levers powered by AI
 4. Leveraging AI internally to improve operational efficiency, decision-making speed and execution agility
+A thin blue line appears along the bottom of the box.]
 
 Our investments in AI are strategic and long-term. The results we are seeing reaffirm its potential as a key differentiator for Info Edge, unlocking innovation, strengthening competitiveness and shaping our future growth.
 

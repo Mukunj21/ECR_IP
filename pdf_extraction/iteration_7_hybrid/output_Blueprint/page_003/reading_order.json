@@ -1,0 +1,80 @@
+[
+  {
+    "order": 1,
+    "idx": 2,
+    "label": "figure",
+    "bbox": [
+      172,
+      146,
+      962,
+      1533
+    ],
+    "role": "diagram",
+    "note": "main technical drawing containing two plan diagrams"
+  },
+  {
+    "order": 2,
+    "idx": 5,
+    "label": "abandon",
+    "bbox": [
+      466,
+      1428,
+      755,
+      1448
+    ],
+    "role": "title",
+    "note": "title for the lower plan diagram"
+  },
+  {
+    "order": 3,
+    "idx": 6,
+    "label": "abandon",
+    "bbox": [
+      443,
+      1466,
+      779,
+      1487
+    ],
+    "role": "body",
+    "note": "scale note directly under the lower title"
+  },
+  {
+    "order": 4,
+    "idx": 1,
+    "label": "abandon",
+    "bbox": [
+      140,
+      1402,
+      220,
+      1484
+    ],
+    "role": "skip",
+    "note": "logo/decorative seal"
+  },
+  {
+    "order": 5,
+    "idx": 3,
+    "label": "abandon",
+    "bbox": [
+      992,
+      1334,
+      1080,
+      1478
+    ],
+    "role": "page_number",
+    "note": "sheet/page numbering marker"
+  },
+  {
+    "order": 6,
+    "idx": 4,
+    "label": "abandon",
+    "bbox": [
+      568,
+      1503,
+      653,
+      1522
+    ],
+    "role": "footer",
+    "note": "page footer with page count"
+  }
+]

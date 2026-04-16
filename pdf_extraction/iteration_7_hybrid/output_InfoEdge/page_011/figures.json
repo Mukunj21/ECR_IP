@@ -1,0 +1,44 @@
+[
+  {
+    "type": "figure",
+    "label": "bar_chart",
+    "caption": "OPERATING PBT (₹ Mn)",
+    "page": 11
+  },
+  {
+    "type": "figure",
+    "label": "line_chart",
+    "caption": "OPERATING PBT MARGINS (%)",
+    "page": 11
+  },
+  {
+    "type": "figure",
+    "label": "bar_chart",
+    "caption": "BILLINGS (₹ Mn)",
+    "page": 11
+  },
+  {
+    "type": "figure",
+    "label": "bar_chart",
+    "caption": "CASH PROFITS / (LOSSES) FROM OPERATIONS (₹ Mn)",
+    "page": 11
+  },
+  {
+    "type": "figure",
+    "label": "bar_chart",
+    "caption": "PROFIT AFTER TAXES (BEFORE EXCEPTIONAL ITEMS) (₹ Mn)",
+    "page": 11
+  },
+  {
+    "type": "figure",
+    "label": "bar_chart",
+    "caption": "EARNINGS PER SHARE* (₹)",
+    "page": 11
+  },
+  {
+    "type": "figure",
+    "label": "bar_chart",
+    "caption": "CASH FROM OPERATIONS (BEFORE TAXES) (₹ Mn)",
+    "page": 11
+  }
+]

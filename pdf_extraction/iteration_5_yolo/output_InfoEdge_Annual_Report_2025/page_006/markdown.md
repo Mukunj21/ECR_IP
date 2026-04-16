@@ -1,17 +1,17 @@
-## MD & CEO'S MESSAGE
+# MD & CEO'S MESSAGE
 
 # Steady Hands, Strong Foundations
 
-[Figure: Portrait of a man in a navy blazer and white shirt, smiling and holding a white cup, standing against a light background.]
+[Figure: Portrait photo of a smiling middle-aged man wearing glasses, a navy blazer over a white shirt, and beige trousers, holding a white mug. He is standing against a light background with soft blue geometric shapes. The image is a formal corporate portrait with a clean studio-like look. Visible text in the image includes: "8".]
 
-[Figure: Decorative quote icon with stylized quotation marks in purple and blue inside a white circle.]
+[Figure: A small circular decorative graphic containing a stylized quotation-mark icon in purple and blue gradients on a white background. It appears to function as a visual accent near a pull quote. No other text is visible.]
 
-During the year, we continued to make meaningful progress while staying true to commitment to innovation. We scaled our AI initiatives, strengthened digital platforms, and invested in talent to drive future readiness. Our recruitment business remained resilient, and our non-recruitment verticals achieved full-year cash profitability, a testament to our disciplined execution and long-term value creation for all stakeholders.
+During the year, we continued to make meaningful progress while staying true to our commitment to innovation. We scaled our AI initiatives, strengthened digital platforms, and invested in talent to drive future readiness. Our recruitment business remained resilient, and our non-recruitment verticals achieved full-year cash profitability, a testament to our disciplined execution and long-term value creation for all stakeholders.
 
 HITESH OBEROI  
 MD & CEO
 
-Dear Shareholders,
+# Dear Shareholders,
 
 FY25 was a pivotal year for Info Edge. We surpassed several key milestones that demonstrate both the strength of our business model and the long-term value we continue to create. Our market capitalisation crossed ₹1 Lakh Crore for the first time, a reflection of the enduring trust you have placed in us and our continued relevance in India’s evolving digital economy.
 
@@ -25,10 +25,8 @@ We are grateful to you for supporting our key strategic initiatives, including t
 
 As we reflect on the progress made in FY25, we remain focused on driving sustainable growth, seizing emerging opportunities and building a future-ready Info Edge.
 
-STRONG FINANCIAL DELIVERY OVER THE PAST FIVE YEARS
+# STRONG FINANCIAL DELIVERY OVER THE PAST FIVE YEARS
 
 Over the past five years, billings have grown at a healthy CAGR of 25.1%, rising from ₹11,758 Million in FY21 to ₹28,817 Million in FY25. Similarly, revenues have grown at a CAGR of 23.8%, increasing from ₹11,280 Million in FY21 to ₹26,536 Million in FY25. Even when excluding the COVID-impacted period, revenues have maintained strong momentum, growing at a CAGR of 19.3% from FY22 to FY25. We have consistently improved our operating PBT margins from 21.1% in FY21 to 36.7% in FY25, driven by sustained recruitment business performance and significant reduction in operating losses across non-recruitment businesses. These numbers reflect the healthy and sustained recovery we have achieved since the COVID-19-related downturns.
 
-In FY25, our standalone business delivered a robust performance with billings growing by 15.5% and revenue increasing by 11.5% YoY-Y. We closed the year with a robust 19.0% Y-o-Y growth in billings in the final quarter. Our operating profit before tax margin stood at 36.7%, reflecting the strength and efficiency of our business model. Cash Flow from Operations grew by 16.1% over the previous year to ₹13,176 Million, underscoring the consistent cash-generating ability of our businesses. As of March 31, 2025, our standalone cash balance, including that of our wholly-owned subsidiaries, stood at ₹47,857 Million. This healthy liquidity equips us well to fund ongoing operations, support future investments, navigate uncertainties, and continue delivering long-term value to our shareholders.
-
-[Figure: Annual report page footer showing page number 9.]
+In FY25, our standalone business delivered a robust performance with billings growing by 15.5% and revenue increasing by 11.5% Y-o-Y. We closed the year with a robust 19.0% Y-o-Y growth in billings in the final quarter. Our operating profit before tax margin stood at 36.7%, reflecting the strength and efficiency of our business model. Cash Flow from Operations grew by 16.1% over the previous year to ₹13,176 Million, underscoring the consistent cash-generating ability of our businesses. As of March 31, 2025, our standalone cash balance, including that of our wholly-owned subsidiaries, stood at ₹47,857 Million. This healthy liquidity equips us well to fund ongoing operations, support future investments, navigate uncertainties, and continue delivering long-term value to our shareholders.

@@ -1,0 +1,71 @@
+[
+  {
+    "type": "figure",
+    "heading": "FINANCIAL HIGHLIGHTS",
+    "items": [
+      {
+        "text": "₹28,817 Mn",
+        "label": "Standalone Billings¹",
+        "type": "metric card"
+      },
+      {
+        "text": "56.3%",
+        "label": "Recruitment Operating PBT Margins¹",
+        "type": "metric card"
+      },
+      {
+        "text": "36.7%",
+        "label": "Standalone Operating PBT margins¹",
+        "type": "metric card"
+      },
+      {
+        "text": "₹47,857 Mn",
+        "label": "Cash Balance²",
+        "type": "metric card"
+      }
+    ],
+    "figure_type": "financial highlights infographic",
+    "page": 4
+  },
+  {
+    "type": "figure",
+    "heading": "SHAREHOLDER RETURNS HIGHLIGHTS",
+    "items": [
+      {
+        "text": "₹15.42",
+        "label": "Earnings Per Share (EPS)¹,³",
+        "type": "metric card"
+      },
+      {
+        "text": "38.9%",
+        "label": "Dividend Payout Ratio¹",
+        "type": "metric card"
+      },
+      {
+        "text": "₹6",
+        "label": "Dividend Per Share¹,⁵",
+        "type": "metric card"
+      }
+    ],
+    "figure_type": "shareholder returns highlights infographic",
+    "page": 4
+  },
+  {
+    "type": "figure",
+    "heading": "INVESTMENT HIGHLIGHTS",
+    "items": [
+      {
+        "text": "110+",
+        "label": "Active Investments²,⁴",
+        "type": "metric card"
+      },
+      {
+        "text": "₹333 Bn",
+        "label": "Value of Investments in Listed Companies²",
+        "type": "metric card"
+      }
+    ],
+    "figure_type": "investment highlights infographic",
+    "page": 4
+  }
+]

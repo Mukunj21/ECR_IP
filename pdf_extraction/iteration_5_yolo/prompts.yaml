@@ -167,205 +167,335 @@ MARKDOWN_PROMPT: |
 
 
 
-FIGURE_PROMPTS:
+# FIGURE_PROMPTS:
  
-  bar_chart: |
-    This crop shows a bar chart.
+#   bar_chart: |
+#     Analyze this bar chart in two parts:
 
-    Provide a highly detailed and exhaustive description covering:
-      - The full title of the chart (if present)
-      - The x-axis and y-axis labels, including units, scales, and formatting (linear/log, intervals, etc.)
-      - All categories or groups shown on the x-axis, including ordering and grouping structure
-      - Exact values for each bar, including annotations if visible
-      - Color coding, legends, and what each color represents
-      - Any patterns such as trends, comparisons, clusters, or anomalies
-      - Presence of stacked/grouped bars and their internal composition
-      - Any gridlines, reference lines, error bars, or data labels
-      - Any textual annotations, footnotes, or callouts
-      - The overall message, interpretation, or conclusion conveyed by the chart
-    Ensure that every visible element is described and interpreted in detail.
- 
-  line_chart: |
-    This crop shows a line chart.
+#     PART 1 — Short description of the overall (stacked) bar chart, describing what's in the y axis (and its units) and its components across the x axis variable.
 
-    Provide a highly detailed and exhaustive description covering:
-      - The chart title and any subtitles
-      - The x-axis and y-axis labels, including units, time ranges, and scale types
-      - The number of lines/series and what each represents (from legend or labels)
-      - The color, style (dashed/solid), and markers used for each line
-      - Exact values at key points along each line
-      - Trends over time (increasing, decreasing, cyclical, flat, volatile)
-      - Key inflection points, peaks, troughs, turning points, and crossovers
-      - Any intersections between lines and their significance
-      - Presence of annotations, highlights, or callouts
-      - Gridlines, baselines, or reference thresholds
-      - Any missing data, gaps, or irregular intervals
-      - The overall pattern and insights conveyed by the chart
-    Describe all visible details and interpret their significance thoroughly.
- 
-  scatter_plot: |
-    This crop shows a scatter plot.
+#     PART 2 — DATA TABLE: Extract all data directly from the chart into a structured table. Derive the columns from the x-axis and the Legend Categories and the rows will fill in by categories in x-axis and the y-axis values for each bar.
 
-    Provide a highly detailed and exhaustive description covering:
-      - The title and any descriptive text
-      - The x-axis and y-axis labels, including units and scales
-      - The distribution of data points across the plot
-      - The type of correlation (positive, negative, none, nonlinear) and its strength
-      - Clusters or groupings of points and their possible meaning
-      - Any visible patterns such as trends, curves, or density variations
-      - Color coding, shapes, or sizes of markers and what they represent
-      - Presence of regression lines, trend lines, or confidence intervals
-      - Any annotations, labels, or highlighted regions
-      - The spread and variability of the data
-      - The key relationships or insights conveyed
-    Ensure every visual and statistical detail is described.
- 
-  pie_chart: |
-    This crop shows a pie chart.
+#   line_chart: |
+#     This crop shows a line chart.
 
-    Provide a highly detailed and exhaustive description covering:
-      - The overall subject or total represented by the pie
-      - All segments/slices and their labels
-      - Exact percentage or value of each slice
-      - The largest, smallest, and similarly sized segments
-      - Color coding and legend explanations
-      - Labels inside or outside slices and any formatting details
-      - Ordering and arrangement of slices (clockwise, starting point)
-      - Any exploded slices or emphasis effects
-      - Presence of annotations, callouts, or additional text
-      - Comparisons between segments and dominance patterns
-      - Any missing or aggregated categories (e.g., “Other”)
-      - The overall composition and key takeaway
-    Describe every visible slice and detail without omission.
+#     Provide a highly detailed and exhaustive description covering:
+#       - The chart title and any subtitles
+#       - The x-axis and y-axis labels, including units, time ranges, and scale types
+#       - The number of lines/series and what each represents (from legend or labels)
+#       - The color, style (dashed/solid), and markers used for each line
+#       - Exact values at key points along each line
+#       - Trends over time (increasing, decreasing, cyclical, flat, volatile)
+#       - Key inflection points, peaks, troughs, turning points, and crossovers
+#       - Any intersections between lines and their significance
+#       - Presence of annotations, highlights, or callouts
+#       - Gridlines, baselines, or reference thresholds
+#       - Any missing data, gaps, or irregular intervals
+#       - The overall pattern and insights conveyed by the chart
+#     Describe all visible details and interpret their significance thoroughly.
  
-  histogram: |
-    This crop shows a histogram.
+#   scatter_plot: |
+#     This crop shows a scatter plot.
 
-    Provide a highly detailed and exhaustive description covering:
-      - The title and description of the dataset
-      - The x-axis variable, including units and bin ranges
-      - The y-axis (frequency, count, density) and its scale
-      - The number and width of bins
-      - The distribution shape (normal, skewed left/right, bimodal, multimodal, uniform)
-      - The range of the data (minimum to maximum)
-      - Presence of gaps, sparse regions, or empty bins
-      - Axis ticks, labels, and gridlines
-      - The spread, central tendency, and variability
-      - The key insights about the data distribution
-    Ensure all structural and statistical details are covered comprehensively.
+#     Provide a highly detailed and exhaustive description covering:
+#       - The title and any descriptive text
+#       - The x-axis and y-axis labels, including units and scales
+#       - The distribution of data points across the plot
+#       - The type of correlation (positive, negative, none, nonlinear) and its strength
+#       - Clusters or groupings of points and their possible meaning
+#       - Any visible patterns such as trends, curves, or density variations
+#       - Color coding, shapes, or sizes of markers and what they represent
+#       - Presence of regression lines, trend lines, or confidence intervals
+#       - Any annotations, labels, or highlighted regions
+#       - The spread and variability of the data
+#       - The key relationships or insights conveyed
+#     Ensure every visual and statistical detail is described.
  
-  heatmap: |
-    This crop shows a heatmap.
-    Provide a detailed summary covering:
-      - The title, subtitle, figure label, caption, and any source note if visible
-      - What the rows and columns represent, including all visible labels and their ordering
-      - What the color intensity represents, including the color scale, legend, range, and units
-      - Numerical values printed within cells, if present
-      - Any annotations, highlights, outlines, callouts, or explanatory text
-      - Any cropped row names, truncated labels, partially visible legends, or readability issues
-      - The main pattern, relationship, or insight conveyed by the heatmap
-    Ensure all visible structural and value-based details are captured thoroughly.
+#   pie_chart: |
+#     This crop shows a pie chart.
+
+#     Provide a highly detailed and exhaustive description covering:
+#       - The overall subject or total represented by the pie
+#       - All segments/slices and their labels
+#       - Exact percentage or value of each slice
+#       - The largest, smallest, and similarly sized segments
+#       - Color coding and legend explanations
+#       - Labels inside or outside slices and any formatting details
+#       - Ordering and arrangement of slices (clockwise, starting point)
+#       - Any exploded slices or emphasis effects
+#       - Presence of annotations, callouts, or additional text
+#       - Comparisons between segments and dominance patterns
+#       - Any missing or aggregated categories (e.g., “Other”)
+#       - The overall composition and key takeaway
+#     Describe every visible slice and detail without omission.
+ 
+#   histogram: |
+#     This crop shows a histogram.
+
+#     Provide a highly detailed and exhaustive description covering:
+#       - The title and description of the dataset
+#       - The x-axis variable, including units and bin ranges
+#       - The y-axis (frequency, count, density) and its scale
+#       - The number and width of bins
+#       - The distribution shape (normal, skewed left/right, bimodal, multimodal, uniform)
+#       - The range of the data (minimum to maximum)
+#       - Presence of gaps, sparse regions, or empty bins
+#       - Axis ticks, labels, and gridlines
+#       - The spread, central tendency, and variability
+#       - The key insights about the data distribution
+#     Ensure all structural and statistical details are covered comprehensively.
+ 
+#   heatmap: |
+#     This crop shows a heatmap.
+#     Provide a detailed summary covering:
+#       - The title, subtitle, figure label, caption, and any source note if visible
+#       - What the rows and columns represent, including all visible labels and their ordering
+#       - What the color intensity represents, including the color scale, legend, range, and units
+#       - Numerical values printed within cells, if present
+#       - Any annotations, highlights, outlines, callouts, or explanatory text
+#       - Any cropped row names, truncated labels, partially visible legends, or readability issues
+#       - The main pattern, relationship, or insight conveyed by the heatmap
+#     Ensure all visible structural and value-based details are captured thoroughly.
     
-  flowchart: |
-    This crop shows a flowchart.
-    Provide a detailed summary covering:
-      - The title, subtitle, caption, figure label, and any explanatory note
-      - The overall process, workflow, or decision system being represented
-      - The start point, end point, and all intermediate steps
-      - The text inside each box, node, or symbol, preserving wording as closely as possible
-      - The different shapes used and any meaning implied by those shapes
-      - The direction of arrows and connectors between nodes
-      - All decision points, including branch conditions and the outcomes of each branch
-      - Any loops, retries, returns, exception paths, or alternate routes
-      - Parallel branches, merged branches, or multi-step sequences
-      - The overall logic and operational meaning conveyed by the flowchart
-    Describe every visible step, branch, and structural detail thoroughly.
+#   flowchart: |
+#     This crop shows a flowchart.
+#     Provide a detailed summary covering:
+#       - The title, subtitle, caption, figure label, and any explanatory note
+#       - The overall process, workflow, or decision system being represented
+#       - The start point, end point, and all intermediate steps
+#       - The text inside each box, node, or symbol, preserving wording as closely as possible
+#       - The different shapes used and any meaning implied by those shapes
+#       - The direction of arrows and connectors between nodes
+#       - All decision points, including branch conditions and the outcomes of each branch
+#       - Any loops, retries, returns, exception paths, or alternate routes
+#       - Parallel branches, merged branches, or multi-step sequences
+#       - The overall logic and operational meaning conveyed by the flowchart
+#     Describe every visible step, branch, and structural detail thoroughly.
  
+#   diagram: |
+#     This crop shows a diagram.
+#     Provide a detailed summary covering:
+#       - The title, subtitle, caption, figure label, and any descriptive note
+#       - What system, concept, structure, or process is being illustrated
+#       - All main components, entities, layers, or sections shown
+#       - How the components are arranged spatially or hierarchically
+#       - Any arrows, connectors, lines, or links and what they indicate
+#       - Direction of flow, dependency, containment, or interaction if visible
+#       - Labels, legends, numbered parts, symbols, or icons and their meaning
+#       - Color coding, boundaries, shaded regions, or visual grouping
+#       - Any annotations, callouts, explanatory text, or notes
+#       - The main relationship, mechanism, or idea conveyed by the diagram
+#     Ensure all visible structural and conceptual details are captured clearly.
+
+#   map: |
+#     This crop shows a map.
+#     Provide a detailed summary covering:
+#       - The title, subtitle, caption, figure label, and any geographic or time note
+#       - The geographic area shown, including regions, cities, countries, or landmarks if labeled
+#       - What is being mapped, such as routes, regions, markers, boundaries, or data overlays
+#       - The legend, color scale, symbols, line styles, and what each represents
+#       - Any labels for places, roads, rivers, zones, or borders
+#       - Areas of emphasis, high or low values, dense or sparse regions, or notable absences
+#       - Spatial patterns such as clusters, gradients, corridors, hotspots, or contrasts
+#       - Any routes, movement paths, arrows, start/end points, or directional indicators
+#       - Presence of scale bars, north arrows, inset maps, coordinate grids, or projection notes
+#       - The main geographic or spatial insight conveyed by the map
+#     Ensure all visible cartographic and data details are described thoroughly.
+
+#   photo: |
+#     This crop shows a photograph.
+#     Provide a detailed summary covering:
+#       - The main subject or subjects in the image
+#       - Their appearance, position, orientation, and any visible actions or interactions
+#       - The setting or environment, including indoor or outdoor context and background details
+#       - Foreground, middle-ground, and background elements
+#       - Any visible objects, tools, clothing, equipment, signs, screens, or documents
+#       - Facial expressions, posture, gestures, or body language if people are present
+#       - Lighting, weather, time-of-day cues, and overall visual atmosphere
+#       - Any text overlays, watermarks, captions, timestamps, labels, or annotations
+#       - Any blur, obstruction, cropping, or incomplete visibility
+#       - The likely role of the photo in the document, such as illustrative, evidential, or contextual
+#     Describe everything visible in the photograph as clearly and completely as possible.
+
+#   illustration: |
+#     This crop shows an illustration or graphic.
+#     Provide a detailed summary covering:
+#       - The title, caption, figure label, and any embedded text
+#       - What is depicted, including all major objects, symbols, people, or concepts
+#       - Any labels, callouts, arrows, numbering, legends, or explanatory notes
+#       - The visual style, such as technical drawing, infographic, schematic, conceptual graphic, or cartoon
+#       - How the elements are arranged and related to each other
+#       - Any directionality, sequencing, layering, hierarchy, or flow shown
+#       - Color coding, highlighting, emphasis, or visual grouping
+#       - Any annotations or extra explanatory elements
+#       - Any cropped, faint, or ambiguous parts
+#       - The main concept, explanation, or message conveyed by the illustration
+#     Ensure all visible structural and semantic details are captured clearly.
+
+#   plot: |
+#     This crop shows a plot.
+#     Provide a detailed summary covering:
+#       - The title, subtitle, caption, and figure label if present
+#       - The likely chart or plot type based on visible features
+#       - The x-axis and y-axis labels, units, scales, ranges, and tick formatting
+#       - What is being measured, compared, or related
+#       - The number of visible series, groups, or mark types and how they are distinguished
+#       - The main trend, pattern, clustering, spread, or variation visible in the plot
+#       - Any peaks, troughs, outliers, anomalies, transitions, or notable regions
+#       - Any legends, labels, annotations, reference lines, or uncertainty markers
+#       - Visual encodings such as color, shape, size, line style, fill, or transparency
+#       - The most likely takeaway or conclusion supported by the visual evidence
+#     Describe the figure in a detailed and interpretive manner.
+
+#   figure: |
+#     This crop shows a figure.
+#     Provide a detailed summary covering:
+#       - The apparent figure type, such as chart, diagram, map, photo, illustration, or composite figure
+#       - The title, subtitle, caption, figure label, source note, and panel labels if present
+#       - The subject, concept, data, or scene depicted
+#       - All visible subcomponents, panels, sections, or regions and how they are arranged
+#       - Any labels, legends, axes, annotations, symbols, callouts, or textual elements
+#       - Any visible relationships, comparisons, structures, flows, or patterns
+#       - Colors, highlights, boundaries, markers, overlays, and other visual encodings
+#       - Any cropped, blurred, overlapping, faint, or ambiguous elements
+#       - The key information, role, or insight the figure contributes to the document
+#     Ensure that no important visible detail is omitted.
+
+
+
+FIGURE_PROMPTS:
+
+  bar_chart: |
+    Analyze this bar chart and respond in two parts:
+
+    PART 1 — Short description of the overall (stacked) bar chart, describing
+    what's in the y axis (and its units) and its components across the x axis
+    variable.
+
+    PART 2 — DATA TABLE: Extract all data directly from the chart into a
+    structured table. Derive the columns from the x-axis and the Legend
+    Categories and the rows will fill in by categories in x-axis and the y-axis
+    values for each bar.
+
+  line_chart: |
+    Analyze this line chart in three parts:
+
+    PART 1 — Short description of what's being tracked: what the y-axis measures
+    (and its units), what the x-axis represents (and its range), how many
+    lines/series are present.
+
+    PART 2 — DATA TABLE: Extract all data into a structured table where columns
+    are the x-axis tick values and rows are each individual line/series. Capture
+    every labeled data point exactly as shown.
+
+    PART 3 — INFLECTION LOG: Go through each series and call out every moment
+    something meaningful happens — a peak, a trough, a sudden change in slope,
+    or a point where two lines cross or diverge. For each one write: at what
+    x-axis value it happened, which series, what the value was, and what changed.
+
+  scatter_plot: |
+    Analyze this scatter plot in two parts:
+
+    PART 1 — Describe the setup: what the x-axis measures, what the y-axis
+    measures, both with units. If bubble size is used, what does it encode.
+    If color or shape is used to group points, what does that grouping represent.
+
+    PART 2 — PATTERN DESCRIPTION: Describe what overall relationship exists between x and y (positive/
+    negative/no correlation), where the clusters are and which named points
+    belong to each, which points are outliers and specifically why they stand out
+    from the pattern, and what the trend line suggests if one is shown.
+
+  pie_chart: |
+    Analyze this pie or donut chart in two parts:
+
+    PART 1 — Short description of what the whole represents, what unit is used
+    (percentage, absolute value, or both), the total value if shown, and what time period or context the chart refers to. If
+    multiple pies or donuts are shown side by side, note that and what dimension
+    changes across them.
+
+    PART 2 — SEGMENTS TABLE: Extract every segment into a table with columns for
+    Segment Name, Absolute Value (if shown), and Percentage Share. Add a Total
+    row at the bottom. If multiple pies/donuts are shown, create one table per
+    chart and then add a comparison note below describing how the composition
+    shifted between them.
+
+  histogram: |
+    Analyze this histogram in two parts:
+
+    PART 1 — Short description of what variable is being distributed (x-axis and
+    its units), what the y-axis measures, what
+    the bin width is, and what the total sample size is if shown. Also note any
+    reference lines visible and their values.
+
+    PART 2 - First, turn the visual data into a table with the key values and totals.
+
+    Then, describe the overall pattern of the data:
+    How the values are spread , where most values are grouped, whether the data leans more to one side or is balanced, any noticeable peaks or clusters
+
+    The goal is to explain the shape and behavior of the data, not just list the numbers.
+
+  heatmap: |
+    Analyze this heatmap in two parts:
+
+    PART 1 — Short description of what metric the color intensity represents
+    (and its units), what the rows represent, what the columns represent, and
+    how the color scale works, whether it runs from low to high in one direction
+    or diverges from a midpoint (e.g. negative to positive).
+
+    PART 2 — VALUE MATRIX: Reproduce the entire grid as a structured table where
+    rows match the y-axis categories and columns match the x-axis categories.
+    Fill each cell with the exact number if shown, or with Low / Medium / High
+    if only color is used (be consistent with the scale).
+
+  flowchart: |
+    Analyze this flowchart in three parts:
+
+    PART 1 — Short description of what process or decision logic this flowchart
+    depicts, where it starts, where it ends (there may be multiple end points),
+    how many total nodes exist, how many are decision points, and whether any
+    loops or parallel branches are present.
+
+    PART 2 — NODE-EDGE TABLE: Extract the complete structure of the flowchart
+    into a table. Assign each node a short ID if not already
+    labeled. Columns are: Node ID, Node Label, Node Type (Start /
+    Process / Decision / End), Connects To (list the IDs it points to), Arrow
+    Label (the condition written on the arrow, e.g. Yes / No / specific text).
+
+    PART 3 — ALL PATHS: Write out every distinct route a flow can take from
+    start to end, as a sequence of node IDs and labels. Name each path
+    (e.g. Standard path, Rejection path, Retry loop). For any loop, state what
+    the exit condition is if shown.
+
   diagram: |
-    This crop shows a diagram.
-    Provide a detailed summary covering:
-      - The title, subtitle, caption, figure label, and any descriptive note
-      - What system, concept, structure, or process is being illustrated
-      - All main components, entities, layers, or sections shown
-      - How the components are arranged spatially or hierarchically
-      - Any arrows, connectors, lines, or links and what they indicate
-      - Direction of flow, dependency, containment, or interaction if visible
-      - Labels, legends, numbered parts, symbols, or icons and their meaning
-      - Color coding, boundaries, shaded regions, or visual grouping
-      - Any annotations, callouts, explanatory text, or notes
-      - The main relationship, mechanism, or idea conveyed by the diagram
-    Ensure all visible structural and conceptual details are captured clearly.
+    Analyze this diagram in two parts:
+
+    PART 1 — Identify what kind of diagram this is: Venn, org chart,
+    architecture/system, cycle/process, concept map, or something else. Then
+    describe what it is showing — what system, concept, or structure — and what
+    the relationship type is between elements (hierarchical, cyclical, lateral,
+    causal, or compositional).
+
+    PART 2 — Extract the figure into a complete structured representation. Include every visible element, region, node, component, or stage with its label, category/type, and any associated text. Also extract all relationships among elements, such as hierarchy, sequence, flow, overlap, containment, grouping, reporting lines, and connections, including direction and labels where available. Use a table, list, or relationship records as appropriate to the figure type, but ensure the extraction fully preserves both the individual elements and how they relate to one another.
 
   map: |
-    This crop shows a map.
-    Provide a detailed summary covering:
-      - The title, subtitle, caption, figure label, and any geographic or time note
-      - The geographic area shown, including regions, cities, countries, or landmarks if labeled
-      - What is being mapped, such as routes, regions, markers, boundaries, or data overlays
-      - The legend, color scale, symbols, line styles, and what each represents
-      - Any labels for places, roads, rivers, zones, or borders
-      - Areas of emphasis, high or low values, dense or sparse regions, or notable absences
-      - Spatial patterns such as clusters, gradients, corridors, hotspots, or contrasts
-      - Any routes, movement paths, arrows, start/end points, or directional indicators
-      - Presence of scale bars, north arrows, inset maps, coordinate grids, or projection notes
-      - The main geographic or spatial insight conveyed by the map
-    Ensure all visible cartographic and data details are described thoroughly.
+    Analyze this map accordingly by providing a short description of the geographic scope (world, continent,
+    country, region), what metric is being shown and how (color shading, bubble
+    size, labeled numbers, or icons), what the unit is, and what the legend
+    or color scale looks like. Note any regions that are specially highlighted
+    or annotated.
 
   photo: |
-    This crop shows a photograph.
-    Provide a detailed summary covering:
-      - The main subject or subjects in the image
-      - Their appearance, position, orientation, and any visible actions or interactions
-      - The setting or environment, including indoor or outdoor context and background details
-      - Foreground, middle-ground, and background elements
-      - Any visible objects, tools, clothing, equipment, signs, screens, or documents
-      - Facial expressions, posture, gestures, or body language if people are present
-      - Lighting, weather, time-of-day cues, and overall visual atmosphere
-      - Any text overlays, watermarks, captions, timestamps, labels, or annotations
-      - Any blur, obstruction, cropping, or incomplete visibility
-      - The likely role of the photo in the document, such as illustrative, evidential, or contextual
-    Describe everything visible in the photograph as clearly and completely as possible.
+    Describe the image from overall scene to fine details, including: main subject and setting, any visible action or arrangement, layout (foreground to background), key people/objects, all readable text, countable elements, visual qualities (lighting, color, focus, angle), and any notable details.
 
   illustration: |
-    This crop shows an illustration or graphic.
-    Provide a detailed summary covering:
-      - The title, caption, figure label, and any embedded text
-      - What is depicted, including all major objects, symbols, people, or concepts
-      - Any labels, callouts, arrows, numbering, legends, or explanatory notes
-      - The visual style, such as technical drawing, infographic, schematic, conceptual graphic, or cartoon
-      - How the elements are arranged and related to each other
-      - Any directionality, sequencing, layering, hierarchy, or flow shown
-      - Color coding, highlighting, emphasis, or visual grouping
-      - Any annotations or extra explanatory elements
-      - Any cropped, faint, or ambiguous parts
-      - The main concept, explanation, or message conveyed by the illustration
-    Ensure all visible structural and semantic details are captured clearly.
+    Describe what idea or message this illustration
+    is designed to communicate. If it uses a visual metaphor or analogy, name it
+    and explain how it maps to the concept. Also note the style, whether it is
+    a technical schematic, an infographic, a metaphorical drawing, an
+    instructional diagram, or something else.
 
   plot: |
-    This crop shows a plot.
-    Provide a detailed summary covering:
-      - The title, subtitle, caption, and figure label if present
-      - The likely chart or plot type based on visible features
-      - The x-axis and y-axis labels, units, scales, ranges, and tick formatting
-      - What is being measured, compared, or related
-      - The number of visible series, groups, or mark types and how they are distinguished
-      - The main trend, pattern, clustering, spread, or variation visible in the plot
-      - Any peaks, troughs, outliers, anomalies, transitions, or notable regions
-      - Any legends, labels, annotations, reference lines, or uncertainty markers
-      - Visual encodings such as color, shape, size, line style, fill, or transparency
-      - The most likely takeaway or conclusion supported by the visual evidence
-    Describe the figure in a detailed and interpretive manner.
+    Analyze the figure by first identifying its most likely type based on its structure, axes, and visual marks, briefly explaining the reasoning and summarizing how such a figure is typically interpreted (including axes, units, components, or segments). Then extract all visible data into a structured format best suited to that figure, clearly distinguishing exact values from approximations where necessary. State the primary message or insight the figure conveys, and note any ambiguities, missing information, or uncertainties that could affect interpretation or data reliability.
 
   figure: |
-    This crop shows a figure.
-    Provide a detailed summary covering:
-      - The apparent figure type, such as chart, diagram, map, photo, illustration, or composite figure
-      - The title, subtitle, caption, figure label, source note, and panel labels if present
-      - The subject, concept, data, or scene depicted
-      - All visible subcomponents, panels, sections, or regions and how they are arranged
-      - Any labels, legends, axes, annotations, symbols, callouts, or textual elements
-      - Any visible relationships, comparisons, structures, flows, or patterns
-      - Colors, highlights, boundaries, markers, overlays, and other visual encodings
-      - Any cropped, blurred, overlapping, faint, or ambiguous elements
-      - The key information, role, or insight the figure contributes to the document
-    Ensure that no important visible detail is omitted.
+    Analyze the figure by thoroughly describing all visible elements in a systematic manner (including text, numbers, shapes, colors, icons, and structure), then organizing this information into a structured format that captures each element's content, type, location, and likely role, and finally using this complete inventory to infer the most probable figure type and its intended message while clearly noting any ambiguities, missing details, or uncertainties that could affect interpretation.

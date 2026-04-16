@@ -1,32 +1,38 @@
 [
   {
-    "type": "chart",
+    "type": "figure",
     "title": "CASH GENERATION AS A % OF BILLINGS (₹ Mn/%)",
+    "description": "Stacked bar chart of Cash from Operations (before Taxes) as a % of Billings across FY21 to FY25, with Total Billings values shown for each year.",
     "page": 12
   },
   {
-    "type": "chart",
+    "type": "figure",
     "title": "DIVIDEND PAID (₹ Mn)",
+    "description": "Vertical bar chart showing Dividend Paid from FY21 to FY25, with a CAGR label of 39.4%.",
     "page": 12
   },
   {
-    "type": "chart",
+    "type": "figure",
     "title": "DIVIDEND PER SHARE & DIVIDEND PAYOUT RATIO (₹/%)",
+    "description": "Bar chart showing Dividend per Share and Dividend Payout Ratio across FY21 to FY25, with a CAGR label of 39.2%.",
     "page": 12
   },
   {
-    "type": "chart",
+    "type": "figure",
     "title": "PERMANENT EMPLOYEE COUNT* (Nos.)",
+    "description": "Vertical bar chart showing Permanent Employee Count from FY21 to FY25, with a footnote including Zwayam and Doselect employees.",
     "page": 12
   },
   {
-    "type": "diagram",
+    "type": "figure",
     "title": "STANDALONE BALANCE SHEET",
+    "description": "Two donut charts comparing FY25 and FY24 composition for Assets and Liabilities, with supporting tables of particulars.",
     "page": 12
   },
   {
-    "type": "diagram",
+    "type": "figure",
     "title": "CONSOLIDATED BALANCE SHEET",
+    "description": "Two donut charts comparing FY25 and FY24 composition for Assets and Liabilities, with supporting tables of particulars.",
     "page": 12
   }
 ]

@@ -1,0 +1,5 @@
+[Figure: Architectural elevation sheet showing four exterior views of a house, arranged vertically as South Elevation, East Elevation, North Elevation, and West Elevation.
+- The drawings show the house roof profile, wall openings, porch/deck areas, stairs, and foundation/grade lines.
+- Labels identify details such as Class “A” roofing, sliding window, casement window hinged on outside, underfloor vents, awning window hinge on top, 5/8" plywood siding, 1x4 trim typical, stepped footing outline, show grade line, handrail must be self return & grippable, 36" landing min., 2 x 4 cross bracing, and Gable Vent.
+- Dimension/notation callouts include scales of 1/4" = 1'-0" for each elevation, 12/4 (Typical Pitch), 1,136 = 7.6 sq. ft. underfloor ventilation required, 6" min earth to wood, 2' 0", 4' 9", and grade should slope away from house 1/4" in 1'-0" for 4' min.
+- The sheet footer text visible on the page includes SAMPLE HOUSE PLANS BPC-022, Revised: 12/27/2018, Reviewed 01/2020, and Page 2 of 4.]

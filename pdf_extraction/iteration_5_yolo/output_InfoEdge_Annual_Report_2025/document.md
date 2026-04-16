@@ -7,7 +7,7 @@
 
 # infoedge
 
-[Figure: A cover illustration with a pastel pink, purple, and blue cloudy sky background. Centered is a large glowing triangular/arch-like geometric shape outlined in light purple and white with cyan highlights near the base, reflected on a glossy surface below. At the bottom, large white headline text reads “PROGRESSING WITH INNOVATION.” The overall style is a conceptual, modern cover graphic with no arrows, labels, or additional annotations.]
+[Figure: A cover illustration with a soft pastel sky-like background in pink, purple, and blue tones. In the center is a large geometric triangular arch or stylized “A” shape outlined in light and glowing edges, reflected below on a glossy surface. The composition feels futuristic and minimal, with no labels, arrows, or numeric annotations. It serves as the main visual metaphor for progress and innovation.]
 
 # PROGRESSING WITH INNOVATION
 
@@ -16,37 +16,60 @@
 
 # Contents
 
-02 Progressing with Innovation  
-04 About Info Edge  
-42 Environment  
-44 Social  
+## 02
+Progressing with Innovation
 
-08 MD & CEO's Message  
-14 Key Performance Indicators  
-46 Governance  
-225 Financial Statements  
+## 04
+About Info Edge
 
-## Standalone
+## 42
+Environment
 
-50 Awards and Accolades
+## 44
+Social
 
-52 Statutory Reports
+## 08
+MD & CEO's Message
 
-Management Discussion and Analysis Report 52  
-Report on Corporate Governance 104  
-Directors' Report 136  
-Business Responsibility and Sustainability Report 182  
+## 14
+Key Performance Indicators
 
-## Consolidated
+## 46
+Governance
 
-34 Investments
-
-Recruitment 26  
-Real Estate 28  
-Matchmaking 30  
-Education 32  
-
+## 225
 Financial Statements
+
+### Standalone
+
+## 50
+Awards and Accolades
+
+## 52
+Statutory Reports
+
+## 24
+Value Creation Model
+
+## 26
+Business Vertical Review
+
+## 34
+Investments
+
+- Recruitment 26
+- Real Estate 28
+- Matchmaking 30
+- Education 32
+
+### Consolidated
+
+Independent Auditor's Report 226  
+Balance Sheet 236  
+Statement of Profit and Loss 237  
+Statement of Cash Flow 238  
+Statement of Changes in Equity 240  
+Notes to the Financial Statements 241
 
 Independent Auditor's Report 308  
 Balance Sheet 318  
@@ -93,13 +116,21 @@ Backed by strong liquidity, a resilient balance sheet and a commitment to transp
 
 With a diversified portfolio and deep domain expertise, Info Edge continues to lead the online classifieds space through an innovation-driven approach. Its success is built on strong network effects, an extensive market reach and lasting relationships across B2B and B2C segments. The Company remains at the forefront of AI/ML adoption, to enhance the user experience, streamline operations and deliver scalable solutions.
 
-Guided by the mantra of 'Progressing with Innovation,' Info Edge is shaping the future of digital India by empowering users across jobs, homes, relationships and education. The Company's trusted platforms and forward-looking solutions are further supplemented by farsighted investments in the next generation of digital disruptors.
+Guided by the mantra of 'Progressing with Innovation,' Info Edge is shaping the future of digital India by empowering users across jobs, homes, relationships and education. The Company’s trusted platforms and forward-looking solutions are further supplemented by farsighted investments in the next generation of digital disruptors.
 
 Beyond its operating businesses, Info Edge also has a strong investment business, having backed over 110 companies through its balance sheet and venture capital arm, Info Edge Ventures. This portfolio includes category-defining consumer tech businesses in various domains. Notable past and present investments include Eternal Limited ('Eternal', previously known as Zomato Limited), PB Fintech Limited ('PB Fintech') and many others. This dual approach of building and investing allows the Company to participate in India’s broader digital growth story.
 
 In FY25, Info Edge deepened its relevance in the lives of millions by evolving product journeys, embedding technology at scale and building more personalised, meaningful user experiences across platforms. From adopting generative AI (GenAI) tools to launching hyper-targeted campaigns and leadership development programmes, the year revolved around delivering greater value, with precision, empathy and purpose. As Info Edge moves forward, it remains committed to progressing with innovation, creating impact at scale, empowering users and shaping India’s digital future.
 
-[Figure: Info Edge at a Glance — a composite infographic with financial highlights, shareholder returns highlights, and investment highlights. It consists of multiple rectangular metric cards arranged in a two-column grid on a soft blue-to-lavender gradient background. The visible text includes headings "FINANCIAL HIGHLIGHTS", "SHAREHOLDER RETURNS HIGHLIGHTS", and "INVESTMENT HIGHLIGHTS". Metric cards display: "₹28,817 Mn Standalone Billings" with an upward arrow and "15.46%"; "56.3% Recruitment Operating PBT Margins"; "36.7% Standalone Operating PBT margins"; "₹47,857 Mn Cash Balance"; "₹15.42 Earnings Per Share (EPS)" with an upward arrow and "17.0%"; "38.9% Dividend Payout Ratio"; "₹6 Dividend Per Share" with an upward arrow and "36.4%"; "110+ Active Investments"; and "₹333 Bn Value of Investments in Listed Companies". Several metrics include superscript note markers such as ¹, ², ³, ⁴, and ⁵. The card layout uses pale lavender panels with diagonal right-edge accents and black typography, and the lower part includes a notes block with footnotes.]
+[Figure: Info Edge at a Glance infographic with multiple highlighted metrics presented in rectangular cards on a soft gradient background. The visible cards include financial highlights, shareholder returns highlights, and investment highlights. Metrics shown include ₹28,817 Mn Standalone Billings, 56.3% Recruitment Operating PBT Margins, 36.7% Standalone Operating PBT margins, ₹47,857 Mn Cash Balance, ₹15.42 Earnings Per Share (EPS), 38.9% Dividend Payout Ratio, ₹6 Dividend Per Share, 110+ Active Investments, and ₹333 Bn Value of Investments in Listed Companies. The design uses pale lavender and blue blocks with diagonal accent shapes and section headings in bold black text.]
+
+Notes  
+¹For the period April 01, 2024 to March 31, 2025  
+²As on March 31, 2025  
+³Earnings per share is before exceptional items (net of taxes and deferred taxes) on a post share-split basis  
+⁴Active investments include both investments made through balance sheet and AIF investments  
+⁵Post share-split basis  
+^ Y-o-Y change
 
 
 ## Page 5
@@ -111,6 +142,13 @@ To create world-class platforms that transform lives.
 
 ## Our Mission
 We will continuously delight our customers in current and new businesses by delivering superior value through enhanced offerings on the Internet and other platforms. We will preserve our entrepreneurial spirit and leverage our financial strength and expertise in building brands, communities, products and technology, and sales and services.
+
+## Our Values
+- Customer Delight
+- Entrepreneurship
+- Knowledge
+- Results
+- Trust
 
 ## Investments
 
@@ -132,30 +170,27 @@ We will continuously delight our customers in current and new businesses by deli
 - Trumeds
 - Bluestone
 
-## Our Values
-- Customer Delight
-- Entrepreneurship
-- Knowledge
-- Results
-- Trust
+[Figure: A business diagram titled “Our Businesses” showing four stacked colored segments arranged diagonally from top-left to bottom-right under the heading “Our Businesses.” The segments are labeled Recruitment, Real Estate, Matchmaking, and Education, each with a faint line icon: a magnifying glass/person for Recruitment, a house/hand for Real Estate, rings/hearts for Matchmaking, and a graduation cap/lightbulb for Education. To the right of each segment are associated business names: Recruitment includes Naukri, iimjobs, Hirist, NaukriGulf, Naukri Fast Forward, JobHai, AmbitionBox, Naukri Campus, DoSelect, Zwayam; Real Estate includes 99acres; Matchmaking includes Jeevansathi and Aisle; Education includes Shiksha. The layout suggests a grouped business portfolio rather than a process or flow, with the diagonal stack acting as the main organizing structure.]
+
+[Figure: An icon-style illustration of an eye centered among four small connected nodes. The eye symbol is rendered in blue outline and suggests vision, observation, or insight. The style is simple, symbolic, and metaphorical rather than technical. It functions as the visual marker for the “Our Vision” section.]
 
 
 ## Page 6
 
-## MD & CEO'S MESSAGE
+# MD & CEO'S MESSAGE
 
 # Steady Hands, Strong Foundations
 
-[Figure: Portrait of a man in a navy blazer and white shirt, smiling and holding a white cup, standing against a light background.]
+[Figure: Portrait photo of a smiling middle-aged man wearing glasses, a navy blazer over a white shirt, and beige trousers, holding a white mug. He is standing against a light background with soft blue geometric shapes. The image is a formal corporate portrait with a clean studio-like look. Visible text in the image includes: "8".]
 
-[Figure: Decorative quote icon with stylized quotation marks in purple and blue inside a white circle.]
+[Figure: A small circular decorative graphic containing a stylized quotation-mark icon in purple and blue gradients on a white background. It appears to function as a visual accent near a pull quote. No other text is visible.]
 
-During the year, we continued to make meaningful progress while staying true to commitment to innovation. We scaled our AI initiatives, strengthened digital platforms, and invested in talent to drive future readiness. Our recruitment business remained resilient, and our non-recruitment verticals achieved full-year cash profitability, a testament to our disciplined execution and long-term value creation for all stakeholders.
+During the year, we continued to make meaningful progress while staying true to our commitment to innovation. We scaled our AI initiatives, strengthened digital platforms, and invested in talent to drive future readiness. Our recruitment business remained resilient, and our non-recruitment verticals achieved full-year cash profitability, a testament to our disciplined execution and long-term value creation for all stakeholders.
 
 HITESH OBEROI  
 MD & CEO
 
-Dear Shareholders,
+# Dear Shareholders,
 
 FY25 was a pivotal year for Info Edge. We surpassed several key milestones that demonstrate both the strength of our business model and the long-term value we continue to create. Our market capitalisation crossed ₹1 Lakh Crore for the first time, a reflection of the enduring trust you have placed in us and our continued relevance in India’s evolving digital economy.
 
@@ -169,13 +204,11 @@ We are grateful to you for supporting our key strategic initiatives, including t
 
 As we reflect on the progress made in FY25, we remain focused on driving sustainable growth, seizing emerging opportunities and building a future-ready Info Edge.
 
-STRONG FINANCIAL DELIVERY OVER THE PAST FIVE YEARS
+# STRONG FINANCIAL DELIVERY OVER THE PAST FIVE YEARS
 
 Over the past five years, billings have grown at a healthy CAGR of 25.1%, rising from ₹11,758 Million in FY21 to ₹28,817 Million in FY25. Similarly, revenues have grown at a CAGR of 23.8%, increasing from ₹11,280 Million in FY21 to ₹26,536 Million in FY25. Even when excluding the COVID-impacted period, revenues have maintained strong momentum, growing at a CAGR of 19.3% from FY22 to FY25. We have consistently improved our operating PBT margins from 21.1% in FY21 to 36.7% in FY25, driven by sustained recruitment business performance and significant reduction in operating losses across non-recruitment businesses. These numbers reflect the healthy and sustained recovery we have achieved since the COVID-19-related downturns.
 
-In FY25, our standalone business delivered a robust performance with billings growing by 15.5% and revenue increasing by 11.5% YoY-Y. We closed the year with a robust 19.0% Y-o-Y growth in billings in the final quarter. Our operating profit before tax margin stood at 36.7%, reflecting the strength and efficiency of our business model. Cash Flow from Operations grew by 16.1% over the previous year to ₹13,176 Million, underscoring the consistent cash-generating ability of our businesses. As of March 31, 2025, our standalone cash balance, including that of our wholly-owned subsidiaries, stood at ₹47,857 Million. This healthy liquidity equips us well to fund ongoing operations, support future investments, navigate uncertainties, and continue delivering long-term value to our shareholders.
-
-[Figure: Annual report page footer showing page number 9.]
+In FY25, our standalone business delivered a robust performance with billings growing by 15.5% and revenue increasing by 11.5% Y-o-Y. We closed the year with a robust 19.0% Y-o-Y growth in billings in the final quarter. Our operating profit before tax margin stood at 36.7%, reflecting the strength and efficiency of our business model. Cash Flow from Operations grew by 16.1% over the previous year to ₹13,176 Million, underscoring the consistent cash-generating ability of our businesses. As of March 31, 2025, our standalone cash balance, including that of our wholly-owned subsidiaries, stood at ₹47,857 Million. This healthy liquidity equips us well to fund ongoing operations, support future investments, navigate uncertainties, and continue delivering long-term value to our shareholders.
 
 
 ## Page 7
@@ -218,22 +251,23 @@ Over the years, we have built a well-diversified customer base across sectors. I
 
 Our billed customer count grew by 11.2% during the year, reaching over 128,000 corporate clients. We remain focused on expanding our customer base further. This approach includes strengthening go-to-market strategies across sectors, widening our presence among small and medium enterprises and deepening our reach in Tier II and Tier III cities. The GCC segment remains a particular area of focus for new client acquisition.
 
-## Growing Niche and Adjacent Recruitment Platforms
-
 Our efforts to evolve Naukri from a traditional job board into a comprehensive career platform have been well-received. The number of resumes hosted on Naukri grew by 8.2% to 106 Million in FY25. This growth is a result of strategic investments in personalised job seeker experiences, including offering career guidance, skilling tools, interview support and curated content. We have also ramped up our marketing and branding initiatives to engage more effectively with the next generation of job seekers.
 
-### JobHai (Blue-Collar) Momentum
+#### Growing Niche and Adjacent Recruitment Platforms
+
+We continue to see encouraging results from our investments in niche and adjacent recruitment platforms such as iimjobs, Hirist, AmbitionBox, Naukri Fast Forward, Zwayam, DoSelect and NaukriGulf. These platforms are now part of the Naukri Talent Cloud, a unified ecosystem that delivers seamless access, enhanced security and an integrated experience for recruiters. Our branding solutions across these platforms are gaining traction and these businesses are not only profitable but also unlocking new medium-term growth avenues beyond the core Naukri business.
+
+#### JobHai (Blue-Collar) Momentum
 
 FY25 marked the first full year of monetisation for JobHai, our blue-collar recruitment platform. The platform is scaling well, expanding to over 40 job categories, working with more than 50,000 recruiters and building a user base of over 15 Million jobseekers. It continues to gain traction across both traffic and reach metrics. Although still small, it holds great potential and could become a sizeable business in the mid-to-long term.
 
-### Financial Highlights
+#### Financial Highlights
 
 On the financial front, our standalone recruitment billings grew by 14.6% to ₹21,577 Million, while revenues rose by 9.8% to ₹19,826 Million. After a muted start to the year, billings growth accelerated to 18.4% Y-o-Y in the fourth quarter. The business maintained strong profitability, with an operating PBT margin of 56.3% and cash generation from operations amounting to ₹13,445 Million.
 
-## REAL ESTATE BUSINESS
+### REAL ESTATE BUSINESS
 
-FY25 was a year of focused execution and strategic progress for the 99acres business. This performance was reflected in improved traffic share, strong acceleration in Q4 billings, market share gains and a further strengthening of its leadership position.  
-The business is now approaching an inflection point, supported by a favourable industry backdrop and consistent efforts to build scale and differentiation in a competitive but high-potential market.
+FY25 was a year of focused execution and strategic progress for the 99acres business. This performance was reflected in improved traffic share, strong acceleration in Q4 billings, market share gains and a further strengthening of its leadership position. The business is now approaching an inflection point, supported by a favourable industry backdrop and consistent efforts to build scale and differentiation in a competitive but high-potential market.
 
 The Indian real estate sector has seen a sustained revival over the past few years, marked by robust demand across both primary and secondary segments. Continued new project development has not only supported primary sales but has also led to a structural expansion in the secondary market. This evolving landscape presents significant growth opportunities for digital real estate platforms. Over time, 99acres has deepened its presence in the secondary market while steadily expanding its offerings and relevance in the primary market as well.
 
@@ -278,10 +312,12 @@ We have been leveraging AI/ML for several years in areas like resume parsing, se
 
 Info Edge is uniquely positioned to lead in the AI space, owing to our extensive proprietary data assets, the ability to deploy solutions seamlessly across business verticals and the financial strength to invest with a long-term perspective. Our AI strategy hinges on four key priorities:
 
-1. Enhancing search quality, user personalisation and productivity across existing platforms  
-2. Building new AI-powered features that improve user experience and engagement  
-3. Creating entirely new products and monetisation levers powered by AI  
+[Figure: A centered light-grey box containing a numbered list of four AI priorities:
+1. Enhancing search quality, user personalisation and productivity across existing platforms
+2. Building new AI-powered features that improve user experience and engagement
+3. Creating entirely new products and monetisation levers powered by AI
 4. Leveraging AI internally to improve operational efficiency, decision-making speed and execution agility
+A thin blue line appears along the bottom of the box.]
 
 Our investments in AI are strategic and long-term. The results we are seeing reaffirm its potential as a key differentiator for Info Edge, unlocking innovation, strengthening competitiveness and shaping our future growth.
 
@@ -313,42 +349,40 @@ Info Edge is committed to building enduring stakeholder trust by aligning its in
 
 | Particulars | FY25 | FY24 | FY23 | FY22 | FY21 | CAGR |
 |---|---:|---:|---:|---:|---:|---:|
-| Net Revenue | 26,536 | 23,810 | 21,586 | 15,625 | 11,280 | ^23.8% |
-| Total Income | 29,674 | 26,401 | 23,337 | 17,327 | 12,470 | ^24.2% |
-| Operating Profit Before Tax | 9,733 | 8,712 | 7,356 | 4,190 | 2,380 | ^42.2% |
+| Net Revenue | 26,536 | 23,810 | 21,586 | 15,625 | 11,280 | 23.8% |
+| Total Income | 29,674 | 26,401 | 23,337 | 17,327 | 12,470 | 24.2% |
+| Operating Profit Before Tax | 9,733 | 8,712 | 7,356 | 4,190 | 2,380 | 42.2% |
 | Operating PBT Margin | 36.7% | 36.6% | 34.1% | 26.8% | 21.1% |  |
-| PBT (Before Exceptional Items) | 12,871 | 11,304 | 9,107 | 5,893 | 3,570 | ^37.8% |
-| Total Comprehensive Income/(Loss) | 25,023 | 147,512 | (29,322) | 96,226 | 2,859 | ^72.0% |
-| EPS (Before Exceptional Items) [₹]* | 15.42 | 13.18 | 10.96 | 7.16 | 4.46 | ^36.4% |
+| PBT (Before Exceptional Items) | 12,871 | 11,304 | 9,107 | 5,893 | 3,570 | 37.8% |
+| Total Comprehensive Income/(Loss) | 25,023 | 147,512 | (29,322) | 96,226 | 2,859 | 72.0% |
+| EPS (Before Exceptional Items) [₹]* | 15.42 | 13.18 | 10.96 | 7.16 | 4.46 | 36.4% |
 | Investments in Bank Fixed Deposits and Mutual Funds | 44,660 | 38,181 | 31,379 | 35,032 | 33,828 |  |
 | Net Worth | 277,013 | 254,763 | 109,265 | 139,721 | 44,925 |  |
 
-*Earnings per share is before exceptional items (net of taxes and deferred taxes) on a post share- split basis
+*Earnings per share is before exceptional items (net of taxes and deferred taxes) on a post share-split basis
 
 ### SEGMENT-WISE FIVE-YEAR PERFORMANCE — STANDALONE
-
-(₹ Mn)
 
 | Particulars | FY25 | FY24 | FY23 | FY22 | FY21 | CAGR |
 |---|---:|---:|---:|---:|---:|---:|
 | Billings |  |  |  |  |  |  |
-| Recruitment | 21,577 | 18,832 | 18,587 | 14,364 | 8,320 | ^26.9% |
-| Real Estate | 4,507 | 3,851 | 3,116 | 2,312 | 1,848 | ^25.0% |
-| Matchmaking | 1,109 | 846 | 721¹ | 1,019 | 1,004 | ^2.5% |
-| Education | 1,624 | 1,430 | 1,239 | 965 | 586 | ^29.0% |
-| Total | 28,817 | 24,959 | 23,663 | 18,660 | 11,758 | ^25.1% |
+| Recruitment | 21,577 | 18,832 | 18,587 | 14,364 | 8,320 | 26.9% |
+| Real Estate | 4,507 | 3,851 | 3,116 | 2,312 | 1,848 | 25.0% |
+| Matchmaking | 1,109 | 846 | 721¹ | 1,019 | 1,004 | 2.5% |
+| Education | 1,624 | 1,430 | 1,239 | 965 | 586 | 29.0% |
+| Total | 28,817 | 24,959 | 23,663 | 18,660 | 11,758 | 25.1% |
 | Net Revenue |  |  |  |  |  |  |
-| Recruitment | 19,826 | 18,053 | 16,796 | 11,542 | 8,004 | ^25.5% |
-| Real Estate | 4,108 | 3,513 | 2,845 | 2,173 | 1,738 | ^24.0% |
-| Matchmaking | 1,098 | 853 | 776¹ | 1,002 | 969 | ^3.2% |
-| Education | 1,504 | 1,391 | 1,169 | 907 | 570 | ^27.5% |
-| Total | 26,536 | 23,810 | 21,586 | 15,625 | 11,280 | ^23.8% |
+| Recruitment | 19,826 | 18,053 | 16,796 | 11,542 | 8,004 | 25.5% |
+| Real Estate | 4,108 | 3,513 | 2,845 | 2,173 | 1,738 | 24.0% |
+| Matchmaking | 1,098 | 853 | 776¹ | 1,002 | 969 | 3.2% |
+| Education | 1,504 | 1,391 | 1,169 | 907 | 570 | 27.5% |
+| Total | 26,536 | 23,810 | 21,586 | 15,625 | 11,280 | 23.8% |
 | Operating Profit Before Tax |  |  |  |  |  |  |
-| Recruitment | 11,164 | 10,509 | 10,060 | 6,573 | 4,127 | ^28.2% |
+| Recruitment | 11,164 | 10,509 | 10,060 | 6,573 | 4,127 | 28.2% |
 | Real Estate | (475) | (688) | (1,185) | (896) | (357) | NA |
 | Matchmaking | (118) | (587) | (1,054) | (1,253) | (1,014) | NA |
 | Education | (5) | 28 | 35 | 160 | 4 | NA |
-| Total² | 9,733 | 8,712 | 7,356 | 4,190 | 2,380 | ^42.2% |
+| Total² | 9,733 | 8,712 | 7,356 | 4,190 | 2,380 | 42.2% |
 
 ¹Net revenue and billings experienced a temporary decline following a strategic shift, as Jeevansathi transitioned to a freemium model  
 ²The total operating PBT factors in unallocated expenses as well
@@ -360,134 +394,250 @@ Info Edge is committed to building enduring stakeholder trust by aligning its in
 
 ## PROFIT GENERATION BY INFO EDGE (₹ Mn)
 
-[Figure: Sankey-style flow diagram showing how Info Edge’s revenue from operations is split into business segments and then flows into operating profit/expenses and finally net profit. On the left, a revenue split shows Recruitment 19,826, Real Estate 4,108, Matchmaking 1,098, and Education 1,504 feeding into Revenue from operations 26,536. This then divides into Operating Profit 9,733 and Operating Expenses 16,803. Operating Profit further flows to Net Profit 7,734, with separate outflows shown for Tax 5,701 and Exceptional Items 564, while Other Income 3,138 also feeds into Net Profit. Operating Expenses branch into Employee Benefits Expenses 10,815, Advertising and Promotion Costs 3,125, Depreciation and Amortisation 801, Other Expenses 1,340, Network, Internet and Other Direct Expenses 532, and Finance Costs 191. The diagram uses thick colored bands to show magnitude, with purple tones for revenue/other income/net profit, blue tones for revenue and expenses, and pink accents for tax/exceptional items.]
+[Figure: Sankey-style flow diagram showing how profit is generated from business segments. It has a left-to-right causal flow with revenue split feeding revenue from operations, which then splits into operating profit and operating expenses, and finally into net profit and expense categories.
+- Revenue split on the left shows four sources: Recruitment (19,826), Real Estate (4,108), Matchmaking (1,098), and Education (1,504).
+- These combine into Revenue from operations of 26,536.
+- Revenue from operations splits into Operating Profit (9,733) and Operating Expenses (16,803).
+- Operating Profit further flows into Net Profit (7,734), Tax (5,701), and Exceptional Items (564), with Other Income (3,138) also feeding into net profit.
+- Operating Expenses break down into Employee Benefits Expenses (10,815), Advertising and Promotion Costs (3,125), Depreciation and Amortisation (801), Other Expenses (1,340), Network, Internet and Other Direct Expenses (532), and Finance Costs (191).
+- The diagram uses band thickness to indicate magnitude and shows the hierarchy of revenue, profit, and expense components.]
 
 ## NET REVENUE (₹ Mn)
 
-[Figure: Stacked bar chart of net revenue by FY21 to FY25. The x-axis shows FY21, FY22, FY23, FY24, FY25; values are displayed above the bars as 11,280, 15,625, 21,586, 23,810, and 26,536. Each stacked bar breaks down into Recruitment, Real Estate, Matchmaking, and Education, with the totals dominated by Recruitment. Segment values shown on the bars are: FY21 Recruitment 8,004, Real Estate 1,738, Matchmaking 969, Education 570; FY22 Recruitment 11,542, Real Estate 2,173, Matchmaking 1,002, Education 907; FY23 Recruitment 16,796, Real Estate 2,845, Matchmaking 776, Education 1,169; FY24 Recruitment 18,053, Real Estate 3,513, Matchmaking 853, Education 1,391; FY25 Recruitment 19,826, Real Estate 4,108, Matchmaking 1,098, Education 1,504. A legend identifies the colors: Recruitment, Real Estate, Matchmaking, Education, and Total net revenue. On the right, circular CAGR callouts show 27.5%, 3.2%, 24.0%, and 25.5%.]
+[Figure: Stacked bar chart of net revenue by fiscal year from FY21 to FY25, measured in ₹ Mn.
+- The y-axis is net revenue in ₹ Mn.
+- The x-axis shows FY21, FY22, FY23, FY24, and FY25.
+- Each bar is stacked by business segments: Recruitment, Real Estate, Matchmaking, and Education.
+- Total net revenue increases across the period, with CAGR shown as 23.8%.
+- Totals shown above the bars are 11,280; 15,625; 21,586; 23,810; and 26,536.]
+
+| Fiscal Year | Recruitment | Real Estate | Matchmaking | Education | Total net revenue |
+|---|---:|---:|---:|---:|---:|
+| FY21 | 8,004 | 1,738 | 969 | 570 | 11,280 |
+| FY22 | 11,542 | 2,173 | 1,002 | 907 | 15,625 |
+| FY23 | 16,796 | 2,845 | 776 | 1,169 | 21,586 |
+| FY24 | 18,053 | 3,513 | 853 | 1,391 | 23,810 |
+| FY25 | 19,826 | 4,108 | 1,098 | 1,504 | 26,536 |
 
 ## MARKETING EXPENSE AS A % OF RESPECTIVE BUSINESS' NET REVENUES (%)
 
-[Figure: Line chart with three series across FY21 to FY25 showing marketing expense percentages. Recruitment is the dark blue line rising from 1.0% to 2.2%, 3.8%, 4.5%, and 5.4%. Non-recruitment is the purple line falling from 47.6% to 57.3%, 45.8%, 29.4%, and 26.4% after peaking in FY22. Total is the gray line at 14.6%, 16.6%, 13.1%, 10.5%, and 10.7%. The x-axis labels are FY21, FY22, FY23, FY24, FY25; markers and data labels are shown at each point. The legend at the bottom identifies Recruitment, Non-recruitment, and Total.]
+[Figure: Line chart tracking marketing expense as a percentage of respective business net revenues across FY21 to FY25.
+- The y-axis measures percentage (%).
+- The x-axis spans FY21 to FY25.
+- There are three series: Recruitment, Non-recruitment, and Total.
+- Visible labeled values:
+  - Recruitment: 1.0%, 2.2%, 3.8%, 4.5%, 5.4%
+  - Non-recruitment: 47.6%, 57.3%, 45.8%, 29.4%, 26.4%
+  - Total: 14.6%, 16.6%, 13.1%, 10.5%, 10.7%
+- No dual axis is shown.
+- Summary metric shown: CAGR 25.1% appears on the related chart area, but this line chart itself is percent-based.]
+
+| Series | FY21 | FY22 | FY23 | FY24 | FY25 |
+|---|---:|---:|---:|---:|---:|
+| Recruitment | 1.0% | 2.2% | 3.8% | 4.5% | 5.4% |
+| Non-recruitment | 47.6% | 57.3% | 45.8% | 29.4% | 26.4% |
+| Total | 14.6% | 16.6% | 13.1% | 10.5% | 10.7% |
 
 ## BILLINGS (₹ Mn)
 
-[Figure: Stacked bar chart of billings by FY21 to FY25. The x-axis shows FY21, FY22, FY23, FY24, FY25; total billings are labeled above the bars as 11,758, 18,660, 23,663, 24,959, and 28,817. Segment values shown on the bars are: FY21 Recruitment 8,320, Real Estate 1,848, Matchmaking 1,004, Education 586; FY22 Recruitment 14,364, Real Estate 2,312, Matchmaking 1,019, Education 965; FY23 Recruitment 18,587, Real Estate 3,116, Matchmaking 721, Education 1,239; FY24 Recruitment 18,832, Real Estate 3,851, Matchmaking 846, Education 1,430; FY25 Recruitment 21,577, Real Estate 4,507, Matchmaking 1,109, Education 1,624. A legend at the bottom identifies the same color coding for Recruitment, Real Estate, Matchmaking, Education, and Total Billings. On the right, circular CAGR callouts show 29.0%, 2.5%, 25.0%, and 26.9%.]
+[Figure: Stacked bar chart of billings by fiscal year from FY21 to FY25, measured in ₹ Mn.
+- The y-axis is billings in ₹ Mn.
+- The x-axis shows FY21, FY22, FY23, FY24, and FY25.
+- Each bar is stacked by business segments: Recruitment, Real Estate, Matchmaking, and Education.
+- Total billings rise over time, with CAGR shown as 25.1%.
+- Totals shown above the bars are 11,758; 18,660; 23,663; 24,959; and 28,817.]
+
+| Fiscal Year | Recruitment | Real Estate | Matchmaking | Education | Total Billings |
+|---|---:|---:|---:|---:|---:|
+| FY21 | 8,320 | 1,848 | 1,004 | 586 | 11,758 |
+| FY22 | 14,364 | 2,312 | 1,019 | 965 | 18,660 |
+| FY23 | 18,587 | 3,116 | 721 | 1,239 | 23,663 |
+| FY24 | 18,832 | 3,851 | 846 | 1,430 | 24,959 |
+| FY25 | 21,577 | 4,507 | 1,109 | 1,624 | 28,817 |
 
 
 ## Page 11
 
 # infoedge
 
-Operating PBT (₹ Mn)
+## OPERATING PBT (₹ Mn)
 
-[Figure: Stacked bar chart titled “OPERATING PBT (₹ Mn)” showing FY21 to FY25. The x-axis categories are FY21, FY22, FY23, FY24, and FY25. The chart is a stacked column chart with five color-coded components: Recruitment (dark blue), Real Estate (light purple), Matchmaking (pink), Education (light blue), and Total (very light gray in top labels). A top band shows total values 2,380, 4,190, 7,356, 8,712, and 9,733. The visible component labels by year are FY21: 4 and 4,127 above the positive stack, with negative components (357) and (1,014) below zero; FY22: 160, 6,573, (896), (1,253); FY23: 35, 10,060, (1,185), (1,054); FY24: 28, 10,509, (688), (587); FY25: 11,164, (475), (118), and (5). A CAGR of 42.2% is shown at top right. The bars rise strongly over time, with positive operating PBT increasing and losses/negative components generally shrinking relative to the total.]
+[Figure: Stacked bar chart showing Operating PBT in ₹ Mn across FY21 to FY25. The y-axis is Operating PBT values by business segment, with stacked components for Recruitment, Real Estate, Matchmaking, and Education, and a total shown above each year. A CAGR of 42.2% is shown.]
 
-Operating PBT Margins (%)
+| Series | FY21 | FY22 | FY23 | FY24 | FY25 |
+|---|---:|---:|---:|---:|---:|
+| Recruitment | 4,127 | 6,573 | 10,060 | 10,509 | 11,164 |
+| Real Estate | 0 | 0 | 0 | 0 | 0 |
+| Matchmaking | (1,014) | (1,253) | (1,054) | (587) | (118) |
+| Education | 4 | 160 | 35 | 28 | 5 |
+| Total | 2,380 | 4,190 | 7,356 | 8,712 | 9,733 |
 
-[Figure: Two-line chart titled “OPERATING PBT MARGINS (%)” for FY21 to FY25. The x-axis categories are FY21, FY22, FY23, FY24, FY25. Two series are shown: Recruitment (dark blue line with circular markers) and Total Standalone (light purple line with circular markers). Recruitment margin values are 51.6%, 56.9%, 59.9%, 58.2%, and 56.3%. Total Standalone margin values are 21.1%, 26.8%, 34.1%, 36.6%, and 36.7%. The recruitment margin peaks at FY23 and then eases slightly, while total standalone margin rises steadily across the period.]
+## OPERATING PBT MARGINS (%)
 
-Non-recruitment business performance
+[Figure: Line chart showing Operating PBT margins in percent across FY21 to FY25. Two series are plotted: Recruitment and Total Standalone. The Recruitment line stays above the Total Standalone line throughout. No dual axis is shown. The visible values are 51.6%, 56.9%, 59.9%, 58.2%, 56.3% for Recruitment and 21.1%, 26.8%, 34.1%, 36.6%, 36.7% for Total Standalone.]
 
-Billings (₹ Mn)
+| Series | FY21 | FY22 | FY23 | FY24 | FY25 |
+|---|---:|---:|---:|---:|---:|
+| Recruitment | 51.6% | 56.9% | 59.9% | 58.2% | 56.3% |
+| Total Standalone | 21.1% | 26.8% | 34.1% | 36.6% | 36.7% |
 
-[Figure: Vertical bar chart titled “BILLINGS (₹ Mn)” comparing FY24 and FY25. FY24 is 6,127 and FY25 is 7,240. A YoY change callout shows 18.2% upward change. FY25 is shown in darker blue and FY24 in light lavender. The chart indicates growth in billings year over year.]
+**Inflection log**
+- **Recruitment**
+  - FY21 to FY23: rose from 51.6% to 59.9%, reaching a peak in FY23.
+  - FY23 to FY25: declined from 59.9% to 56.3%, indicating a mild softening after the peak.
+- **Total Standalone**
+  - FY21 to FY23: increased steadily from 21.1% to 34.1%, with the sharpest rise by FY23.
+  - FY23 to FY25: growth slowed, moving from 34.1% to 36.7% and nearly flattening by FY25.
+- **Relationship between series**
+  - Recruitment remained above Total Standalone in every year shown; no crossover occurred.
+  - The gap narrowed over time as Total Standalone improved faster than Recruitment.
 
-Cash profits / (losses) from operations (₹ Mn)
+## NON-RECRUITMENT BUSINESS PERFORMANCE
 
-[Figure: Small two-bar chart titled “CASH PROFITS / (LOSSES) FROM OPERATIONS (₹ Mn)” comparing FY24 and FY25. FY24 is a negative value of (439) shown below the zero line in light lavender. FY25 is a positive value of 206 shown above the zero line in dark blue. A callout shows a 147.0% increase. The chart highlights a turnaround from loss to profit.]
+### BILLINGS (₹ Mn)
 
-Profit after taxes (before exceptional items) (₹ Mn)
+[Figure: Simple bar chart comparing billings in ₹ Mn for FY24 and FY25. FY24 is 6,127 and FY25 is 7,240. A YoY increase of 18.2% is shown.]
 
-[Figure: Vertical bar chart titled “PROFIT AFTER TAXES (BEFORE EXCEPTIONAL ITEMS) (₹ Mn)” showing FY21 to FY25. Values are FY21 2,817; FY22 4,497; FY23 7,059; FY24 8,502; FY25 7,170. A CAGR of 26.3% is shown at top right. Bars are light lavender for FY21–FY24 and dark blue for FY25. The trend rises strongly through FY24 and then dips in FY25.]
+| Series | FY24 | FY25 | YoY change |
+|---|---:|---:|---:|
+| Billings | 6,127 | 7,240 | 18.2% |
 
-Earnings per share* (₹)
+### CASH PROFITS / (LOSSES) FROM OPERATIONS (₹ Mn)
 
-[Figure: Vertical bar chart titled “EARNINGS PER SHARE* (₹)” showing FY21 to FY25. Values are FY21 4.46; FY22 7.16; FY23 10.96; FY24 13.18; FY25 15.42. A CAGR of 36.4% is shown at top right. Bars are light lavender for FY21–FY24 and dark blue for FY25. The chart shows a steady year-on-year increase.]
+[Figure: Simple bar chart comparing cash profits / losses from operations in ₹ Mn for FY24 and FY25. FY24 is (439) and FY25 is 206. A YoY increase of 147.0% is shown.]
 
-Cash from operations (before taxes) (₹ Mn)
+| Series | FY24 | FY25 | YoY change |
+|---|---:|---:|---:|
+| Cash profits / (losses) from operations | (439) | 206 | 147.0% |
 
-[Figure: Stacked bar chart titled “CASH FROM OPERATIONS (BEFORE TAXES) (₹ Mn)” showing FY21 to FY25. The x-axis categories are FY21, FY22, FY23, FY24, FY25. A top band shows total values 3,809; 9,074; 10,385; 11,347; and 13,176. The stacked components are Recruitment (dark blue), Real Estate (light purple), Matchmaking (pink), Education (light blue), and Total* (very light gray in the legend). Visible component labels include FY21: 112, 4,919, (877), and 102; FY22: 326, 10,225, (967), (267); FY23: 211, 12,450, (1,262), (722); FY24: 243, 12,082, (552), (131); FY25: 259, 25, 13,445, and (77). The bars are mostly positive with small negative portions below the baseline for some years. A CAGR of 36.4% is shown at top right. Footnote: “*The total cash from operations (before taxes) factors in unallocated cash expenses as well”.]
+## PROFIT AFTER TAXES (BEFORE EXCEPTIONAL ITEMS) (₹ Mn)
+
+[Figure: Bar chart showing Profit After Taxes (Before Exceptional Items) in ₹ Mn across FY21 to FY25. Values rise from 2,817 to 8,502, then end at 7,170 in FY25. A CAGR of 26.3% is shown.]
+
+| Series | FY21 | FY22 | FY23 | FY24 | FY25 |
+|---|---:|---:|---:|---:|---:|
+| Profit after taxes (before exceptional items) | 2,817 | 4,497 | 7,059 | 8,502 | 7,170 |
+
+## EARNINGS PER SHARE* (₹)
+
+[Figure: Bar chart showing Earnings Per Share in ₹ across FY21 to FY25. Values rise steadily from 4.46 to 15.42. A CAGR of 36.4% is shown.]
+
+| Series | FY21 | FY22 | FY23 | FY24 | FY25 |
+|---|---:|---:|---:|---:|---:|
+| Earnings per share | 4.46 | 7.16 | 10.96 | 13.18 | 15.42 |
+
+## CASH FROM OPERATIONS (BEFORE TAXES) (₹ Mn)
+
+[Figure: Stacked bar chart showing Cash from operations before taxes in ₹ Mn across FY21 to FY25. The stacked components are Recruitment, Real Estate, Matchmaking, and Education, with a total shown above each year. A CAGR of 36.4% is shown.]
+
+| Series | FY21 | FY22 | FY23 | FY24 | FY25 |
+|---|---:|---:|---:|---:|---:|
+| Recruitment | 4,919 | 10,225 | 12,450 | 12,082 | 13,445 |
+| Real Estate | 0 | 0 | 0 | 0 | 0 |
+| Matchmaking | (877) | (967) | (1,262) | (552) | (77) |
+| Education | 112 | 326 | 211 | 243 | 25 |
+| Total* | 3,809 | 9,074 | 10,385 | 11,347 | 13,176 |
 
 
 ## Page 12
 
 # infoedge
 
-**CASH GENERATION AS A % OF BILLINGS (₹ Mn/%)**
+## CASH GENERATION AS A % OF BILLINGS (₹ Mn/%)
 
-FY21 11,758 — 32.4%  
-FY22 18,660 — 48.6%  
-FY23 23,663 — 43.9%  
-FY24 24,959 — 45.5%  
-FY25 28,817 — 45.7%
+[Figure: A stacked bar chart showing Cash from Operations (before Taxes) as a % of Billings across FY21 to FY25, with Total Billings shown as the base/total for each year. The x-axis lists FY21, FY22, FY23, FY24, and FY25. The chart labels the top values as 11,758, 18,660, 23,663, 24,959, and 28,817 respectively. The percentage labels above the bars are 32.4%, 48.6%, 43.9%, 45.5%, and 45.7%. The legend shows two components: Cash from Operations (before Taxes) as a % of Billings and Total Billings.]
 
-**DIVIDEND PAID (₹ Mn)**
+| FY | Cash from Operations (before Taxes) as a % of Billings | Total Billings |
+|---|---:|---:|
+| FY21 | 32.4% | 11,758 |
+| FY22 | 48.6% | 18,660 |
+| FY23 | 43.9% | 23,663 |
+| FY24 | 45.5% | 24,959 |
+| FY25 | 45.7% | 28,817 |
 
-FY21 1,030  
-FY22 1,675  
-FY23 2,452  
-FY24 2,846  
-FY25 3,887  
-CAGR 39.4%
+## DIVIDEND PAID (₹ Mn)
 
-**DIVIDEND PER SHARE & DIVIDEND PAYOUT RATIO (₹/%)**
+[Figure: A vertical bar chart showing Dividend Paid in ₹ Mn across FY21 to FY25. The x-axis lists FY21, FY22, FY23, FY24, and FY25. The bar labels are 1,030, 1,675, 2,452, 2,846, and 3,887 respectively. A CAGR value of 39.4% is shown on the right.]
 
-FY21 1.6 — 35.8%  
-FY22 2.6 — 36.3%  
-FY23 3.8 — 34.7%  
-FY24 4.4 — 33.4%  
-FY25 6.0 — 38.9%  
-CAGR 39.2%
+| FY | Dividend Paid (₹ Mn) |
+|---|---:|
+| FY21 | 1,030 |
+| FY22 | 1,675 |
+| FY23 | 2,452 |
+| FY24 | 2,846 |
+| FY25 | 3,887 |
 
-Note: Dividend per share adjusted for post split number of shares. *CAGR is for dividend per share
+## DIVIDEND PER SHARE & DIVIDEND PAYOUT RATIO (₹/%)
 
-**PERMANENT EMPLOYEE COUNT* (Nos.)**
+[Figure: A combined bar chart showing Dividend per Share and Dividend Payout Ratio across FY21 to FY25. The x-axis lists FY21, FY22, FY23, FY24, and FY25. Dividend per Share values are 1.6, 2.6, 3.8, 4.4, and 6.0. Dividend Payout Ratio values are shown as 35.8%, 36.3%, 34.7%, 33.4%, and 38.9%. A CAGR value of 39.2% is shown on the right. The legend shows Dividend per Share and Dividend Payout Ratio.]
 
-FY21 4,464  
-FY22 4,805  
-FY23 5,311  
-FY24 5,750  
-FY25 6,065  
-*Including Zwayam and Deselect employees
+| FY | Dividend per Share | Dividend Payout Ratio |
+|---|---:|---:|
+| FY21 | 1.6 | 35.8% |
+| FY22 | 2.6 | 36.3% |
+| FY23 | 3.8 | 34.7% |
+| FY24 | 4.4 | 33.4% |
+| FY25 | 6.0 | 38.9% |
 
-**STANDALONE BALANCE SHEET**
+Note: Dividend per share adjusted for post split number of shares  *CAGR is for dividend per share
 
-Assets  
-FY25: 4.9%, 10.7%, 84.4%  
-FY24: 3.8%, 11.3%, 84.9%
+## PERMANENT EMPLOYEE COUNT* (Nos.)
 
-Particulars (₹ Mn)  
-- Investments — FY25 276,139; FY24 248,916  
-- Cash and Cash Equivalent — FY25 35,106; FY24 33,117  
-- Other Operating Assets — FY25 15,867; FY24 11,004
+[Figure: A vertical bar chart showing Permanent Employee Count in number of employees across FY21 to FY25. The x-axis lists FY21, FY22, FY23, FY24, and FY25. The bar labels are 4,464, 4,805, 5,311, 5,750, and 6,065. A footnote states: *Including Zwayam and Doselect employees.]
 
-Liabilities  
-FY25: 11.2%, 4.2%, 84.7%  
-FY24: 9.2%, 3.9%, 86.9%
+| FY | Permanent Employee Count (Nos.) |
+|---|---:|
+| FY21 | 4,464 |
+| FY22 | 4,805 |
+| FY23 | 5,311 |
+| FY24 | 5,750 |
+| FY25 | 6,065 |
 
-Particulars (₹ Mn)  
-- Shareholder's Equity — FY25 277,013; FY24 254,763  
-- Deferred Revenue/Customer Advance — FY25 13,590; FY24 11,387  
-- Other Liabilities & Provisions — FY25 36,509; FY24 26,888
+## STANDALONE BALANCE SHEET
 
-**CONSOLIDATED BALANCE SHEET**
+[Figure: A system-style balance sheet diagram with two side-by-side donut charts for Assets and Liabilities, comparing FY25 and FY24. It shows the compositional breakdown of each side with a legend and a small table of particulars below each chart.]
 
-Assets  
-FY25: 4.8%, 9.1%, 86.1%  
-FY24: 4.2%, 10.3%, 85.5%
+### Assets
+- FY25: 4.9%, 10.7%, 84.4%
+- FY24: 3.8%, 11.3%, 84.9%
 
-Particulars (₹ Mn)  
-- Investments — FY25 368,351; FY24 308,459  
-- Cash and Cash Equivalent — FY25 39,031; FY24 37,172  
-- Other Operating Assets — FY25 20,332; FY24 15,277
+| Particulars (₹ Mn) | FY25 | FY24 |
+|---|---:|---:|
+| Investments | 276,139 | 248,916 |
+| Cash and Cash Equivalent | 35,106 | 33,117 |
+| Other Operating Assets | 15,867 | 11,004 |
 
-Liabilities  
-FY25: 10.7%, 3.2%, 4.5%, 81.6%  
-FY24: 9.1%, 3.2%, 3.8%, 83.9%
+### Liabilities
+- FY25: 11.2%, 4.2%, 84.7%
+- FY24: 9.2%, 3.9%, 86.9%
 
-Particulars (₹ Mn)  
-- Shareholder's Equity — FY25 349,031; FY24 302,623  
-- Non-controlling Interest — FY25 19,133; FY24 13,662  
-- Deferred Revenue/Customer Advance — FY25 13,886; FY24 11,623  
-- Other Liabilities & Provisions — FY25 45,663; FY24 33,000
+| Particulars (₹ Mn) | FY25 | FY24 |
+|---|---:|---:|
+| Shareholder's Equity | 277,013 | 254,763 |
+| Deferred Revenue/Customer Advance | 13,590 | 11,387 |
+| Other Liabilities & Provisions | 36,509 | 26,888 |
+
+## CONSOLIDATED BALANCE SHEET
+
+[Figure: A system-style balance sheet diagram with two side-by-side donut charts for Assets and Liabilities, comparing FY25 and FY24. It shows the compositional breakdown of each side with a legend and a small table of particulars below each chart.]
+
+### Assets
+- FY25: 4.8%, 9.1%, 86.1%
+- FY24: 4.2%, 10.3%, 85.5%
+
+| Particulars (₹ Mn) | FY25 | FY24 |
+|---|---:|---:|
+| Investments | 368,351 | 308,459 |
+| Cash and Cash Equivalent | 39,031 | 37,172 |
+| Other Operating Assets | 20,332 | 15,277 |
+
+### Liabilities
+- FY25: 10.7%, 3.2%, 4.5%, 81.6%
+- FY24: 9.1%, 3.2%, 3.8%, 83.9%
+
+| Particulars (₹ Mn) | FY25 | FY24 |
+|---|---:|---:|
+| Shareholder's Equity | 349,031 | 302,623 |
+| Non-controlling Interest | 19,133 | 13,662 |
+| Deferred Revenue/Customer Advance | 13,886 | 11,623 |
+| Other Liabilities & Provisions | 45,663 | 33,000 |
